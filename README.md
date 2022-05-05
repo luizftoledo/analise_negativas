@@ -13,5 +13,5 @@ A CGU disponibiliza 2 tipos de planilha: "pedidos", com informações específic
 Consideramos, em todos os casos, a data da resposta, e não do pedido, para as análises.
 
 
-Para ver a análise em formato de relatório, clique [aqui](https://docs.google.com/document/d/1QcqkjLNpWO_L0uJj9sBhbKaoaLpWyWkwRFa9-dKU0Tc/edit). 
+Para ver a análise em formato de texto, clique [aqui](https://fiquemsabendo.substack.com/). 
 Para ver a análise de dados no Python, clique [aqui](https://github.com/luizftoledo/analise_negativas/blob/main/analise_negativas_lai_fiquem_sabendo_19_abril_2022.ipynb)
