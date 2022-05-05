@@ -1,0 +1,1862 @@
+,Unnamed: 0,index,ano_resposta_x,ano_resposta_y,pct_negadas,nome_do_orgao
+0,0,2013.0,165,3,0.0181818181818181,"VALEC – Engenharia, Construções e Ferrovias S.A."
+1,1,2014.0,206,5,0.0242718446601941,"VALEC – Engenharia, Construções e Ferrovias S.A."
+2,2,2015.0,376,120,0.3191489361702128,"VALEC – Engenharia, Construções e Ferrovias S.A."
+3,3,2016.0,400,11,0.0275,"VALEC – Engenharia, Construções e Ferrovias S.A."
+4,4,2017.0,178,17,0.095505617977528,"VALEC – Engenharia, Construções e Ferrovias S.A."
+5,5,2018.0,158,9,0.0569620253164556,"VALEC – Engenharia, Construções e Ferrovias S.A."
+6,6,2019.0,203,14,0.0689655172413793,"VALEC – Engenharia, Construções e Ferrovias S.A."
+7,7,2020.0,265,59,0.2226415094339622,"VALEC – Engenharia, Construções e Ferrovias S.A."
+8,8,2021.0,101,14,0.1386138613861386,"VALEC – Engenharia, Construções e Ferrovias S.A."
+0,0,2013.0,7582,1418,0.1870218939593774,INSS – Instituto Nacional do Seguro Social
+1,1,2014.0,5187,1485,0.2862926547137073,INSS – Instituto Nacional do Seguro Social
+2,2,2015.0,4276,804,0.1880261927034612,INSS – Instituto Nacional do Seguro Social
+3,3,2016.0,6144,657,0.10693359375,INSS – Instituto Nacional do Seguro Social
+4,4,2017.0,7061,890,0.1260444696218665,INSS – Instituto Nacional do Seguro Social
+5,5,2018.0,9023,892,0.0988584727917544,INSS – Instituto Nacional do Seguro Social
+6,6,2019.0,5078,568,0.1118550610476565,INSS – Instituto Nacional do Seguro Social
+7,7,2020.0,5960,898,0.1506711409395973,INSS – Instituto Nacional do Seguro Social
+8,8,2021.0,5936,420,0.070754716981132,INSS – Instituto Nacional do Seguro Social
+0,0,2013.0,2231,18,0.0080681308830121,MEC – Ministério da Educação
+1,1,2014.0,3015,30,0.0099502487562189,MEC – Ministério da Educação
+2,2,2015.0,3144,77,0.0244910941475826,MEC – Ministério da Educação
+3,3,2016.0,2511,114,0.045400238948626,MEC – Ministério da Educação
+4,4,2017.0,2531,60,0.0237060450414855,MEC – Ministério da Educação
+5,5,2018.0,2524,80,0.0316957210776545,MEC – Ministério da Educação
+6,6,2019.0,3590,168,0.0467966573816156,MEC – Ministério da Educação
+7,7,2020.0,3447,244,0.0707861908906295,MEC – Ministério da Educação
+8,8,2021.0,2977,147,0.049378569029224,MEC – Ministério da Educação
+0,0,2013.0,159,2,0.0125786163522012,UNIFESP – Universidade Federal de São Paulo
+1,1,2014.0,143,5,0.0349650349650349,UNIFESP – Universidade Federal de São Paulo
+2,2,2015.0,111,4,0.036036036036036,UNIFESP – Universidade Federal de São Paulo
+3,3,2016.0,148,3,0.0202702702702702,UNIFESP – Universidade Federal de São Paulo
+4,4,2017.0,217,4,0.0184331797235023,UNIFESP – Universidade Federal de São Paulo
+5,5,2018.0,260,22,0.0846153846153846,UNIFESP – Universidade Federal de São Paulo
+6,6,2019.0,295,21,0.0711864406779661,UNIFESP – Universidade Federal de São Paulo
+7,7,2020.0,286,16,0.0559440559440559,UNIFESP – Universidade Federal de São Paulo
+8,8,2021.0,226,16,0.0707964601769911,UNIFESP – Universidade Federal de São Paulo
+0,0,2014.0,140,1,0.0071428571428571,IPEA – Fundação Instituto de Pesquisa Econômica Aplicada
+1,1,2015.0,67,3,0.044776119402985,IPEA – Fundação Instituto de Pesquisa Econômica Aplicada
+2,2,2018.0,116,5,0.043103448275862,IPEA – Fundação Instituto de Pesquisa Econômica Aplicada
+3,3,2019.0,155,5,0.032258064516129,IPEA – Fundação Instituto de Pesquisa Econômica Aplicada
+4,4,2020.0,147,2,0.0136054421768707,IPEA – Fundação Instituto de Pesquisa Econômica Aplicada
+0,0,2013.0,23,1,0.0434782608695652,IMBEL – Indústria de Material Bélico do Brasil
+1,1,2015.0,24,1,0.0416666666666666,IMBEL – Indústria de Material Bélico do Brasil
+2,2,2016.0,68,6,0.088235294117647,IMBEL – Indústria de Material Bélico do Brasil
+3,3,2017.0,58,3,0.0517241379310344,IMBEL – Indústria de Material Bélico do Brasil
+4,4,2018.0,39,1,0.0256410256410256,IMBEL – Indústria de Material Bélico do Brasil
+5,5,2019.0,63,3,0.0476190476190476,IMBEL – Indústria de Material Bélico do Brasil
+6,6,2020.0,54,9,0.1666666666666666,IMBEL – Indústria de Material Bélico do Brasil
+7,7,2021.0,92,3,0.0326086956521739,IMBEL – Indústria de Material Bélico do Brasil
+0,0,2013.0,195,24,0.123076923076923,DEPEN – Departamento Penitenciário Nacional
+1,1,2014.0,175,12,0.0685714285714285,DEPEN – Departamento Penitenciário Nacional
+2,2,2015.0,155,10,0.064516129032258,DEPEN – Departamento Penitenciário Nacional
+3,3,2016.0,215,7,0.0325581395348837,DEPEN – Departamento Penitenciário Nacional
+4,4,2017.0,374,3,0.0080213903743315,DEPEN – Departamento Penitenciário Nacional
+5,5,2018.0,374,3,0.0080213903743315,DEPEN – Departamento Penitenciário Nacional
+6,6,2019.0,494,11,0.0222672064777327,DEPEN – Departamento Penitenciário Nacional
+7,7,2020.0,455,30,0.0659340659340659,DEPEN – Departamento Penitenciário Nacional
+8,8,2021.0,369,22,0.059620596205962,DEPEN – Departamento Penitenciário Nacional
+0,0,2013.0,2725,136,0.0499082568807339,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+1,1,2014.0,2316,61,0.0263385146804835,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+2,2,2015.0,2427,70,0.0288421920065925,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+3,3,2016.0,1694,23,0.0135773317591499,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+4,4,2017.0,2170,164,0.0755760368663594,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+5,5,2018.0,2423,518,0.213784564589352,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+6,6,2019.0,3161,302,0.0955393862701676,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+7,7,2020.0,2421,135,0.0557620817843866,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+8,8,2021.0,3275,129,0.0393893129770992,INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+0,0,2013.0,2055,63,0.0306569343065693,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+1,1,2014.0,1777,58,0.0326392796848621,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+2,2,2015.0,1529,42,0.027468933943754,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+3,3,2016.0,1808,145,0.0801991150442477,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+4,4,2017.0,1635,71,0.0434250764525993,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+5,5,2018.0,1948,64,0.0328542094455852,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+6,6,2019.0,1632,70,0.0428921568627451,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+7,7,2020.0,23917,460,0.0192331814190742,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+8,8,2021.0,9789,277,0.0282970681377055,MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte)
+0,0,2013.0,7694,1186,0.1541460878606706,ME - Ministério da Economia
+1,1,2014.0,8513,1022,0.1200516856572301,ME - Ministério da Economia
+2,2,2015.0,15938,1271,0.0797465177563056,ME - Ministério da Economia
+3,3,2016.0,16354,1370,0.0837715543597896,ME - Ministério da Economia
+4,4,2017.0,16128,1509,0.0935639880952381,ME - Ministério da Economia
+5,5,2018.0,15056,1458,0.0968384697130712,ME - Ministério da Economia
+6,6,2019.0,10699,1557,0.1455276194036825,ME - Ministério da Economia
+7,7,2020.0,9088,1164,0.1280809859154929,ME - Ministério da Economia
+8,8,2021.0,7136,1228,0.1720852017937219,ME - Ministério da Economia
+0,0,2013.0,1653,84,0.0508166969147005,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+1,1,2014.0,1935,90,0.0465116279069767,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+2,2,2015.0,2278,114,0.0500438981562774,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+3,3,2016.0,2257,133,0.0589277802392556,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+4,4,2017.0,2487,119,0.047848813831926,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+5,5,2018.0,2311,118,0.0510601471224578,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+6,6,2019.0,3855,343,0.0889753566796368,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+7,7,2020.0,3248,292,0.0899014778325123,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+8,8,2021.0,2399,198,0.082534389328887,"MAPA – Ministério da Agricultura, Pecuária e Abastecimento"
+0,0,2014.0,121,4,0.0330578512396694,CONAB – Companhia Nacional de Abastecimento
+1,1,2015.0,144,6,0.0416666666666666,CONAB – Companhia Nacional de Abastecimento
+2,2,2016.0,145,1,0.0068965517241379,CONAB – Companhia Nacional de Abastecimento
+3,3,2017.0,155,7,0.0451612903225806,CONAB – Companhia Nacional de Abastecimento
+4,4,2018.0,225,14,0.0622222222222222,CONAB – Companhia Nacional de Abastecimento
+5,5,2019.0,212,23,0.1084905660377358,CONAB – Companhia Nacional de Abastecimento
+6,6,2020.0,217,15,0.0691244239631336,CONAB – Companhia Nacional de Abastecimento
+7,7,2021.0,161,11,0.0683229813664596,CONAB – Companhia Nacional de Abastecimento
+0,0,2013.0,1062,67,0.0630885122410546,CEX – Comando do Exército
+1,1,2014.0,2032,1171,0.5762795275590551,CEX – Comando do Exército
+2,2,2015.0,909,56,0.0616061606160616,CEX – Comando do Exército
+3,3,2016.0,779,117,0.1501925545571245,CEX – Comando do Exército
+4,4,2017.0,1112,197,0.1771582733812949,CEX – Comando do Exército
+5,5,2018.0,1002,94,0.0938123752495009,CEX – Comando do Exército
+6,6,2019.0,1031,90,0.08729388942774,CEX – Comando do Exército
+7,7,2020.0,1313,207,0.1576542269611576,CEX – Comando do Exército
+8,8,2021.0,1254,216,0.1722488038277512,CEX – Comando do Exército
+0,0,2013.0,443,49,0.110609480812641,MTur - Ministério do Turismo (Turismo e Cultura)
+1,1,2014.0,288,3,0.0104166666666666,MTur - Ministério do Turismo (Turismo e Cultura)
+2,2,2015.0,235,1,0.0042553191489361,MTur - Ministério do Turismo (Turismo e Cultura)
+3,3,2016.0,221,1,0.004524886877828,MTur - Ministério do Turismo (Turismo e Cultura)
+4,4,2017.0,257,1,0.0038910505836575,MTur - Ministério do Turismo (Turismo e Cultura)
+5,5,2019.0,334,5,0.0149700598802395,MTur - Ministério do Turismo (Turismo e Cultura)
+6,6,2020.0,458,11,0.0240174672489082,MTur - Ministério do Turismo (Turismo e Cultura)
+7,7,2021.0,516,12,0.0232558139534883,MTur - Ministério do Turismo (Turismo e Cultura)
+0,0,2013.0,1208,250,0.2069536423841059,DPF – Departamento de Polícia Federal
+1,1,2014.0,1051,197,0.1874405328258801,DPF – Departamento de Polícia Federal
+2,2,2015.0,1003,179,0.1784646061814556,DPF – Departamento de Polícia Federal
+3,3,2016.0,1181,283,0.239627434377646,DPF – Departamento de Polícia Federal
+4,4,2017.0,1611,305,0.1893234016139044,DPF – Departamento de Polícia Federal
+5,5,2018.0,1782,423,0.2373737373737373,DPF – Departamento de Polícia Federal
+6,6,2019.0,2098,365,0.1739752144899904,DPF – Departamento de Polícia Federal
+7,7,2020.0,2792,394,0.1411174785100286,DPF – Departamento de Polícia Federal
+8,8,2021.0,2481,315,0.1269649334945586,DPF – Departamento de Polícia Federal
+0,0,2013.0,805,17,0.0211180124223602,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+1,1,2014.0,836,6,0.0071770334928229,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+2,2,2015.0,708,10,0.0141242937853107,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+3,3,2016.0,988,30,0.0303643724696356,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+4,4,2017.0,1142,37,0.0323992994746059,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+5,5,2018.0,1147,23,0.020052310374891,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+6,6,2019.0,1545,50,0.0323624595469255,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+7,7,2020.0,1253,105,0.0837988826815642,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+8,8,2021.0,798,55,0.068922305764411,IBGE – Fundação Instituto Brasileiro de Geografia e Estatística
+0,0,2016.0,21,1,0.0476190476190476,"FUNDACENTRO – Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho"
+1,1,2017.0,52,3,0.0576923076923076,"FUNDACENTRO – Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho"
+2,2,2018.0,40,1,0.025,"FUNDACENTRO – Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho"
+3,3,2019.0,52,1,0.0192307692307692,"FUNDACENTRO – Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho"
+4,4,2021.0,51,1,0.0196078431372549,"FUNDACENTRO – Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho"
+0,0,2013.0,1781,175,0.0982594048287479,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+1,1,2014.0,1108,131,0.1182310469314079,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+2,2,2015.0,992,85,0.0856854838709677,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+3,3,2016.0,1210,167,0.1380165289256198,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+4,4,2017.0,1059,79,0.0745986779981114,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+5,5,2018.0,772,36,0.0466321243523316,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+6,6,2019.0,1231,91,0.0739236393176279,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+7,7,2020.0,1402,132,0.094151212553495,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+8,8,2021.0,461,10,0.0216919739696312,"MCTI – Ministério da Ciência, Tecnologia, Inovações"
+0,0,2013.0,276,3,0.0108695652173913,AN – Arquivo Nacional
+1,1,2014.0,206,2,0.0097087378640776,AN – Arquivo Nacional
+2,2,2015.0,204,1,0.0049019607843137,AN – Arquivo Nacional
+3,3,2018.0,587,21,0.0357751277683134,AN – Arquivo Nacional
+4,4,2019.0,569,9,0.015817223198594,AN – Arquivo Nacional
+5,5,2020.0,498,28,0.0562248995983935,AN – Arquivo Nacional
+6,6,2021.0,275,4,0.0145454545454545,AN – Arquivo Nacional
+0,0,2013.0,211,42,0.1990521327014218,FIOCRUZ – Fundação Oswaldo Cruz
+1,1,2014.0,146,15,0.1027397260273972,FIOCRUZ – Fundação Oswaldo Cruz
+2,2,2015.0,196,5,0.0255102040816326,FIOCRUZ – Fundação Oswaldo Cruz
+3,3,2016.0,160,11,0.06875,FIOCRUZ – Fundação Oswaldo Cruz
+4,4,2017.0,229,22,0.0960698689956331,FIOCRUZ – Fundação Oswaldo Cruz
+5,5,2018.0,227,16,0.0704845814977973,FIOCRUZ – Fundação Oswaldo Cruz
+6,6,2019.0,213,28,0.1314553990610328,FIOCRUZ – Fundação Oswaldo Cruz
+7,7,2020.0,239,28,0.1171548117154811,FIOCRUZ – Fundação Oswaldo Cruz
+8,8,2021.0,204,17,0.0833333333333333,FIOCRUZ – Fundação Oswaldo Cruz
+0,0,2013.0,2879,1569,0.5449808961444946,BACEN – Banco Central do Brasil
+1,1,2014.0,2562,1320,0.5152224824355972,BACEN – Banco Central do Brasil
+2,2,2015.0,2292,200,0.0872600349040139,BACEN – Banco Central do Brasil
+3,3,2016.0,2477,118,0.0476382721033508,BACEN – Banco Central do Brasil
+4,4,2017.0,3369,210,0.0623330365093499,BACEN – Banco Central do Brasil
+5,5,2018.0,2711,103,0.0379933603836222,BACEN – Banco Central do Brasil
+6,6,2019.0,2265,130,0.0573951434878587,BACEN – Banco Central do Brasil
+7,7,2020.0,2034,75,0.0368731563421828,BACEN – Banco Central do Brasil
+8,8,2021.0,1142,47,0.0411558669001751,BACEN – Banco Central do Brasil
+0,0,2014.0,152,48,0.3157894736842105,FBN – Fundação Biblioteca Nacional
+1,1,2015.0,80,3,0.0375,FBN – Fundação Biblioteca Nacional
+2,2,2016.0,51,2,0.0392156862745098,FBN – Fundação Biblioteca Nacional
+3,3,2019.0,95,4,0.0421052631578947,FBN – Fundação Biblioteca Nacional
+4,4,2020.0,49,3,0.0612244897959183,FBN – Fundação Biblioteca Nacional
+5,5,2021.0,43,1,0.0232558139534883,FBN – Fundação Biblioteca Nacional
+0,0,2013.0,170,14,0.0823529411764705,FUNASA – Fundação Nacional de Saúde
+1,1,2014.0,172,10,0.0581395348837209,FUNASA – Fundação Nacional de Saúde
+2,2,2017.0,315,12,0.0380952380952381,FUNASA – Fundação Nacional de Saúde
+3,3,2018.0,256,20,0.078125,FUNASA – Fundação Nacional de Saúde
+4,4,2019.0,286,31,0.1083916083916083,FUNASA – Fundação Nacional de Saúde
+5,5,2020.0,237,8,0.0337552742616033,FUNASA – Fundação Nacional de Saúde
+6,6,2021.0,145,9,0.0620689655172413,FUNASA – Fundação Nacional de Saúde
+0,0,2013.0,4679,71,0.0151741825176319,SUSEP – Superintendência de Seguros Privados
+1,1,2014.0,2444,47,0.0192307692307692,SUSEP – Superintendência de Seguros Privados
+2,2,2015.0,1969,49,0.0248857287963433,SUSEP – Superintendência de Seguros Privados
+3,3,2016.0,1801,68,0.0377568017767906,SUSEP – Superintendência de Seguros Privados
+4,4,2017.0,2340,56,0.0239316239316239,SUSEP – Superintendência de Seguros Privados
+5,5,2018.0,2192,81,0.0369525547445255,SUSEP – Superintendência de Seguros Privados
+6,6,2019.0,2481,51,0.0205562273276904,SUSEP – Superintendência de Seguros Privados
+7,7,2020.0,1786,20,0.0111982082866741,SUSEP – Superintendência de Seguros Privados
+8,8,2021.0,994,15,0.0150905432595573,SUSEP – Superintendência de Seguros Privados
+0,0,2013.0,833,26,0.0312124849939975,ANEEL – Agência Nacional de Energia Elétrica
+1,1,2014.0,6629,116,0.0174988686076331,ANEEL – Agência Nacional de Energia Elétrica
+2,2,2015.0,7351,260,0.0353693375051013,ANEEL – Agência Nacional de Energia Elétrica
+3,3,2016.0,3922,205,0.0522692503824579,ANEEL – Agência Nacional de Energia Elétrica
+4,4,2017.0,3580,266,0.0743016759776536,ANEEL – Agência Nacional de Energia Elétrica
+5,5,2018.0,3635,276,0.0759284731774415,ANEEL – Agência Nacional de Energia Elétrica
+6,6,2019.0,3548,316,0.089064261555806,ANEEL – Agência Nacional de Energia Elétrica
+7,7,2020.0,2690,280,0.104089219330855,ANEEL – Agência Nacional de Energia Elétrica
+8,8,2021.0,2604,359,0.1378648233486943,ANEEL – Agência Nacional de Energia Elétrica
+0,0,2013.0,142,1,0.0070422535211267,AEB – Agência Espacial Brasileira
+1,1,2014.0,111,5,0.045045045045045,AEB – Agência Espacial Brasileira
+2,2,2017.0,85,6,0.0705882352941176,AEB – Agência Espacial Brasileira
+3,3,2018.0,88,7,0.0795454545454545,AEB – Agência Espacial Brasileira
+4,4,2019.0,101,5,0.0495049504950495,AEB – Agência Espacial Brasileira
+5,5,2020.0,109,13,0.1192660550458715,AEB – Agência Espacial Brasileira
+0,0,2013.0,1160,63,0.0543103448275862,MINFRA - Ministério da Infraestrutura
+1,1,2014.0,935,64,0.0684491978609625,MINFRA - Ministério da Infraestrutura
+2,2,2015.0,947,67,0.0707497360084477,MINFRA - Ministério da Infraestrutura
+3,3,2016.0,1371,45,0.0328227571115973,MINFRA - Ministério da Infraestrutura
+4,4,2017.0,763,59,0.0773263433813892,MINFRA - Ministério da Infraestrutura
+5,5,2018.0,984,82,0.0833333333333333,MINFRA - Ministério da Infraestrutura
+6,6,2019.0,2217,182,0.0820929183581416,MINFRA - Ministério da Infraestrutura
+7,7,2020.0,1412,231,0.1635977337110481,MINFRA - Ministério da Infraestrutura
+8,8,2021.0,909,69,0.0759075907590759,MINFRA - Ministério da Infraestrutura
+0,0,2013.0,343,8,0.0233236151603498,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+1,1,2014.0,271,6,0.022140221402214,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+2,2,2015.0,329,32,0.0972644376899696,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+3,3,2016.0,337,18,0.0534124629080118,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+4,4,2017.0,459,14,0.0305010893246187,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+5,5,2018.0,456,38,0.0833333333333333,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+6,6,2019.0,384,22,0.0572916666666666,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+7,7,2020.0,289,19,0.0657439446366782,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+8,8,2021.0,250,5,0.02,INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária
+0,0,2013.0,1583,111,0.0701200252684775,ECT – Empresa Brasileira de Correios e Telégrafos
+1,1,2014.0,2116,118,0.0557655954631379,ECT – Empresa Brasileira de Correios e Telégrafos
+2,2,2015.0,1819,66,0.0362836723474436,ECT – Empresa Brasileira de Correios e Telégrafos
+3,3,2016.0,1671,68,0.0406941950927588,ECT – Empresa Brasileira de Correios e Telégrafos
+4,4,2017.0,1741,116,0.0666283744974152,ECT – Empresa Brasileira de Correios e Telégrafos
+5,5,2018.0,5511,223,0.0404645254944656,ECT – Empresa Brasileira de Correios e Telégrafos
+6,6,2019.0,946,124,0.1310782241014799,ECT – Empresa Brasileira de Correios e Telégrafos
+7,7,2020.0,922,99,0.1073752711496746,ECT – Empresa Brasileira de Correios e Telégrafos
+8,8,2021.0,729,93,0.1275720164609053,ECT – Empresa Brasileira de Correios e Telégrafos
+0,0,2013.0,1834,946,0.5158124318429662,BB – Banco do Brasil S.A.
+1,1,2014.0,1154,602,0.5216637781629117,BB – Banco do Brasil S.A.
+2,2,2015.0,914,241,0.2636761487964989,BB – Banco do Brasil S.A.
+3,3,2016.0,1755,585,0.3333333333333333,BB – Banco do Brasil S.A.
+4,4,2017.0,1609,585,0.3635798632691112,BB – Banco do Brasil S.A.
+5,5,2018.0,1016,164,0.1614173228346456,BB – Banco do Brasil S.A.
+6,6,2019.0,870,211,0.2425287356321839,BB – Banco do Brasil S.A.
+7,7,2020.0,1123,403,0.358860195903829,BB – Banco do Brasil S.A.
+8,8,2021.0,461,122,0.2646420824295011,BB – Banco do Brasil S.A.
+0,0,2013.0,271,21,0.077490774907749,UNB – Fundação Universidade de Brasília
+1,1,2014.0,316,25,0.0791139240506329,UNB – Fundação Universidade de Brasília
+2,2,2015.0,279,24,0.086021505376344,UNB – Fundação Universidade de Brasília
+3,3,2016.0,406,14,0.0344827586206896,UNB – Fundação Universidade de Brasília
+4,4,2017.0,491,25,0.0509164969450101,UNB – Fundação Universidade de Brasília
+5,5,2018.0,552,37,0.0670289855072463,UNB – Fundação Universidade de Brasília
+6,6,2019.0,514,33,0.0642023346303501,UNB – Fundação Universidade de Brasília
+7,7,2020.0,577,35,0.0606585788561525,UNB – Fundação Universidade de Brasília
+8,8,2021.0,467,36,0.0770877944325481,UNB – Fundação Universidade de Brasília
+0,0,2013.0,1501,20,0.0133244503664223,IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+1,1,2014.0,1510,19,0.0125827814569536,IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+2,2,2015.0,1667,8,0.0047990401919616,IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+3,3,2017.0,1169,8,0.0068434559452523,IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+4,4,2018.0,1417,22,0.0155257586450247,IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+5,5,2019.0,1998,62,0.031031031031031,IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+6,6,2020.0,1910,29,0.0151832460732984,IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+7,7,2021.0,1767,53,0.0299943406904357,IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+0,0,2013.0,1353,138,0.1019955654101995,CGU – Controladoria-Geral da União
+1,1,2014.0,1140,119,0.1043859649122807,CGU – Controladoria-Geral da União
+2,2,2015.0,1046,120,0.1147227533460803,CGU – Controladoria-Geral da União
+3,3,2016.0,1183,91,0.0769230769230769,CGU – Controladoria-Geral da União
+4,4,2017.0,1333,108,0.0810202550637659,CGU – Controladoria-Geral da União
+5,5,2018.0,1532,135,0.0881201044386423,CGU – Controladoria-Geral da União
+6,6,2019.0,1508,151,0.1001326259946949,CGU – Controladoria-Geral da União
+7,7,2020.0,1528,134,0.087696335078534,CGU – Controladoria-Geral da União
+8,8,2021.0,1283,173,0.1348402182385035,CGU – Controladoria-Geral da União
+0,0,2013.0,2133,457,0.2142522269104547,CEF – Caixa Econômica Federal
+1,1,2014.0,2482,1210,0.4875100725221595,CEF – Caixa Econômica Federal
+2,2,2015.0,5012,1578,0.3148443735035914,CEF – Caixa Econômica Federal
+3,3,2016.0,5869,860,0.1465326290679843,CEF – Caixa Econômica Federal
+4,4,2017.0,3957,1007,0.2544857215061916,CEF – Caixa Econômica Federal
+5,5,2018.0,2461,774,0.3145062982527428,CEF – Caixa Econômica Federal
+6,6,2019.0,2541,296,0.1164895710350255,CEF – Caixa Econômica Federal
+7,7,2020.0,6425,230,0.0357976653696498,CEF – Caixa Econômica Federal
+8,8,2021.0,2035,137,0.0673218673218673,CEF – Caixa Econômica Federal
+0,0,2013.0,790,373,0.4721518987341772,MRE – Ministério das Relações Exteriores
+1,1,2014.0,435,56,0.128735632183908,MRE – Ministério das Relações Exteriores
+2,2,2015.0,864,104,0.1203703703703703,MRE – Ministério das Relações Exteriores
+3,3,2016.0,1109,77,0.0694319206492335,MRE – Ministério das Relações Exteriores
+4,4,2017.0,1027,81,0.0788704965920155,MRE – Ministério das Relações Exteriores
+5,5,2018.0,908,150,0.1651982378854625,MRE – Ministério das Relações Exteriores
+6,6,2019.0,1307,337,0.2578423871461361,MRE – Ministério das Relações Exteriores
+7,7,2020.0,1021,247,0.2419196865817825,MRE – Ministério das Relações Exteriores
+8,8,2021.0,918,146,0.1590413943355119,MRE – Ministério das Relações Exteriores
+0,0,2013.0,192,11,0.0572916666666666,INPI – Instituto Nacional da Propriedade Industrial
+1,1,2014.0,252,20,0.0793650793650793,INPI – Instituto Nacional da Propriedade Industrial
+2,2,2015.0,121,2,0.0165289256198347,INPI – Instituto Nacional da Propriedade Industrial
+3,3,2016.0,154,13,0.0844155844155844,INPI – Instituto Nacional da Propriedade Industrial
+4,4,2017.0,128,10,0.078125,INPI – Instituto Nacional da Propriedade Industrial
+5,5,2018.0,159,3,0.0188679245283018,INPI – Instituto Nacional da Propriedade Industrial
+6,6,2019.0,206,15,0.0728155339805825,INPI – Instituto Nacional da Propriedade Industrial
+7,7,2020.0,323,13,0.0402476780185758,INPI – Instituto Nacional da Propriedade Industrial
+8,8,2021.0,259,3,0.0115830115830115,INPI – Instituto Nacional da Propriedade Industrial
+0,0,2013.0,1352,35,0.025887573964497,MJSP – Ministério da Justiça e Segurança Pública
+1,1,2014.0,1209,27,0.0223325062034739,MJSP – Ministério da Justiça e Segurança Pública
+2,2,2015.0,1293,10,0.0077339520494972,MJSP – Ministério da Justiça e Segurança Pública
+3,3,2016.0,1233,14,0.0113544201135442,MJSP – Ministério da Justiça e Segurança Pública
+4,4,2017.0,1497,15,0.0100200400801603,MJSP – Ministério da Justiça e Segurança Pública
+5,5,2018.0,1285,49,0.0381322957198443,MJSP – Ministério da Justiça e Segurança Pública
+6,6,2019.0,1758,100,0.0568828213879408,MJSP – Ministério da Justiça e Segurança Pública
+7,7,2020.0,1550,151,0.0974193548387096,MJSP – Ministério da Justiça e Segurança Pública
+8,8,2021.0,1228,81,0.0659609120521172,MJSP – Ministério da Justiça e Segurança Pública
+0,0,2015.0,16,1,0.0625,MAST – Museu de Astronomia e Ciências Afins
+1,1,2016.0,11,1,0.0909090909090909,MAST – Museu de Astronomia e Ciências Afins
+0,0,2013.0,534,110,0.2059925093632958,SGPR – Secretaria-Geral da Presidência da República
+1,1,2014.0,392,21,0.0535714285714285,SGPR – Secretaria-Geral da Presidência da República
+2,2,2015.0,404,26,0.0643564356435643,SGPR – Secretaria-Geral da Presidência da República
+3,3,2016.0,531,53,0.0998116760828625,SGPR – Secretaria-Geral da Presidência da República
+4,4,2017.0,447,26,0.058165548098434,SGPR – Secretaria-Geral da Presidência da República
+5,5,2018.0,324,20,0.0617283950617283,SGPR – Secretaria-Geral da Presidência da República
+6,6,2019.0,628,31,0.0493630573248407,SGPR – Secretaria-Geral da Presidência da República
+7,7,2020.0,954,75,0.0786163522012578,SGPR – Secretaria-Geral da Presidência da República
+8,8,2021.0,1433,118,0.0823447313328681,SGPR – Secretaria-Geral da Presidência da República
+0,0,2013.0,215,8,0.0372093023255813,Autoridade Portuária de Santos S.A.
+1,1,2014.0,226,4,0.0176991150442477,Autoridade Portuária de Santos S.A.
+2,2,2015.0,330,9,0.0272727272727272,Autoridade Portuária de Santos S.A.
+3,3,2016.0,607,15,0.0247116968698517,Autoridade Portuária de Santos S.A.
+4,4,2017.0,556,9,0.0161870503597122,Autoridade Portuária de Santos S.A.
+5,5,2018.0,775,11,0.0141935483870967,Autoridade Portuária de Santos S.A.
+6,6,2019.0,745,66,0.0885906040268456,Autoridade Portuária de Santos S.A.
+7,7,2020.0,396,31,0.0782828282828282,Autoridade Portuária de Santos S.A.
+8,8,2021.0,307,65,0.2117263843648208,Autoridade Portuária de Santos S.A.
+0,0,2013.0,1096,35,0.031934306569343,MDR - Ministério do Desenvolvimento Regional
+1,1,2014.0,1207,41,0.0339685169842584,MDR - Ministério do Desenvolvimento Regional
+2,2,2015.0,1231,35,0.0284321689683184,MDR - Ministério do Desenvolvimento Regional
+3,3,2016.0,1451,29,0.019986216402481,MDR - Ministério do Desenvolvimento Regional
+4,4,2017.0,1834,63,0.0343511450381679,MDR - Ministério do Desenvolvimento Regional
+5,5,2018.0,1815,81,0.0446280991735537,MDR - Ministério do Desenvolvimento Regional
+6,6,2019.0,999,22,0.022022022022022,MDR - Ministério do Desenvolvimento Regional
+7,7,2020.0,923,21,0.0227518959913326,MDR - Ministério do Desenvolvimento Regional
+8,8,2021.0,917,21,0.0229007633587786,MDR - Ministério do Desenvolvimento Regional
+0,0,2013.0,1480,10,0.0067567567567567,ANATEL – Agência Nacional de Telecomunicações
+1,1,2014.0,2781,17,0.0061129090255303,ANATEL – Agência Nacional de Telecomunicações
+2,2,2015.0,1353,6,0.0044345898004434,ANATEL – Agência Nacional de Telecomunicações
+3,3,2016.0,1143,8,0.0069991251093613,ANATEL – Agência Nacional de Telecomunicações
+4,4,2017.0,1033,19,0.0183930300096805,ANATEL – Agência Nacional de Telecomunicações
+5,5,2018.0,848,19,0.0224056603773584,ANATEL – Agência Nacional de Telecomunicações
+6,6,2019.0,559,37,0.0661896243291592,ANATEL – Agência Nacional de Telecomunicações
+7,7,2020.0,629,27,0.0429252782193958,ANATEL – Agência Nacional de Telecomunicações
+8,8,2021.0,441,15,0.0340136054421768,ANATEL – Agência Nacional de Telecomunicações
+0,0,2013.0,79,49,0.620253164556962,VPR – Vice-Presidência da República
+1,1,2014.0,26,3,0.1153846153846153,VPR – Vice-Presidência da República
+2,2,2015.0,55,2,0.0363636363636363,VPR – Vice-Presidência da República
+3,3,2016.0,55,7,0.1272727272727272,VPR – Vice-Presidência da República
+4,4,2017.0,43,4,0.0930232558139534,VPR – Vice-Presidência da República
+5,5,2019.0,68,2,0.0294117647058823,VPR – Vice-Presidência da República
+6,6,2020.0,98,5,0.0510204081632653,VPR – Vice-Presidência da República
+7,7,2021.0,68,3,0.0441176470588235,VPR – Vice-Presidência da República
+0,0,2015.0,237,3,0.0126582278481012,"IFSP – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+1,1,2016.0,255,4,0.0156862745098039,"IFSP – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+2,2,2017.0,303,5,0.0165016501650165,"IFSP – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+3,3,2018.0,323,11,0.0340557275541795,"IFSP – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+4,4,2019.0,275,11,0.04,"IFSP – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+5,5,2020.0,261,2,0.0076628352490421,"IFSP – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+6,6,2021.0,160,5,0.03125,"IFSP – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+0,0,2013.0,258,5,0.0193798449612403,MME – Ministério de Minas e Energia
+1,1,2014.0,270,22,0.0814814814814814,MME – Ministério de Minas e Energia
+2,2,2015.0,378,79,0.2089947089947089,MME – Ministério de Minas e Energia
+3,3,2016.0,419,53,0.1264916467780429,MME – Ministério de Minas e Energia
+4,4,2017.0,466,79,0.1695278969957081,MME – Ministério de Minas e Energia
+5,5,2018.0,513,74,0.1442495126705653,MME – Ministério de Minas e Energia
+6,6,2019.0,511,62,0.12133072407045,MME – Ministério de Minas e Energia
+7,7,2020.0,583,102,0.1749571183533447,MME – Ministério de Minas e Energia
+8,8,2021.0,588,88,0.1496598639455782,MME – Ministério de Minas e Energia
+0,0,2013.0,84,5,0.0595238095238095,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+1,1,2014.0,84,12,0.1428571428571428,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+2,2,2015.0,74,6,0.081081081081081,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+3,3,2016.0,144,10,0.0694444444444444,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+4,4,2017.0,158,7,0.0443037974683544,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+5,5,2018.0,184,4,0.0217391304347826,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+6,6,2019.0,228,1,0.0043859649122807,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+7,7,2020.0,190,5,0.0263157894736842,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+8,8,2021.0,164,2,0.0121951219512195,UNIRIO – Universidade Federal do Estado do Rio de Janeiro
+0,0,2013.0,2167,101,0.0466082141209044,MS – Ministério da Saúde
+1,1,2014.0,2072,72,0.0347490347490347,MS – Ministério da Saúde
+2,2,2015.0,2413,57,0.0236220472440944,MS – Ministério da Saúde
+3,3,2016.0,3313,196,0.059160881376396,MS – Ministério da Saúde
+4,4,2017.0,4051,147,0.0362873364601333,MS – Ministério da Saúde
+5,5,2018.0,4869,271,0.0556582460464161,MS – Ministério da Saúde
+6,6,2019.0,5625,299,0.0531555555555555,MS – Ministério da Saúde
+7,7,2020.0,5815,457,0.0785898538263112,MS – Ministério da Saúde
+8,8,2021.0,5399,551,0.1020559362844971,MS – Ministério da Saúde
+0,0,2013.0,115,4,0.0347826086956521,BASA – Banco da Amazônia S.A.
+1,1,2014.0,109,13,0.1192660550458715,BASA – Banco da Amazônia S.A.
+2,2,2015.0,64,8,0.125,BASA – Banco da Amazônia S.A.
+3,3,2016.0,125,10,0.08,BASA – Banco da Amazônia S.A.
+4,4,2017.0,127,18,0.1417322834645669,BASA – Banco da Amazônia S.A.
+5,5,2018.0,102,13,0.1274509803921568,BASA – Banco da Amazônia S.A.
+6,6,2019.0,159,21,0.1320754716981132,BASA – Banco da Amazônia S.A.
+7,7,2020.0,166,17,0.1024096385542168,BASA – Banco da Amazônia S.A.
+8,8,2021.0,67,11,0.1641791044776119,BASA – Banco da Amazônia S.A.
+0,0,2013.0,64,1,0.015625,UFPel – Fundação Universidade Federal de Pelotas
+1,1,2015.0,74,1,0.0135135135135135,UFPel – Fundação Universidade Federal de Pelotas
+2,2,2016.0,108,3,0.0277777777777777,UFPel – Fundação Universidade Federal de Pelotas
+3,3,2017.0,158,6,0.0379746835443038,UFPel – Fundação Universidade Federal de Pelotas
+4,4,2018.0,159,1,0.0062893081761006,UFPel – Fundação Universidade Federal de Pelotas
+5,5,2019.0,138,4,0.0289855072463768,UFPel – Fundação Universidade Federal de Pelotas
+6,6,2020.0,172,4,0.0232558139534883,UFPel – Fundação Universidade Federal de Pelotas
+7,7,2021.0,172,1,0.005813953488372,UFPel – Fundação Universidade Federal de Pelotas
+0,0,2013.0,642,104,0.1619937694704049,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+1,1,2014.0,650,58,0.0892307692307692,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+2,2,2015.0,750,45,0.06,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+3,3,2016.0,709,28,0.0394922425952045,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+4,4,2017.0,671,17,0.0253353204172876,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+5,5,2018.0,559,15,0.0268336314847942,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+6,6,2019.0,666,19,0.0285285285285285,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+7,7,2020.0,695,11,0.0158273381294964,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+8,8,2021.0,470,20,0.0425531914893617,BNDES – Banco Nacional de Desenvolvimento Econômico e Social
+0,0,2013.0,30,1,0.0333333333333333,Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil - CGT ELETROSUL
+1,1,2014.0,35,6,0.1714285714285714,Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil - CGT ELETROSUL
+2,2,2015.0,57,5,0.087719298245614,Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil - CGT ELETROSUL
+3,3,2016.0,52,5,0.0961538461538461,Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil - CGT ELETROSUL
+4,4,2017.0,82,9,0.1097560975609756,Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil - CGT ELETROSUL
+5,5,2018.0,55,4,0.0727272727272727,Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil - CGT ELETROSUL
+6,6,2020.0,55,2,0.0363636363636363,Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil - CGT ELETROSUL
+7,7,2021.0,21,3,0.1428571428571428,Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil - CGT ELETROSUL
+0,0,2013.0,446,133,0.2982062780269058,CC-PR – Casa Civil da Presidência da República
+1,1,2014.0,445,75,0.1685393258426966,CC-PR – Casa Civil da Presidência da República
+2,2,2015.0,299,16,0.0535117056856187,CC-PR – Casa Civil da Presidência da República
+3,3,2016.0,367,32,0.0871934604904632,CC-PR – Casa Civil da Presidência da República
+4,4,2017.0,407,28,0.0687960687960688,CC-PR – Casa Civil da Presidência da República
+5,5,2018.0,416,43,0.1033653846153846,CC-PR – Casa Civil da Presidência da República
+6,6,2019.0,490,28,0.0571428571428571,CC-PR – Casa Civil da Presidência da República
+7,7,2020.0,248,19,0.0766129032258064,CC-PR – Casa Civil da Presidência da República
+8,8,2021.0,246,33,0.1341463414634146,CC-PR – Casa Civil da Presidência da República
+0,0,2013.0,645,57,0.0883720930232558,COMAER – Comando da Aeronáutica
+1,1,2014.0,515,31,0.0601941747572815,COMAER – Comando da Aeronáutica
+2,2,2015.0,582,23,0.0395189003436426,COMAER – Comando da Aeronáutica
+3,3,2016.0,528,39,0.0738636363636363,COMAER – Comando da Aeronáutica
+4,4,2017.0,527,75,0.1423149905123339,COMAER – Comando da Aeronáutica
+5,5,2018.0,508,40,0.0787401574803149,COMAER – Comando da Aeronáutica
+6,6,2019.0,542,61,0.1125461254612546,COMAER – Comando da Aeronáutica
+7,7,2020.0,596,69,0.1157718120805369,COMAER – Comando da Aeronáutica
+8,8,2021.0,581,53,0.0912220309810671,COMAER – Comando da Aeronáutica
+0,0,2013.0,159,8,0.050314465408805,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+1,1,2014.0,140,9,0.0642857142857142,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+2,2,2015.0,252,12,0.0476190476190476,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+3,3,2016.0,314,71,0.2261146496815286,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+4,4,2017.0,254,7,0.0275590551181102,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+5,5,2018.0,284,8,0.028169014084507,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+6,6,2019.0,359,14,0.0389972144846796,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+7,7,2020.0,308,10,0.0324675324675324,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+8,8,2021.0,368,10,0.0271739130434782,IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional
+0,0,2013.0,231,21,0.0909090909090909,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+1,1,2014.0,374,14,0.0374331550802139,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+2,2,2015.0,341,6,0.0175953079178885,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+3,3,2016.0,369,5,0.013550135501355,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+4,4,2017.0,357,5,0.0140056022408963,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+5,5,2018.0,330,1,0.003030303030303,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+6,6,2019.0,423,9,0.0212765957446808,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+7,7,2020.0,291,14,0.0481099656357388,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+8,8,2021.0,277,10,0.0361010830324909,EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária
+0,0,2013.0,105,3,0.0285714285714285,CMB – Casa da Moeda do Brasil
+1,1,2014.0,103,10,0.0970873786407767,CMB – Casa da Moeda do Brasil
+2,2,2015.0,84,4,0.0476190476190476,CMB – Casa da Moeda do Brasil
+3,3,2016.0,103,8,0.0776699029126213,CMB – Casa da Moeda do Brasil
+4,4,2017.0,109,4,0.036697247706422,CMB – Casa da Moeda do Brasil
+5,5,2018.0,143,14,0.0979020979020979,CMB – Casa da Moeda do Brasil
+6,6,2019.0,155,9,0.0580645161290322,CMB – Casa da Moeda do Brasil
+7,7,2020.0,163,46,0.2822085889570552,CMB – Casa da Moeda do Brasil
+8,8,2021.0,81,5,0.0617283950617283,CMB – Casa da Moeda do Brasil
+0,0,2013.0,871,22,0.0252583237657864,DNIT – Departamento Nacional de Infraestrutura de Transportes
+1,1,2014.0,1044,20,0.0191570881226053,DNIT – Departamento Nacional de Infraestrutura de Transportes
+2,2,2015.0,1461,17,0.0116358658453114,DNIT – Departamento Nacional de Infraestrutura de Transportes
+3,3,2016.0,1814,5,0.0027563395810363,DNIT – Departamento Nacional de Infraestrutura de Transportes
+4,4,2017.0,1836,22,0.0119825708061002,DNIT – Departamento Nacional de Infraestrutura de Transportes
+5,5,2018.0,1786,20,0.0111982082866741,DNIT – Departamento Nacional de Infraestrutura de Transportes
+6,6,2019.0,1410,15,0.0106382978723404,DNIT – Departamento Nacional de Infraestrutura de Transportes
+7,7,2020.0,1838,37,0.0201305767138193,DNIT – Departamento Nacional de Infraestrutura de Transportes
+8,8,2021.0,2074,44,0.0212150433944069,DNIT – Departamento Nacional de Infraestrutura de Transportes
+0,0,2014.0,71,3,0.0422535211267605,INPE-MCT – Instituto Nacional de Pesquisas Espaciais
+1,1,2015.0,49,1,0.0204081632653061,INPE-MCT – Instituto Nacional de Pesquisas Espaciais
+2,2,2018.0,107,4,0.0373831775700934,INPE-MCT – Instituto Nacional de Pesquisas Espaciais
+3,3,2019.0,105,3,0.0285714285714285,INPE-MCT – Instituto Nacional de Pesquisas Espaciais
+4,4,2020.0,96,4,0.0416666666666666,INPE-MCT – Instituto Nacional de Pesquisas Espaciais
+5,5,2021.0,84,5,0.0595238095238095,INPE-MCT – Instituto Nacional de Pesquisas Espaciais
+0,0,2013.0,616,59,0.0957792207792207,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+1,1,2014.0,278,25,0.0899280575539568,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+2,2,2015.0,397,4,0.0100755667506297,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+3,3,2016.0,285,4,0.0140350877192982,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+4,4,2017.0,334,4,0.0119760479041916,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+5,5,2018.0,275,34,0.1236363636363636,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+6,6,2019.0,292,78,0.2671232876712329,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+7,7,2020.0,434,156,0.3594470046082949,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+8,8,2021.0,139,30,0.2158273381294964,DATAPREV – Empresa de Tecnologia e Informações da Previdência
+0,0,2013.0,333,48,0.1441441441441441,MMA – Ministério do Meio Ambiente
+1,1,2014.0,281,27,0.096085409252669,MMA – Ministério do Meio Ambiente
+2,2,2015.0,326,28,0.0858895705521472,MMA – Ministério do Meio Ambiente
+3,3,2016.0,344,9,0.0261627906976744,MMA – Ministério do Meio Ambiente
+4,4,2017.0,345,10,0.0289855072463768,MMA – Ministério do Meio Ambiente
+5,5,2018.0,320,5,0.015625,MMA – Ministério do Meio Ambiente
+6,6,2019.0,565,28,0.0495575221238938,MMA – Ministério do Meio Ambiente
+7,7,2020.0,612,24,0.0392156862745098,MMA – Ministério do Meio Ambiente
+8,8,2021.0,575,13,0.0226086956521739,MMA – Ministério do Meio Ambiente
+0,0,2013.0,966,88,0.0910973084886128,ANTAQ – Agência Nacional de Transportes Aquaviários
+1,1,2014.0,1067,167,0.1565135895032802,ANTAQ – Agência Nacional de Transportes Aquaviários
+2,2,2015.0,1299,154,0.1185527328714395,ANTAQ – Agência Nacional de Transportes Aquaviários
+3,3,2016.0,1680,165,0.0982142857142857,ANTAQ – Agência Nacional de Transportes Aquaviários
+4,4,2017.0,1637,181,0.110568112400733,ANTAQ – Agência Nacional de Transportes Aquaviários
+5,5,2018.0,2027,260,0.1282683769116921,ANTAQ – Agência Nacional de Transportes Aquaviários
+6,6,2019.0,2421,360,0.1486988847583643,ANTAQ – Agência Nacional de Transportes Aquaviários
+7,7,2020.0,1619,244,0.150710315009265,ANTAQ – Agência Nacional de Transportes Aquaviários
+8,8,2021.0,1169,221,0.1890504704875962,ANTAQ – Agência Nacional de Transportes Aquaviários
+0,0,2014.0,107,7,0.0654205607476635,"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+1,1,2015.0,146,2,0.0136986301369863,"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+2,2,2016.0,170,5,0.0294117647058823,"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+3,3,2017.0,240,14,0.0583333333333333,"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+4,4,2018.0,217,8,0.0368663594470046,"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+5,5,2019.0,191,7,0.0366492146596858,"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+6,6,2020.0,298,14,0.046979865771812,"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+7,7,2021.0,154,8,0.0519480519480519,"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+0,0,2015.0,165,5,0.0303030303030303,CBTU – Companhia Brasileira de Trens Urbanos 
+1,1,2016.0,146,1,0.0068493150684931,CBTU – Companhia Brasileira de Trens Urbanos 
+2,2,2017.0,174,1,0.0057471264367816,CBTU – Companhia Brasileira de Trens Urbanos 
+3,3,2018.0,119,1,0.0084033613445378,CBTU – Companhia Brasileira de Trens Urbanos 
+4,4,2019.0,115,4,0.0347826086956521,CBTU – Companhia Brasileira de Trens Urbanos 
+5,5,2020.0,136,7,0.0514705882352941,CBTU – Companhia Brasileira de Trens Urbanos 
+6,6,2021.0,80,6,0.075,CBTU – Companhia Brasileira de Trens Urbanos 
+0,0,2013.0,224,5,0.0223214285714285,ICMBio – Instituto Chico Mendes de Conservação da Biodiversidade
+1,1,2017.0,339,1,0.0029498525073746,ICMBio – Instituto Chico Mendes de Conservação da Biodiversidade
+2,2,2018.0,308,3,0.0097402597402597,ICMBio – Instituto Chico Mendes de Conservação da Biodiversidade
+3,3,2019.0,386,9,0.0233160621761658,ICMBio – Instituto Chico Mendes de Conservação da Biodiversidade
+4,4,2020.0,487,27,0.055441478439425,ICMBio – Instituto Chico Mendes de Conservação da Biodiversidade
+5,5,2021.0,473,35,0.0739957716701902,ICMBio – Instituto Chico Mendes de Conservação da Biodiversidade
+0,0,2013.0,531,64,0.1205273069679849,AGU – Advocacia-Geral da União
+1,1,2014.0,420,54,0.1285714285714285,AGU – Advocacia-Geral da União
+2,2,2015.0,506,49,0.0968379446640316,AGU – Advocacia-Geral da União
+3,3,2016.0,708,88,0.1242937853107344,AGU – Advocacia-Geral da União
+4,4,2017.0,783,118,0.1507024265644955,AGU – Advocacia-Geral da União
+5,5,2018.0,1017,196,0.1927236971484759,AGU – Advocacia-Geral da União
+6,6,2019.0,945,121,0.128042328042328,AGU – Advocacia-Geral da União
+7,7,2020.0,949,178,0.1875658587987355,AGU – Advocacia-Geral da União
+8,8,2021.0,638,89,0.1394984326018808,AGU – Advocacia-Geral da União
+0,0,2013.0,382,92,0.2408376963350785,CMAR – Comando da Marinha
+1,1,2014.0,306,76,0.2483660130718954,CMAR – Comando da Marinha
+2,2,2015.0,505,83,0.1643564356435643,CMAR – Comando da Marinha
+3,3,2016.0,467,31,0.0663811563169164,CMAR – Comando da Marinha
+4,4,2017.0,410,39,0.0951219512195122,CMAR – Comando da Marinha
+5,5,2018.0,374,18,0.0481283422459893,CMAR – Comando da Marinha
+6,6,2019.0,524,54,0.1030534351145038,CMAR – Comando da Marinha
+7,7,2020.0,524,67,0.1278625954198473,CMAR – Comando da Marinha
+8,8,2021.0,488,78,0.1598360655737705,CMAR – Comando da Marinha
+0,0,2013.0,566,4,0.0070671378091872,ANTT – Agência Nacional de Transportes Terrestres
+1,1,2014.0,439,12,0.0273348519362186,ANTT – Agência Nacional de Transportes Terrestres
+2,2,2015.0,418,31,0.0741626794258373,ANTT – Agência Nacional de Transportes Terrestres
+3,3,2016.0,570,25,0.043859649122807,ANTT – Agência Nacional de Transportes Terrestres
+4,4,2017.0,762,180,0.2362204724409448,ANTT – Agência Nacional de Transportes Terrestres
+5,5,2018.0,799,71,0.0888610763454317,ANTT – Agência Nacional de Transportes Terrestres
+6,6,2019.0,1062,149,0.1403013182674199,ANTT – Agência Nacional de Transportes Terrestres
+7,7,2020.0,874,88,0.1006864988558352,ANTT – Agência Nacional de Transportes Terrestres
+8,8,2021.0,642,50,0.0778816199376947,ANTT – Agência Nacional de Transportes Terrestres
+0,0,2013.0,644,43,0.0667701863354037,ANVISA – Agência Nacional de Vigilância Sanitária
+1,1,2014.0,1495,37,0.0247491638795986,ANVISA – Agência Nacional de Vigilância Sanitária
+2,2,2015.0,1206,117,0.0970149253731343,ANVISA – Agência Nacional de Vigilância Sanitária
+3,3,2016.0,1807,264,0.146098505810736,ANVISA – Agência Nacional de Vigilância Sanitária
+4,4,2017.0,1902,91,0.047844374342797,ANVISA – Agência Nacional de Vigilância Sanitária
+5,5,2018.0,2426,153,0.0630667765869744,ANVISA – Agência Nacional de Vigilância Sanitária
+6,6,2019.0,3439,161,0.0468159348647862,ANVISA – Agência Nacional de Vigilância Sanitária
+7,7,2020.0,4351,130,0.0298781889220868,ANVISA – Agência Nacional de Vigilância Sanitária
+8,8,2021.0,8072,82,0.0101585728444003,ANVISA – Agência Nacional de Vigilância Sanitária
+0,0,2013.0,31,3,0.0967741935483871,BBTur Viagens e Turismo Ltda
+1,1,2018.0,35,2,0.0571428571428571,BBTur Viagens e Turismo Ltda
+0,0,2013.0,67,2,0.0298507462686567,PREVIC – Superintendência Nacional de Previdência Complementar
+1,1,2014.0,108,8,0.074074074074074,PREVIC – Superintendência Nacional de Previdência Complementar
+2,2,2015.0,91,11,0.1208791208791208,PREVIC – Superintendência Nacional de Previdência Complementar
+3,3,2016.0,102,5,0.0490196078431372,PREVIC – Superintendência Nacional de Previdência Complementar
+4,4,2017.0,151,9,0.0596026490066225,PREVIC – Superintendência Nacional de Previdência Complementar
+5,5,2018.0,171,10,0.0584795321637426,PREVIC – Superintendência Nacional de Previdência Complementar
+6,6,2019.0,158,19,0.120253164556962,PREVIC – Superintendência Nacional de Previdência Complementar
+7,7,2020.0,182,12,0.0659340659340659,PREVIC – Superintendência Nacional de Previdência Complementar
+8,8,2021.0,157,7,0.0445859872611464,PREVIC – Superintendência Nacional de Previdência Complementar
+0,0,2013.0,262,10,0.0381679389312977,ANA – Agência Nacional de Águas
+1,1,2014.0,189,1,0.0052910052910052,ANA – Agência Nacional de Águas
+2,2,2016.0,468,2,0.0042735042735042,ANA – Agência Nacional de Águas
+3,3,2018.0,283,1,0.0035335689045936,ANA – Agência Nacional de Águas
+4,4,2019.0,374,8,0.0213903743315508,ANA – Agência Nacional de Águas
+5,5,2020.0,381,5,0.0131233595800524,ANA – Agência Nacional de Águas
+6,6,2021.0,422,6,0.0142180094786729,ANA – Agência Nacional de Águas
+0,0,2013.0,14,1,0.0714285714285714,JBRJ – Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+0,0,2013.0,480,43,0.0895833333333333,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+1,1,2014.0,531,81,0.1525423728813559,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+2,2,2015.0,447,85,0.1901565995525727,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+3,3,2016.0,502,76,0.1513944223107569,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+4,4,2017.0,646,73,0.1130030959752322,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+5,5,2018.0,850,56,0.0658823529411764,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+6,6,2019.0,1274,95,0.0745682888540031,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+7,7,2020.0,1084,148,0.1365313653136531,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+8,8,2021.0,848,61,0.0719339622641509,"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+0,0,2015.0,25,1,0.04,CEASA-MG – Centrais de Abastecimento de Minas Gerais S.A.
+1,1,2018.0,18,1,0.0555555555555555,CEASA-MG – Centrais de Abastecimento de Minas Gerais S.A.
+2,2,2020.0,38,1,0.0263157894736842,CEASA-MG – Centrais de Abastecimento de Minas Gerais S.A.
+3,3,2021.0,19,1,0.0526315789473684,CEASA-MG – Centrais de Abastecimento de Minas Gerais S.A.
+0,0,2013.0,287,12,0.0418118466898954,ANM - Agência Nacional de Mineração
+1,1,2014.0,278,9,0.0323741007194244,ANM - Agência Nacional de Mineração
+2,2,2015.0,392,19,0.048469387755102,ANM - Agência Nacional de Mineração
+3,3,2016.0,444,50,0.1126126126126126,ANM - Agência Nacional de Mineração
+4,4,2017.0,701,39,0.0556348074179743,ANM - Agência Nacional de Mineração
+5,5,2018.0,559,28,0.0500894454382826,ANM - Agência Nacional de Mineração
+6,6,2019.0,708,32,0.0451977401129943,ANM - Agência Nacional de Mineração
+7,7,2020.0,665,27,0.0406015037593985,ANM - Agência Nacional de Mineração
+8,8,2021.0,555,10,0.018018018018018,ANM - Agência Nacional de Mineração
+0,0,2013.0,175,12,0.0685714285714285,ANCINE – Agência Nacional do Cinema
+1,1,2014.0,189,10,0.0529100529100529,ANCINE – Agência Nacional do Cinema
+2,2,2015.0,165,13,0.0787878787878787,ANCINE – Agência Nacional do Cinema
+3,3,2016.0,143,6,0.0419580419580419,ANCINE – Agência Nacional do Cinema
+4,4,2017.0,168,4,0.0238095238095238,ANCINE – Agência Nacional do Cinema
+5,5,2018.0,207,7,0.0338164251207729,ANCINE – Agência Nacional do Cinema
+6,6,2019.0,340,31,0.0911764705882352,ANCINE – Agência Nacional do Cinema
+7,7,2020.0,370,104,0.2810810810810811,ANCINE – Agência Nacional do Cinema
+8,8,2021.0,179,21,0.1173184357541899,ANCINE – Agência Nacional do Cinema
+0,0,2014.0,122,1,0.0081967213114754,FUNARTE – Fundação Nacional de Artes
+1,1,2018.0,39,1,0.0256410256410256,FUNARTE – Fundação Nacional de Artes
+2,2,2019.0,49,5,0.1020408163265306,FUNARTE – Fundação Nacional de Artes
+3,3,2020.0,45,1,0.0222222222222222,FUNARTE – Fundação Nacional de Artes
+0,0,2013.0,75,2,0.0266666666666666,FCP – Fundação Cultural Palmares
+1,1,2014.0,90,6,0.0666666666666666,FCP – Fundação Cultural Palmares
+2,2,2015.0,118,1,0.0084745762711864,FCP – Fundação Cultural Palmares
+3,3,2016.0,94,1,0.0106382978723404,FCP – Fundação Cultural Palmares
+4,4,2017.0,98,4,0.0408163265306122,FCP – Fundação Cultural Palmares
+5,5,2018.0,85,2,0.0235294117647058,FCP – Fundação Cultural Palmares
+0,0,2013.0,251,11,0.0438247011952191,MD – Ministério da Defesa
+1,1,2014.0,215,17,0.0790697674418604,MD – Ministério da Defesa
+2,2,2015.0,316,13,0.0411392405063291,MD – Ministério da Defesa
+3,3,2016.0,339,17,0.0501474926253687,MD – Ministério da Defesa
+4,4,2017.0,358,34,0.0949720670391061,MD – Ministério da Defesa
+5,5,2018.0,393,33,0.0839694656488549,MD – Ministério da Defesa
+6,6,2019.0,587,61,0.1039182282793867,MD – Ministério da Defesa
+7,7,2020.0,884,49,0.0554298642533936,MD – Ministério da Defesa
+8,8,2021.0,511,36,0.0704500978473581,MD – Ministério da Defesa
+0,0,2013.0,68,6,0.088235294117647,CODEVASF – Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+1,1,2014.0,57,5,0.087719298245614,CODEVASF – Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+2,2,2015.0,75,3,0.04,CODEVASF – Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+3,3,2017.0,103,3,0.029126213592233,CODEVASF – Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+4,4,2018.0,77,3,0.0389610389610389,CODEVASF – Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+5,5,2020.0,112,1,0.0089285714285714,CODEVASF – Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+6,6,2021.0,194,2,0.0103092783505154,CODEVASF – Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+0,0,2013.0,584,2,0.0034246575342465,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+1,1,2014.0,1328,8,0.0060240963855421,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+2,2,2015.0,1365,9,0.0065934065934065,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+3,3,2016.0,643,11,0.0171073094867807,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+4,4,2017.0,513,19,0.037037037037037,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+5,5,2018.0,1809,140,0.0773908236594803,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+6,6,2019.0,1339,138,0.1030619865571321,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+7,7,2020.0,1458,175,0.1200274348422496,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+8,8,2021.0,2257,326,0.1444395214887018,INCRA – Instituto Nacional de Colonização e Reforma Agrária
+0,0,2013.0,262,4,0.015267175572519,"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+1,1,2014.0,183,5,0.0273224043715847,"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+2,2,2016.0,208,2,0.0096153846153846,"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+3,3,2017.0,269,5,0.0185873605947955,"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+4,4,2018.0,269,6,0.0223048327137546,"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+5,5,2019.0,234,11,0.047008547008547,"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+6,6,2020.0,169,4,0.0236686390532544,"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+7,7,2021.0,186,1,0.0053763440860215,"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+0,0,2013.0,281,2,0.0071174377224199,DPU – Defensoria Pública da União
+1,1,2014.0,349,2,0.0057306590257879,DPU – Defensoria Pública da União
+2,2,2015.0,283,3,0.0106007067137809,DPU – Defensoria Pública da União
+3,3,2016.0,678,16,0.023598820058997,DPU – Defensoria Pública da União
+4,4,2017.0,303,30,0.099009900990099,DPU – Defensoria Pública da União
+0,0,2013.0,349,30,0.0859598853868194,BNB – Banco do Nordeste do Brasil S.A.
+1,1,2014.0,402,16,0.0398009950248756,BNB – Banco do Nordeste do Brasil S.A.
+2,2,2015.0,208,23,0.110576923076923,BNB – Banco do Nordeste do Brasil S.A.
+3,3,2016.0,313,31,0.0990415335463258,BNB – Banco do Nordeste do Brasil S.A.
+4,4,2017.0,298,39,0.1308724832214765,BNB – Banco do Nordeste do Brasil S.A.
+5,5,2018.0,230,44,0.1913043478260869,BNB – Banco do Nordeste do Brasil S.A.
+6,6,2019.0,227,44,0.1938325991189427,BNB – Banco do Nordeste do Brasil S.A.
+7,7,2020.0,215,48,0.2232558139534883,BNB – Banco do Nordeste do Brasil S.A.
+8,8,2021.0,157,30,0.1910828025477707,BNB – Banco do Nordeste do Brasil S.A.
+0,0,2013.0,981,39,0.0397553516819571,ANS – Agência Nacional de Saúde Suplementar
+1,1,2014.0,743,20,0.0269179004037685,ANS – Agência Nacional de Saúde Suplementar
+2,2,2015.0,420,37,0.0880952380952381,ANS – Agência Nacional de Saúde Suplementar
+3,3,2016.0,447,17,0.0380313199105145,ANS – Agência Nacional de Saúde Suplementar
+4,4,2017.0,514,47,0.0914396887159533,ANS – Agência Nacional de Saúde Suplementar
+5,5,2018.0,498,39,0.0783132530120482,ANS – Agência Nacional de Saúde Suplementar
+6,6,2019.0,729,78,0.1069958847736625,ANS – Agência Nacional de Saúde Suplementar
+7,7,2020.0,918,55,0.059912854030501,ANS – Agência Nacional de Saúde Suplementar
+8,8,2021.0,782,41,0.0524296675191815,ANS – Agência Nacional de Saúde Suplementar
+0,0,2013.0,457,58,0.1269146608315098,DPRF – Departamento de Polícia Rodoviária Federal
+1,1,2014.0,500,26,0.052,DPRF – Departamento de Polícia Rodoviária Federal
+2,2,2015.0,921,96,0.1042345276872964,DPRF – Departamento de Polícia Rodoviária Federal
+3,3,2016.0,648,63,0.0972222222222222,DPRF – Departamento de Polícia Rodoviária Federal
+4,4,2017.0,1030,105,0.1019417475728155,DPRF – Departamento de Polícia Rodoviária Federal
+5,5,2018.0,914,101,0.1105032822757111,DPRF – Departamento de Polícia Rodoviária Federal
+6,6,2019.0,1252,118,0.0942492012779552,DPRF – Departamento de Polícia Rodoviária Federal
+7,7,2020.0,905,117,0.1292817679558011,DPRF – Departamento de Polícia Rodoviária Federal
+8,8,2021.0,672,79,0.1175595238095238,DPRF – Departamento de Polícia Rodoviária Federal
+0,0,2013.0,622,14,0.022508038585209,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+1,1,2014.0,666,30,0.045045045045045,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+2,2,2015.0,613,28,0.0456769983686786,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+3,3,2016.0,430,22,0.0511627906976744,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+4,4,2017.0,525,23,0.0438095238095238,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+5,5,2018.0,520,37,0.0711538461538461,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+6,6,2019.0,577,34,0.0589254766031195,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+7,7,2020.0,568,54,0.0950704225352112,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+8,8,2021.0,430,32,0.0744186046511627,CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+0,0,2013.0,298,70,0.2348993288590604,PETROBRAS – Petróleo Brasileiro S.A.
+1,1,2014.0,330,78,0.2363636363636363,PETROBRAS – Petróleo Brasileiro S.A.
+2,2,2015.0,1552,206,0.1327319587628866,PETROBRAS – Petróleo Brasileiro S.A.
+3,3,2016.0,1171,114,0.0973526900085397,PETROBRAS – Petróleo Brasileiro S.A.
+4,4,2017.0,1174,239,0.2035775127768313,PETROBRAS – Petróleo Brasileiro S.A.
+5,5,2018.0,3239,419,0.1293609138623031,PETROBRAS – Petróleo Brasileiro S.A.
+6,6,2019.0,3779,456,0.1206668430801799,PETROBRAS – Petróleo Brasileiro S.A.
+7,7,2020.0,4781,489,0.1022798577703409,PETROBRAS – Petróleo Brasileiro S.A.
+8,8,2021.0,3870,611,0.1578811369509044,PETROBRAS – Petróleo Brasileiro S.A.
+0,0,2013.0,828,40,0.0483091787439613,FNDE – Fundo Nacional de Desenvolvimento da Educação
+1,1,2014.0,1592,51,0.0320351758793969,FNDE – Fundo Nacional de Desenvolvimento da Educação
+2,2,2015.0,2357,50,0.0212134068731438,FNDE – Fundo Nacional de Desenvolvimento da Educação
+3,3,2016.0,955,77,0.0806282722513089,FNDE – Fundo Nacional de Desenvolvimento da Educação
+4,4,2017.0,936,117,0.125,FNDE – Fundo Nacional de Desenvolvimento da Educação
+5,5,2018.0,945,122,0.1291005291005291,FNDE – Fundo Nacional de Desenvolvimento da Educação
+6,6,2019.0,1096,174,0.1587591240875912,FNDE – Fundo Nacional de Desenvolvimento da Educação
+7,7,2020.0,960,118,0.1229166666666666,FNDE – Fundo Nacional de Desenvolvimento da Educação
+8,8,2021.0,682,62,0.0909090909090909,FNDE – Fundo Nacional de Desenvolvimento da Educação
+0,0,2015.0,61,2,0.0327868852459016,CNEN – Comissão Nacional de Energia Nuclear
+1,1,2016.0,54,1,0.0185185185185185,CNEN – Comissão Nacional de Energia Nuclear
+2,2,2017.0,56,1,0.0178571428571428,CNEN – Comissão Nacional de Energia Nuclear
+3,3,2018.0,68,4,0.0588235294117647,CNEN – Comissão Nacional de Energia Nuclear
+4,4,2019.0,90,1,0.0111111111111111,CNEN – Comissão Nacional de Energia Nuclear
+5,5,2020.0,94,7,0.0744680851063829,CNEN – Comissão Nacional de Energia Nuclear
+6,6,2021.0,60,3,0.05,CNEN – Comissão Nacional de Energia Nuclear
+0,0,2013.0,406,23,0.0566502463054187,FUNAI – Fundação Nacional do Índio
+1,1,2014.0,297,20,0.0673400673400673,FUNAI – Fundação Nacional do Índio
+2,2,2015.0,259,27,0.1042471042471042,FUNAI – Fundação Nacional do Índio
+3,3,2016.0,668,36,0.0538922155688622,FUNAI – Fundação Nacional do Índio
+4,4,2017.0,714,27,0.0378151260504201,FUNAI – Fundação Nacional do Índio
+5,5,2018.0,857,17,0.0198366394399066,FUNAI – Fundação Nacional do Índio
+6,6,2019.0,924,92,0.0995670995670995,FUNAI – Fundação Nacional do Índio
+7,7,2020.0,1845,121,0.0655826558265582,FUNAI – Fundação Nacional do Índio
+8,8,2021.0,2290,118,0.0515283842794759,FUNAI – Fundação Nacional do Índio
+0,0,2013.0,485,15,0.0309278350515463,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+1,1,2014.0,675,33,0.0488888888888888,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+2,2,2015.0,553,12,0.0216998191681736,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+3,3,2016.0,454,10,0.0220264317180616,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+4,4,2017.0,475,14,0.0294736842105263,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+5,5,2018.0,522,7,0.0134099616858237,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+6,6,2019.0,873,31,0.0355097365406643,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+7,7,2020.0,944,44,0.0466101694915254,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+8,8,2021.0,865,30,0.0346820809248554,"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos"
+0,0,2013.0,178,20,0.1123595505617977,UFMG – Universidade Federal de Minas Gerais
+1,1,2014.0,196,21,0.1071428571428571,UFMG – Universidade Federal de Minas Gerais
+2,2,2015.0,185,11,0.0594594594594594,UFMG – Universidade Federal de Minas Gerais
+3,3,2016.0,279,9,0.032258064516129,UFMG – Universidade Federal de Minas Gerais
+4,4,2017.0,337,8,0.0237388724035608,UFMG – Universidade Federal de Minas Gerais
+5,5,2018.0,349,15,0.0429799426934097,UFMG – Universidade Federal de Minas Gerais
+6,6,2019.0,396,16,0.0404040404040404,UFMG – Universidade Federal de Minas Gerais
+7,7,2020.0,322,6,0.0186335403726708,UFMG – Universidade Federal de Minas Gerais
+8,8,2021.0,295,7,0.023728813559322,UFMG – Universidade Federal de Minas Gerais
+0,0,2013.0,81,7,0.0864197530864197,DNOCS – Departamento Nacional de Obras Contra as Secas
+1,1,2014.0,77,1,0.0129870129870129,DNOCS – Departamento Nacional de Obras Contra as Secas
+2,2,2021.0,102,2,0.0196078431372549,DNOCS – Departamento Nacional de Obras Contra as Secas
+0,0,2013.0,59,1,0.0169491525423728,SUDENE – Superintendência do Desenvolvimento do Nordeste
+1,1,2017.0,91,2,0.0219780219780219,SUDENE – Superintendência do Desenvolvimento do Nordeste
+2,2,2018.0,72,1,0.0138888888888888,SUDENE – Superintendência do Desenvolvimento do Nordeste
+0,0,2015.0,92,1,0.0108695652173913,UFOP – Fundação Universidade Federal de Ouro Preto
+1,1,2016.0,172,3,0.0174418604651162,UFOP – Fundação Universidade Federal de Ouro Preto
+2,2,2018.0,205,2,0.0097560975609756,UFOP – Fundação Universidade Federal de Ouro Preto
+3,3,2019.0,163,7,0.0429447852760736,UFOP – Fundação Universidade Federal de Ouro Preto
+4,4,2020.0,186,5,0.0268817204301075,UFOP – Fundação Universidade Federal de Ouro Preto
+5,5,2021.0,155,12,0.0774193548387096,UFOP – Fundação Universidade Federal de Ouro Preto
+0,0,2013.0,171,8,0.0467836257309941,FINEP – Financiadora de Estudos e Projetos
+1,1,2014.0,142,8,0.056338028169014,FINEP – Financiadora de Estudos e Projetos
+2,2,2015.0,160,21,0.13125,FINEP – Financiadora de Estudos e Projetos
+3,3,2016.0,291,10,0.0343642611683848,FINEP – Financiadora de Estudos e Projetos
+4,4,2017.0,206,14,0.0679611650485436,FINEP – Financiadora de Estudos e Projetos
+5,5,2018.0,144,13,0.0902777777777777,FINEP – Financiadora de Estudos e Projetos
+6,6,2019.0,148,9,0.0608108108108108,FINEP – Financiadora de Estudos e Projetos
+7,7,2020.0,331,200,0.6042296072507553,FINEP – Financiadora de Estudos e Projetos
+8,8,2021.0,82,5,0.0609756097560975,FINEP – Financiadora de Estudos e Projetos
+0,0,2013.0,100,5,0.05,UFJF – Universidade Federal de Juiz de Fora
+1,1,2014.0,127,9,0.0708661417322834,UFJF – Universidade Federal de Juiz de Fora
+2,2,2015.0,153,7,0.0457516339869281,UFJF – Universidade Federal de Juiz de Fora
+3,3,2016.0,171,6,0.0350877192982456,UFJF – Universidade Federal de Juiz de Fora
+4,4,2017.0,224,8,0.0357142857142857,UFJF – Universidade Federal de Juiz de Fora
+5,5,2018.0,256,18,0.0703125,UFJF – Universidade Federal de Juiz de Fora
+6,6,2019.0,217,13,0.0599078341013824,UFJF – Universidade Federal de Juiz de Fora
+7,7,2020.0,265,12,0.0452830188679245,UFJF – Universidade Federal de Juiz de Fora
+8,8,2021.0,231,8,0.0346320346320346,UFJF – Universidade Federal de Juiz de Fora
+0,0,2013.0,185,11,0.0594594594594594,SERPRO – Serviço Federal de Processamento de Dados
+1,1,2014.0,332,16,0.0481927710843373,SERPRO – Serviço Federal de Processamento de Dados
+2,2,2015.0,328,11,0.0335365853658536,SERPRO – Serviço Federal de Processamento de Dados
+3,3,2016.0,171,5,0.0292397660818713,SERPRO – Serviço Federal de Processamento de Dados
+4,4,2017.0,228,12,0.0526315789473684,SERPRO – Serviço Federal de Processamento de Dados
+5,5,2018.0,320,21,0.065625,SERPRO – Serviço Federal de Processamento de Dados
+6,6,2019.0,441,51,0.1156462585034013,SERPRO – Serviço Federal de Processamento de Dados
+7,7,2020.0,309,34,0.1100323624595469,SERPRO – Serviço Federal de Processamento de Dados
+8,8,2021.0,188,28,0.1489361702127659,SERPRO – Serviço Federal de Processamento de Dados
+0,0,2013.0,119,4,0.0336134453781512,"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+1,1,2014.0,126,1,0.0079365079365079,"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+2,2,2016.0,160,4,0.025,"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+3,3,2017.0,185,2,0.0108108108108108,"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+4,4,2018.0,246,10,0.040650406504065,"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+5,5,2019.0,373,11,0.0294906166219839,"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+6,6,2020.0,444,2,0.0045045045045045,"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+7,7,2021.0,422,3,0.0071090047393364,"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+0,0,2014.0,122,10,0.081967213114754,EBC – Empresa Brasil de Comunicação S.A.
+1,1,2015.0,147,9,0.0612244897959183,EBC – Empresa Brasil de Comunicação S.A.
+2,2,2016.0,117,5,0.0427350427350427,EBC – Empresa Brasil de Comunicação S.A.
+3,3,2017.0,99,6,0.0606060606060606,EBC – Empresa Brasil de Comunicação S.A.
+4,4,2018.0,102,3,0.0294117647058823,EBC – Empresa Brasil de Comunicação S.A.
+5,5,2019.0,116,3,0.0258620689655172,EBC – Empresa Brasil de Comunicação S.A.
+6,6,2020.0,143,4,0.0279720279720279,EBC – Empresa Brasil de Comunicação S.A.
+7,7,2021.0,186,10,0.053763440860215,EBC – Empresa Brasil de Comunicação S.A.
+0,0,2013.0,286,75,0.2622377622377622,CVM – Comissão de Valores Mobiliários
+1,1,2014.0,199,21,0.1055276381909547,CVM – Comissão de Valores Mobiliários
+2,2,2015.0,185,10,0.054054054054054,CVM – Comissão de Valores Mobiliários
+3,3,2016.0,252,21,0.0833333333333333,CVM – Comissão de Valores Mobiliários
+4,4,2017.0,351,17,0.0484330484330484,CVM – Comissão de Valores Mobiliários
+5,5,2018.0,291,23,0.0790378006872852,CVM – Comissão de Valores Mobiliários
+6,6,2019.0,335,14,0.0417910447761194,CVM – Comissão de Valores Mobiliários
+7,7,2020.0,360,8,0.0222222222222222,CVM – Comissão de Valores Mobiliários
+8,8,2021.0,425,14,0.0329411764705882,CVM – Comissão de Valores Mobiliários
+0,0,2013.0,585,74,0.1264957264957265,ANAC – Agência Nacional de Aviação Civil
+1,1,2014.0,590,87,0.147457627118644,ANAC – Agência Nacional de Aviação Civil
+2,2,2015.0,538,31,0.0576208178438661,ANAC – Agência Nacional de Aviação Civil
+3,3,2016.0,635,88,0.1385826771653543,ANAC – Agência Nacional de Aviação Civil
+4,4,2017.0,570,17,0.0298245614035087,ANAC – Agência Nacional de Aviação Civil
+5,5,2018.0,537,20,0.037243947858473,ANAC – Agência Nacional de Aviação Civil
+6,6,2019.0,696,17,0.0244252873563218,ANAC – Agência Nacional de Aviação Civil
+7,7,2020.0,738,13,0.0176151761517615,ANAC – Agência Nacional de Aviação Civil
+8,8,2021.0,344,8,0.0232558139534883,ANAC – Agência Nacional de Aviação Civil
+0,0,2013.0,261,79,0.3026819923371647,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+1,1,2014.0,225,47,0.2088888888888889,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+2,2,2015.0,153,57,0.3725490196078431,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+3,3,2016.0,126,43,0.3412698412698413,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+4,4,2017.0,186,64,0.3440860215053763,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+5,5,2018.0,210,92,0.4380952380952381,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+6,6,2019.0,445,180,0.4044943820224719,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+7,7,2020.0,307,44,0.1433224755700325,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+8,8,2021.0,284,115,0.4049295774647887,GSI-PR – Gabinete de Segurança Institucional da Presidência da República
+0,0,2013.0,145,2,0.0137931034482758,UFRN – Universidade Federal do Rio Grande do Norte
+1,1,2017.0,354,6,0.0169491525423728,UFRN – Universidade Federal do Rio Grande do Norte
+2,2,2018.0,310,8,0.0258064516129032,UFRN – Universidade Federal do Rio Grande do Norte
+3,3,2019.0,297,6,0.0202020202020202,UFRN – Universidade Federal do Rio Grande do Norte
+4,4,2020.0,287,8,0.0278745644599303,UFRN – Universidade Federal do Rio Grande do Norte
+5,5,2021.0,284,6,0.0211267605633802,UFRN – Universidade Federal do Rio Grande do Norte
+0,0,2013.0,127,6,0.0472440944881889,CHESF – Companhia Hidro Elétrica do São Francisco
+1,1,2014.0,75,4,0.0533333333333333,CHESF – Companhia Hidro Elétrica do São Francisco
+2,2,2015.0,67,1,0.0149253731343283,CHESF – Companhia Hidro Elétrica do São Francisco
+3,3,2016.0,46,3,0.0652173913043478,CHESF – Companhia Hidro Elétrica do São Francisco
+4,4,2017.0,54,6,0.1111111111111111,CHESF – Companhia Hidro Elétrica do São Francisco
+5,5,2018.0,56,3,0.0535714285714285,CHESF – Companhia Hidro Elétrica do São Francisco
+6,6,2019.0,91,4,0.0439560439560439,CHESF – Companhia Hidro Elétrica do São Francisco
+7,7,2020.0,67,2,0.0298507462686567,CHESF – Companhia Hidro Elétrica do São Francisco
+8,8,2021.0,49,1,0.0204081632653061,CHESF – Companhia Hidro Elétrica do São Francisco
+0,0,2013.0,136,14,0.1029411764705882,UFPE – Universidade Federal de Pernambuco
+1,1,2014.0,141,7,0.0496453900709219,UFPE – Universidade Federal de Pernambuco
+2,2,2015.0,158,2,0.0126582278481012,UFPE – Universidade Federal de Pernambuco
+3,3,2016.0,210,10,0.0476190476190476,UFPE – Universidade Federal de Pernambuco
+4,4,2017.0,431,8,0.0185614849187935,UFPE – Universidade Federal de Pernambuco
+5,5,2018.0,438,10,0.0228310502283105,UFPE – Universidade Federal de Pernambuco
+6,6,2019.0,386,4,0.0103626943005181,UFPE – Universidade Federal de Pernambuco
+7,7,2020.0,318,5,0.0157232704402515,UFPE – Universidade Federal de Pernambuco
+8,8,2021.0,274,11,0.0401459854014598,UFPE – Universidade Federal de Pernambuco
+0,0,2013.0,122,2,0.0163934426229508,UFAL – Universidade Federal de Alagoas
+1,1,2014.0,98,4,0.0408163265306122,UFAL – Universidade Federal de Alagoas
+2,2,2016.0,179,5,0.0279329608938547,UFAL – Universidade Federal de Alagoas
+3,3,2017.0,372,9,0.0241935483870967,UFAL – Universidade Federal de Alagoas
+4,4,2018.0,385,21,0.0545454545454545,UFAL – Universidade Federal de Alagoas
+5,5,2019.0,295,17,0.0576271186440678,UFAL – Universidade Federal de Alagoas
+6,6,2020.0,392,17,0.0433673469387755,UFAL – Universidade Federal de Alagoas
+7,7,2021.0,302,11,0.0364238410596026,UFAL – Universidade Federal de Alagoas
+0,0,2013.0,115,4,0.0347826086956521,FURNAS – Furnas Centrais Elétricas S.A.
+1,1,2014.0,88,3,0.034090909090909,FURNAS – Furnas Centrais Elétricas S.A.
+2,2,2015.0,94,9,0.0957446808510638,FURNAS – Furnas Centrais Elétricas S.A.
+3,3,2016.0,123,14,0.1138211382113821,FURNAS – Furnas Centrais Elétricas S.A.
+4,4,2017.0,114,7,0.0614035087719298,FURNAS – Furnas Centrais Elétricas S.A.
+5,5,2018.0,99,10,0.101010101010101,FURNAS – Furnas Centrais Elétricas S.A.
+6,6,2019.0,141,15,0.1063829787234042,FURNAS – Furnas Centrais Elétricas S.A.
+7,7,2020.0,111,7,0.063063063063063,FURNAS – Furnas Centrais Elétricas S.A.
+8,8,2021.0,59,7,0.1186440677966101,FURNAS – Furnas Centrais Elétricas S.A.
+0,0,2013.0,106,2,0.0188679245283018,CEFET-MG – Centro Federal de Educação Tecnológica de Minas Gerais
+1,1,2016.0,110,1,0.009090909090909,CEFET-MG – Centro Federal de Educação Tecnológica de Minas Gerais
+2,2,2020.0,95,2,0.0210526315789473,CEFET-MG – Centro Federal de Educação Tecnológica de Minas Gerais
+3,3,2021.0,73,2,0.0273972602739726,CEFET-MG – Centro Federal de Educação Tecnológica de Minas Gerais
+0,0,2018.0,22,1,0.0454545454545454,INT – Instituto Nacional de Tecnologia
+1,1,2019.0,38,2,0.0526315789473684,INT – Instituto Nacional de Tecnologia
+2,2,2020.0,35,1,0.0285714285714285,INT – Instituto Nacional de Tecnologia
+3,3,2021.0,11,2,0.1818181818181818,INT – Instituto Nacional de Tecnologia
+0,0,2013.0,40,3,0.075,INPA – Instituto Nacional de Pesquisas da Amazônia
+1,1,2015.0,15,2,0.1333333333333333,INPA – Instituto Nacional de Pesquisas da Amazônia
+2,2,2016.0,27,1,0.037037037037037,INPA – Instituto Nacional de Pesquisas da Amazônia
+3,3,2017.0,26,1,0.0384615384615384,INPA – Instituto Nacional de Pesquisas da Amazônia
+4,4,2019.0,31,1,0.032258064516129,INPA – Instituto Nacional de Pesquisas da Amazônia
+5,5,2020.0,47,2,0.0425531914893617,INPA – Instituto Nacional de Pesquisas da Amazônia
+0,0,2013.0,90,2,0.0222222222222222,ENAP – Fundação Escola Nacional de Administração Pública
+1,1,2016.0,55,2,0.0363636363636363,ENAP – Fundação Escola Nacional de Administração Pública
+2,2,2017.0,56,3,0.0535714285714285,ENAP – Fundação Escola Nacional de Administração Pública
+3,3,2018.0,57,1,0.0175438596491228,ENAP – Fundação Escola Nacional de Administração Pública
+4,4,2019.0,151,7,0.0463576158940397,ENAP – Fundação Escola Nacional de Administração Pública
+5,5,2020.0,120,5,0.0416666666666666,ENAP – Fundação Escola Nacional de Administração Pública
+6,6,2021.0,111,6,0.054054054054054,ENAP – Fundação Escola Nacional de Administração Pública
+0,0,2013.0,62,4,0.064516129032258,UFU – Universidade Federal de Uberlândia
+1,1,2014.0,79,3,0.0379746835443038,UFU – Universidade Federal de Uberlândia
+2,2,2015.0,74,5,0.0675675675675675,UFU – Universidade Federal de Uberlândia
+3,3,2016.0,138,4,0.0289855072463768,UFU – Universidade Federal de Uberlândia
+4,4,2017.0,223,12,0.0538116591928251,UFU – Universidade Federal de Uberlândia
+5,5,2018.0,265,7,0.0264150943396226,UFU – Universidade Federal de Uberlândia
+6,6,2019.0,221,12,0.0542986425339366,UFU – Universidade Federal de Uberlândia
+7,7,2020.0,252,5,0.0198412698412698,UFU – Universidade Federal de Uberlândia
+8,8,2021.0,175,8,0.0457142857142857,UFU – Universidade Federal de Uberlândia
+0,0,2013.0,24,1,0.0416666666666666,FUNDAJ – Fundação Joaquim Nabuco
+1,1,2018.0,27,4,0.1481481481481481,FUNDAJ – Fundação Joaquim Nabuco
+0,0,2013.0,179,4,0.0223463687150838,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+1,1,2014.0,321,17,0.0529595015576324,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+2,2,2015.0,466,7,0.0150214592274678,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+3,3,2016.0,491,21,0.0427698574338085,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+4,4,2017.0,533,22,0.0412757973733583,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+5,5,2018.0,400,28,0.07,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+6,6,2019.0,259,11,0.0424710424710424,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+7,7,2020.0,184,14,0.0760869565217391,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+8,8,2021.0,94,7,0.0744680851063829,ELETROBRÁS – Centrais Elétricas Brasileiras S.A.
+0,0,2013.0,97,7,0.0721649484536082,UFPB – Universidade Federal da Paraíba
+1,1,2014.0,138,12,0.0869565217391304,UFPB – Universidade Federal da Paraíba
+2,2,2015.0,202,13,0.0643564356435643,UFPB – Universidade Federal da Paraíba
+3,3,2016.0,306,5,0.0163398692810457,UFPB – Universidade Federal da Paraíba
+4,4,2017.0,458,17,0.037117903930131,UFPB – Universidade Federal da Paraíba
+5,5,2018.0,442,11,0.0248868778280542,UFPB – Universidade Federal da Paraíba
+6,6,2019.0,393,14,0.0356234096692111,UFPB – Universidade Federal da Paraíba
+7,7,2020.0,374,11,0.0294117647058823,UFPB – Universidade Federal da Paraíba
+8,8,2021.0,431,31,0.0719257540603248,UFPB – Universidade Federal da Paraíba
+0,0,2013.0,128,4,0.03125,CADE – Conselho Administrativo de Defesa Econômica
+1,1,2015.0,144,13,0.0902777777777777,CADE – Conselho Administrativo de Defesa Econômica
+2,2,2016.0,122,7,0.0573770491803278,CADE – Conselho Administrativo de Defesa Econômica
+3,3,2017.0,167,7,0.0419161676646706,CADE – Conselho Administrativo de Defesa Econômica
+4,4,2018.0,153,3,0.0196078431372549,CADE – Conselho Administrativo de Defesa Econômica
+5,5,2019.0,196,8,0.0408163265306122,CADE – Conselho Administrativo de Defesa Econômica
+6,6,2020.0,176,7,0.0397727272727272,CADE – Conselho Administrativo de Defesa Econômica
+7,7,2021.0,125,4,0.032,CADE – Conselho Administrativo de Defesa Econômica
+0,0,2014.0,112,1,0.0089285714285714,UFRRJ – Universidade Federal Rural do Rio de Janeiro
+1,1,2015.0,100,1,0.01,UFRRJ – Universidade Federal Rural do Rio de Janeiro
+2,2,2016.0,105,2,0.019047619047619,UFRRJ – Universidade Federal Rural do Rio de Janeiro
+3,3,2017.0,273,2,0.0073260073260073,UFRRJ – Universidade Federal Rural do Rio de Janeiro
+4,4,2018.0,174,2,0.0114942528735632,UFRRJ – Universidade Federal Rural do Rio de Janeiro
+5,5,2019.0,170,3,0.0176470588235294,UFRRJ – Universidade Federal Rural do Rio de Janeiro
+6,6,2020.0,189,3,0.0158730158730158,UFRRJ – Universidade Federal Rural do Rio de Janeiro
+7,7,2021.0,163,5,0.0306748466257668,UFRRJ – Universidade Federal Rural do Rio de Janeiro
+0,0,2013.0,59,2,0.0338983050847457,"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+1,1,2014.0,91,1,0.0109890109890109,"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+2,2,2016.0,257,3,0.0116731517509727,"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+3,3,2017.0,494,21,0.0425101214574898,"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+4,4,2018.0,266,10,0.037593984962406,"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+5,5,2019.0,459,47,0.10239651416122,"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+6,6,2020.0,327,4,0.0122324159021406,"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+7,7,2021.0,202,4,0.0198019801980198,"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+0,0,2013.0,76,2,0.0263157894736842,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+1,1,2014.0,79,2,0.0253164556962025,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+2,2,2015.0,110,1,0.009090909090909,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+3,3,2016.0,214,14,0.0654205607476635,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+4,4,2017.0,235,4,0.0170212765957446,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+5,5,2018.0,203,5,0.0246305418719211,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+6,6,2019.0,188,4,0.0212765957446808,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+7,7,2020.0,159,3,0.0188679245283018,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+8,8,2021.0,116,3,0.0258620689655172,"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+0,0,2016.0,35,1,0.0285714285714285,IBRAM – Instituto Brasileiro de Museus
+1,1,2018.0,52,2,0.0384615384615384,IBRAM – Instituto Brasileiro de Museus
+2,2,2021.0,39,1,0.0256410256410256,IBRAM – Instituto Brasileiro de Museus
+0,0,2013.0,36,3,0.0833333333333333,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+1,1,2014.0,74,6,0.081081081081081,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+2,2,2015.0,80,1,0.0125,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+3,3,2016.0,193,3,0.0155440414507772,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+4,4,2017.0,325,5,0.0153846153846153,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+5,5,2018.0,276,6,0.0217391304347826,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+6,6,2019.0,273,7,0.0256410256410256,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+7,7,2020.0,232,8,0.0344827586206896,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+8,8,2021.0,154,5,0.0324675324675324,"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+0,0,2013.0,111,8,0.072072072072072,UFC – Universidade Federal do Ceará
+1,1,2014.0,199,10,0.050251256281407,UFC – Universidade Federal do Ceará
+2,2,2016.0,276,7,0.0253623188405797,UFC – Universidade Federal do Ceará
+3,3,2017.0,403,22,0.0545905707196029,UFC – Universidade Federal do Ceará
+4,4,2018.0,395,14,0.0354430379746835,UFC – Universidade Federal do Ceará
+5,5,2019.0,396,15,0.0378787878787878,UFC – Universidade Federal do Ceará
+6,6,2020.0,380,24,0.0631578947368421,UFC – Universidade Federal do Ceará
+7,7,2021.0,318,14,0.0440251572327044,UFC – Universidade Federal do Ceará
+0,0,2016.0,116,2,0.0172413793103448,"IFTM – Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro"
+1,1,2017.0,136,1,0.0073529411764705,"IFTM – Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro"
+2,2,2018.0,111,3,0.027027027027027,"IFTM – Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro"
+3,3,2019.0,115,3,0.0260869565217391,"IFTM – Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro"
+0,0,2013.0,89,1,0.0112359550561797,ITI – Instituto Nacional de Tecnologia da Informação
+1,1,2016.0,67,2,0.0298507462686567,ITI – Instituto Nacional de Tecnologia da Informação
+2,2,2017.0,66,2,0.0303030303030303,ITI – Instituto Nacional de Tecnologia da Informação
+3,3,2018.0,65,6,0.0923076923076923,ITI – Instituto Nacional de Tecnologia da Informação
+4,4,2019.0,315,14,0.0444444444444444,ITI – Instituto Nacional de Tecnologia da Informação
+5,5,2021.0,317,18,0.056782334384858,ITI – Instituto Nacional de Tecnologia da Informação
+0,0,2013.0,38,3,0.0789473684210526,"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso"
+1,1,2014.0,163,8,0.0490797546012269,"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso"
+2,2,2016.0,131,1,0.0076335877862595,"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso"
+3,3,2017.0,173,6,0.0346820809248554,"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso"
+4,4,2018.0,146,2,0.0136986301369863,"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso"
+5,5,2019.0,153,8,0.0522875816993464,"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso"
+6,6,2020.0,159,6,0.0377358490566037,"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso"
+7,7,2021.0,122,5,0.040983606557377,"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso"
+0,0,2018.0,211,6,0.0284360189573459,UFSCar – Fundação Universidade Federal de São Carlos
+1,1,2019.0,173,3,0.0173410404624277,UFSCar – Fundação Universidade Federal de São Carlos
+2,2,2020.0,231,4,0.0173160173160173,UFSCar – Fundação Universidade Federal de São Carlos
+3,3,2021.0,160,6,0.0375,UFSCar – Fundação Universidade Federal de São Carlos
+0,0,2015.0,64,2,0.03125,"IFRS – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+1,1,2016.0,108,1,0.0092592592592592,"IFRS – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+2,2,2019.0,244,23,0.0942622950819672,"IFRS – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+3,3,2020.0,155,4,0.0258064516129032,"IFRS – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+4,4,2021.0,108,3,0.0277777777777777,"IFRS – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+0,0,2013.0,96,7,0.0729166666666666,BB Tecnologia e Serviços
+1,1,2014.0,126,4,0.0317460317460317,BB Tecnologia e Serviços
+2,2,2015.0,90,14,0.1555555555555555,BB Tecnologia e Serviços
+3,3,2016.0,139,11,0.079136690647482,BB Tecnologia e Serviços
+4,4,2017.0,149,8,0.0536912751677852,BB Tecnologia e Serviços
+5,5,2018.0,68,9,0.1323529411764706,BB Tecnologia e Serviços
+6,6,2019.0,99,17,0.1717171717171717,BB Tecnologia e Serviços
+7,7,2020.0,101,12,0.1188118811881188,BB Tecnologia e Serviços
+8,8,2021.0,35,5,0.1428571428571428,BB Tecnologia e Serviços
+0,0,2015.0,68,7,0.1029411764705882,"IFSC – Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+1,1,2016.0,128,6,0.046875,"IFSC – Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+2,2,2017.0,176,5,0.0284090909090909,"IFSC – Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+3,3,2018.0,166,12,0.072289156626506,"IFSC – Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+4,4,2019.0,206,19,0.0922330097087378,"IFSC – Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+5,5,2020.0,228,12,0.0526315789473684,"IFSC – Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+6,6,2021.0,120,5,0.0416666666666666,"IFSC – Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+0,0,2017.0,186,1,0.0053763440860215,"IFRJ – Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+0,0,2013.0,114,7,0.0614035087719298,UFG – Universidade Federal de Goiás
+1,1,2014.0,172,7,0.0406976744186046,UFG – Universidade Federal de Goiás
+2,2,2015.0,150,7,0.0466666666666666,UFG – Universidade Federal de Goiás
+3,3,2016.0,264,13,0.0492424242424242,UFG – Universidade Federal de Goiás
+4,4,2017.0,377,25,0.0663129973474801,UFG – Universidade Federal de Goiás
+5,5,2018.0,369,24,0.065040650406504,UFG – Universidade Federal de Goiás
+6,6,2019.0,326,22,0.0674846625766871,UFG – Universidade Federal de Goiás
+7,7,2020.0,371,11,0.0296495956873315,UFG – Universidade Federal de Goiás
+8,8,2021.0,307,24,0.0781758957654723,UFG – Universidade Federal de Goiás
+0,0,2016.0,246,1,0.0040650406504065,"IFPE – Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco"
+1,1,2017.0,314,1,0.0031847133757961,"IFPE – Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco"
+2,2,2019.0,279,1,0.003584229390681,"IFPE – Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco"
+3,3,2020.0,233,2,0.0085836909871244,"IFPE – Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco"
+0,0,2013.0,47,5,0.1063829787234042,CDRJ – Companhia Docas do Rio de Janeiro
+1,1,2014.0,66,3,0.0454545454545454,CDRJ – Companhia Docas do Rio de Janeiro
+2,2,2015.0,61,3,0.0491803278688524,CDRJ – Companhia Docas do Rio de Janeiro
+3,3,2016.0,95,3,0.031578947368421,CDRJ – Companhia Docas do Rio de Janeiro
+4,4,2017.0,100,8,0.08,CDRJ – Companhia Docas do Rio de Janeiro
+5,5,2018.0,69,4,0.0579710144927536,CDRJ – Companhia Docas do Rio de Janeiro
+6,6,2019.0,81,7,0.0864197530864197,CDRJ – Companhia Docas do Rio de Janeiro
+7,7,2020.0,84,2,0.0238095238095238,CDRJ – Companhia Docas do Rio de Janeiro
+8,8,2021.0,115,16,0.1391304347826087,CDRJ – Companhia Docas do Rio de Janeiro
+0,0,2013.0,99,1,0.0101010101010101,UFAM – Fundação Universidade do Amazonas
+1,1,2014.0,226,7,0.0309734513274336,UFAM – Fundação Universidade do Amazonas
+2,2,2015.0,205,7,0.0341463414634146,UFAM – Fundação Universidade do Amazonas
+3,3,2016.0,217,11,0.0506912442396313,UFAM – Fundação Universidade do Amazonas
+4,4,2017.0,267,10,0.0374531835205992,UFAM – Fundação Universidade do Amazonas
+5,5,2018.0,220,3,0.0136363636363636,UFAM – Fundação Universidade do Amazonas
+6,6,2019.0,254,10,0.0393700787401574,UFAM – Fundação Universidade do Amazonas
+7,7,2020.0,271,22,0.081180811808118,UFAM – Fundação Universidade do Amazonas
+8,8,2021.0,207,9,0.0434782608695652,UFAM – Fundação Universidade do Amazonas
+0,0,2013.0,87,5,0.057471264367816,UFRGS – Universidade Federal do Rio Grande do Sul
+1,1,2014.0,157,6,0.0382165605095541,UFRGS – Universidade Federal do Rio Grande do Sul
+2,2,2015.0,125,1,0.008,UFRGS – Universidade Federal do Rio Grande do Sul
+3,3,2016.0,129,1,0.0077519379844961,UFRGS – Universidade Federal do Rio Grande do Sul
+4,4,2017.0,422,2,0.0047393364928909,UFRGS – Universidade Federal do Rio Grande do Sul
+5,5,2018.0,196,1,0.0051020408163265,UFRGS – Universidade Federal do Rio Grande do Sul
+6,6,2019.0,357,5,0.0140056022408963,UFRGS – Universidade Federal do Rio Grande do Sul
+7,7,2020.0,267,5,0.0187265917602996,UFRGS – Universidade Federal do Rio Grande do Sul
+8,8,2021.0,308,15,0.0487012987012987,UFRGS – Universidade Federal do Rio Grande do Sul
+0,0,2014.0,76,1,0.0131578947368421,UFT – Fundação Universidade Federal do Tocantins
+1,1,2017.0,164,1,0.0060975609756097,UFT – Fundação Universidade Federal do Tocantins
+2,2,2018.0,175,3,0.0171428571428571,UFT – Fundação Universidade Federal do Tocantins
+3,3,2021.0,152,1,0.006578947368421,UFT – Fundação Universidade Federal do Tocantins
+0,0,2013.0,269,7,0.0260223048327137,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+1,1,2014.0,326,12,0.0368098159509202,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+2,2,2015.0,748,38,0.0508021390374331,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+3,3,2016.0,326,12,0.0368098159509202,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+4,4,2017.0,409,22,0.0537897310513447,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+5,5,2018.0,274,5,0.0182481751824817,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+6,6,2019.0,543,40,0.0736648250460405,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+7,7,2020.0,470,44,0.0936170212765957,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+8,8,2021.0,374,31,0.0828877005347593,CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico
+0,0,2013.0,79,4,0.050632911392405,TELEBRÁS – Telecomunicações Brasileiras S.A.
+1,1,2014.0,105,1,0.0095238095238095,TELEBRÁS – Telecomunicações Brasileiras S.A.
+2,2,2015.0,86,3,0.0348837209302325,TELEBRÁS – Telecomunicações Brasileiras S.A.
+3,3,2016.0,113,2,0.0176991150442477,TELEBRÁS – Telecomunicações Brasileiras S.A.
+4,4,2017.0,91,1,0.0109890109890109,TELEBRÁS – Telecomunicações Brasileiras S.A.
+5,5,2018.0,57,11,0.1929824561403508,TELEBRÁS – Telecomunicações Brasileiras S.A.
+6,6,2019.0,92,9,0.0978260869565217,TELEBRÁS – Telecomunicações Brasileiras S.A.
+7,7,2020.0,80,2,0.025,TELEBRÁS – Telecomunicações Brasileiras S.A.
+0,0,2014.0,41,1,0.024390243902439,"IFMS – Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul"
+1,1,2016.0,101,2,0.0198019801980198,"IFMS – Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul"
+2,2,2017.0,110,1,0.009090909090909,"IFMS – Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul"
+3,3,2018.0,136,3,0.0220588235294117,"IFMS – Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul"
+4,4,2019.0,119,1,0.0084033613445378,"IFMS – Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul"
+5,5,2020.0,138,6,0.0434782608695652,"IFMS – Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul"
+6,6,2021.0,84,2,0.0238095238095238,"IFMS – Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul"
+0,0,2013.0,119,1,0.0084033613445378,CP II – Colégio Pedro II
+1,1,2015.0,67,1,0.0149253731343283,CP II – Colégio Pedro II
+2,2,2016.0,67,5,0.0746268656716417,CP II – Colégio Pedro II
+3,3,2017.0,108,6,0.0555555555555555,CP II – Colégio Pedro II
+4,4,2018.0,107,2,0.0186915887850467,CP II – Colégio Pedro II
+5,5,2019.0,135,4,0.0296296296296296,CP II – Colégio Pedro II
+6,6,2020.0,115,2,0.017391304347826,CP II – Colégio Pedro II
+7,7,2021.0,66,1,0.0151515151515151,CP II – Colégio Pedro II
+0,0,2013.0,54,3,0.0555555555555555,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+1,1,2014.0,55,8,0.1454545454545454,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+2,2,2015.0,68,8,0.1176470588235294,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+3,3,2016.0,173,5,0.0289017341040462,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+4,4,2017.0,303,1,0.0033003300330033,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+5,5,2018.0,225,4,0.0177777777777777,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+6,6,2019.0,251,2,0.0079681274900398,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+7,7,2020.0,201,5,0.0248756218905472,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+8,8,2021.0,148,2,0.0135135135135135,"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+0,0,2013.0,52,4,0.0769230769230769,ELETRONORTE – Centrais Elétricas do Norte do Brasil S.A.
+1,1,2014.0,41,5,0.1219512195121951,ELETRONORTE – Centrais Elétricas do Norte do Brasil S.A.
+2,2,2015.0,90,4,0.0444444444444444,ELETRONORTE – Centrais Elétricas do Norte do Brasil S.A.
+3,3,2016.0,42,1,0.0238095238095238,ELETRONORTE – Centrais Elétricas do Norte do Brasil S.A.
+4,4,2018.0,99,8,0.0808080808080808,ELETRONORTE – Centrais Elétricas do Norte do Brasil S.A.
+5,5,2019.0,155,8,0.0516129032258064,ELETRONORTE – Centrais Elétricas do Norte do Brasil S.A.
+6,6,2020.0,132,2,0.0151515151515151,ELETRONORTE – Centrais Elétricas do Norte do Brasil S.A.
+0,0,2014.0,27,1,0.037037037037037,SUDAM – Superintendência do Desenvolvimento da Amazônia
+1,1,2019.0,47,1,0.0212765957446808,SUDAM – Superintendência do Desenvolvimento da Amazônia
+0,0,2013.0,104,5,0.048076923076923,TRENSURB – Empresa de Trens Urbanos de Porto Alegre S.A.
+1,1,2014.0,56,6,0.1071428571428571,TRENSURB – Empresa de Trens Urbanos de Porto Alegre S.A.
+2,2,2015.0,49,1,0.0204081632653061,TRENSURB – Empresa de Trens Urbanos de Porto Alegre S.A.
+3,3,2016.0,77,2,0.0259740259740259,TRENSURB – Empresa de Trens Urbanos de Porto Alegre S.A.
+4,4,2017.0,87,3,0.0344827586206896,TRENSURB – Empresa de Trens Urbanos de Porto Alegre S.A.
+5,5,2018.0,105,9,0.0857142857142857,TRENSURB – Empresa de Trens Urbanos de Porto Alegre S.A.
+6,6,2019.0,86,4,0.0465116279069767,TRENSURB – Empresa de Trens Urbanos de Porto Alegre S.A.
+7,7,2020.0,65,2,0.0307692307692307,TRENSURB – Empresa de Trens Urbanos de Porto Alegre S.A.
+0,0,2013.0,78,2,0.0256410256410256,UFBA – Universidade Federal da Bahia
+1,1,2014.0,130,9,0.0692307692307692,UFBA – Universidade Federal da Bahia
+2,2,2015.0,112,4,0.0357142857142857,UFBA – Universidade Federal da Bahia
+3,3,2016.0,226,4,0.0176991150442477,UFBA – Universidade Federal da Bahia
+4,4,2017.0,358,7,0.0195530726256983,UFBA – Universidade Federal da Bahia
+5,5,2018.0,339,12,0.0353982300884955,UFBA – Universidade Federal da Bahia
+6,6,2019.0,372,6,0.0161290322580645,UFBA – Universidade Federal da Bahia
+7,7,2020.0,323,15,0.0464396284829721,UFBA – Universidade Federal da Bahia
+8,8,2021.0,274,20,0.072992700729927,UFBA – Universidade Federal da Bahia
+0,0,2014.0,20,1,0.05,HFA – Hospital das Forças Armadas
+1,1,2015.0,35,5,0.1428571428571428,HFA – Hospital das Forças Armadas
+2,2,2017.0,32,2,0.0625,HFA – Hospital das Forças Armadas
+3,3,2018.0,39,1,0.0256410256410256,HFA – Hospital das Forças Armadas
+4,4,2019.0,66,4,0.0606060606060606,HFA – Hospital das Forças Armadas
+5,5,2020.0,65,8,0.123076923076923,HFA – Hospital das Forças Armadas
+6,6,2021.0,32,2,0.0625,HFA – Hospital das Forças Armadas
+0,0,2013.0,169,2,0.0118343195266272,UFES – Universidade Federal do Espírito Santo
+1,1,2014.0,147,5,0.0340136054421768,UFES – Universidade Federal do Espírito Santo
+2,2,2015.0,116,3,0.0258620689655172,UFES – Universidade Federal do Espírito Santo
+3,3,2016.0,150,5,0.0333333333333333,UFES – Universidade Federal do Espírito Santo
+4,4,2017.0,230,1,0.0043478260869565,UFES – Universidade Federal do Espírito Santo
+5,5,2018.0,266,10,0.037593984962406,UFES – Universidade Federal do Espírito Santo
+6,6,2019.0,240,12,0.05,UFES – Universidade Federal do Espírito Santo
+7,7,2020.0,240,7,0.0291666666666666,UFES – Universidade Federal do Espírito Santo
+8,8,2021.0,195,10,0.0512820512820512,UFES – Universidade Federal do Espírito Santo
+0,0,2014.0,80,3,0.0375,"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+1,1,2015.0,74,1,0.0135135135135135,"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+2,2,2016.0,190,2,0.0105263157894736,"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+3,3,2017.0,199,1,0.0050251256281407,"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+4,4,2018.0,168,3,0.0178571428571428,"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+5,5,2019.0,267,9,0.0337078651685393,"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+6,6,2020.0,195,1,0.0051282051282051,"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+7,7,2021.0,270,1,0.0037037037037037,"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+0,0,2013.0,44,1,0.0227272727272727,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+1,1,2014.0,67,1,0.0149253731343283,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+2,2,2015.0,43,2,0.0465116279069767,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+3,3,2016.0,159,2,0.0125786163522012,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+4,4,2017.0,195,1,0.0051282051282051,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+5,5,2018.0,168,13,0.0773809523809523,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+6,6,2019.0,161,14,0.0869565217391304,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+7,7,2020.0,123,4,0.032520325203252,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+8,8,2021.0,91,2,0.0219780219780219,"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+0,0,2017.0,321,40,0.1246105919003115,"IF FLUMINENSE – Instituto Federal de Educação, Ciência e Tecnologia Fluminense"
+1,1,2018.0,158,4,0.0253164556962025,"IF FLUMINENSE – Instituto Federal de Educação, Ciência e Tecnologia Fluminense"
+2,2,2019.0,133,4,0.0300751879699248,"IF FLUMINENSE – Instituto Federal de Educação, Ciência e Tecnologia Fluminense"
+3,3,2020.0,129,2,0.0155038759689922,"IF FLUMINENSE – Instituto Federal de Educação, Ciência e Tecnologia Fluminense"
+4,4,2021.0,78,2,0.0256410256410256,"IF FLUMINENSE – Instituto Federal de Educação, Ciência e Tecnologia Fluminense"
+0,0,2021.0,91,1,0.0109890109890109,"IFSPE – Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano"
+0,0,2014.0,43,1,0.0232558139534883,"IFNMG – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+1,1,2015.0,55,4,0.0727272727272727,"IFNMG – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+2,2,2016.0,148,1,0.0067567567567567,"IFNMG – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+3,3,2017.0,190,3,0.0157894736842105,"IFNMG – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+4,4,2018.0,139,5,0.0359712230215827,"IFNMG – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+5,5,2019.0,114,4,0.0350877192982456,"IFNMG – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+6,6,2020.0,132,3,0.0227272727272727,"IFNMG – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+7,7,2021.0,86,3,0.0348837209302325,"IFNMG – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+0,0,2013.0,24,1,0.0416666666666666,"IFS – Instituto Federal de Educação, Ciência e Tecnologia de Sergipe"
+1,1,2016.0,184,1,0.0054347826086956,"IFS – Instituto Federal de Educação, Ciência e Tecnologia de Sergipe"
+2,2,2017.0,204,2,0.0098039215686274,"IFS – Instituto Federal de Educação, Ciência e Tecnologia de Sergipe"
+3,3,2018.0,227,2,0.0088105726872246,"IFS – Instituto Federal de Educação, Ciência e Tecnologia de Sergipe"
+4,4,2019.0,192,3,0.015625,"IFS – Instituto Federal de Educação, Ciência e Tecnologia de Sergipe"
+5,5,2020.0,179,9,0.0502793296089385,"IFS – Instituto Federal de Educação, Ciência e Tecnologia de Sergipe"
+6,6,2021.0,100,3,0.03,"IFS – Instituto Federal de Educação, Ciência e Tecnologia de Sergipe"
+0,0,2015.0,45,1,0.0222222222222222,"IFFAR – Instituto Federal de Educação, Ciência e Tecnologia Farroupilha"
+1,1,2017.0,134,1,0.0074626865671641,"IFFAR – Instituto Federal de Educação, Ciência e Tecnologia Farroupilha"
+2,2,2018.0,124,1,0.0080645161290322,"IFFAR – Instituto Federal de Educação, Ciência e Tecnologia Farroupilha"
+3,3,2019.0,118,5,0.0423728813559322,"IFFAR – Instituto Federal de Educação, Ciência e Tecnologia Farroupilha"
+4,4,2020.0,116,2,0.0172413793103448,"IFFAR – Instituto Federal de Educação, Ciência e Tecnologia Farroupilha"
+5,5,2021.0,85,5,0.0588235294117647,"IFFAR – Instituto Federal de Educação, Ciência e Tecnologia Farroupilha"
+0,0,2013.0,28,1,0.0357142857142857,"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+1,1,2014.0,38,4,0.1052631578947368,"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+2,2,2016.0,196,7,0.0357142857142857,"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+3,3,2017.0,241,6,0.0248962655601659,"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+4,4,2018.0,215,4,0.0186046511627906,"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+5,5,2019.0,204,3,0.0147058823529411,"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+6,6,2020.0,249,2,0.0080321285140562,"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+7,7,2021.0,174,5,0.028735632183908,"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+0,0,2019.0,10,1,0.1,PR – Presidência da República
+0,0,2013.0,60,7,0.1166666666666666,CODESA – Companhia Docas do Espírito Santo
+1,1,2014.0,54,3,0.0555555555555555,CODESA – Companhia Docas do Espírito Santo
+2,2,2015.0,94,2,0.0212765957446808,CODESA – Companhia Docas do Espírito Santo
+3,3,2016.0,94,4,0.0425531914893617,CODESA – Companhia Docas do Espírito Santo
+4,4,2017.0,100,2,0.02,CODESA – Companhia Docas do Espírito Santo
+5,5,2018.0,183,18,0.0983606557377049,CODESA – Companhia Docas do Espírito Santo
+6,6,2019.0,227,9,0.039647577092511,CODESA – Companhia Docas do Espírito Santo
+7,7,2020.0,95,4,0.0421052631578947,CODESA – Companhia Docas do Espírito Santo
+8,8,2021.0,79,10,0.1265822784810126,CODESA – Companhia Docas do Espírito Santo
+0,0,2013.0,51,1,0.0196078431372549,UFTM – Universidade Federal do Triângulo Mineiro
+1,1,2015.0,75,7,0.0933333333333333,UFTM – Universidade Federal do Triângulo Mineiro
+2,2,2016.0,124,1,0.0080645161290322,UFTM – Universidade Federal do Triângulo Mineiro
+3,3,2017.0,194,1,0.0051546391752577,UFTM – Universidade Federal do Triângulo Mineiro
+4,4,2018.0,172,2,0.0116279069767441,UFTM – Universidade Federal do Triângulo Mineiro
+5,5,2019.0,166,1,0.0060240963855421,UFTM – Universidade Federal do Triângulo Mineiro
+6,6,2020.0,171,3,0.0175438596491228,UFTM – Universidade Federal do Triângulo Mineiro
+7,7,2021.0,151,4,0.0264900662251655,UFTM – Universidade Federal do Triângulo Mineiro
+0,0,2014.0,139,1,0.0071942446043165,CEFET-RJ – Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+1,1,2016.0,61,1,0.0163934426229508,CEFET-RJ – Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+2,2,2017.0,84,1,0.0119047619047619,CEFET-RJ – Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+3,3,2018.0,88,1,0.0113636363636363,CEFET-RJ – Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+4,4,2020.0,112,4,0.0357142857142857,CEFET-RJ – Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+0,0,2014.0,42,4,0.0952380952380952,UFCSPA – Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+1,1,2015.0,42,4,0.0952380952380952,UFCSPA – Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+2,2,2016.0,72,1,0.0138888888888888,UFCSPA – Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+3,3,2017.0,108,4,0.037037037037037,UFCSPA – Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+4,4,2019.0,106,1,0.0094339622641509,UFCSPA – Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+5,5,2020.0,129,1,0.0077519379844961,UFCSPA – Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+6,6,2021.0,119,1,0.0084033613445378,UFCSPA – Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+0,0,2013.0,124,2,0.0161290322580645,UFF – Universidade Federal Fluminense
+1,1,2014.0,177,1,0.0056497175141242,UFF – Universidade Federal Fluminense
+2,2,2015.0,154,2,0.0129870129870129,UFF – Universidade Federal Fluminense
+3,3,2016.0,208,3,0.0144230769230769,UFF – Universidade Federal Fluminense
+4,4,2017.0,326,14,0.0429447852760736,UFF – Universidade Federal Fluminense
+5,5,2018.0,319,11,0.0344827586206896,UFF – Universidade Federal Fluminense
+6,6,2019.0,306,30,0.0980392156862745,UFF – Universidade Federal Fluminense
+7,7,2020.0,361,50,0.1385041551246537,UFF – Universidade Federal Fluminense
+8,8,2021.0,278,25,0.0899280575539568,UFF – Universidade Federal Fluminense
+0,0,2013.0,53,14,0.2641509433962264,FUNRei - Fundação Universidade Federal de São João Del Rei
+1,1,2014.0,44,2,0.0454545454545454,FUNRei - Fundação Universidade Federal de São João Del Rei
+2,2,2015.0,103,9,0.087378640776699,FUNRei - Fundação Universidade Federal de São João Del Rei
+3,3,2016.0,108,3,0.0277777777777777,FUNRei - Fundação Universidade Federal de São João Del Rei
+4,4,2017.0,171,6,0.0350877192982456,FUNRei - Fundação Universidade Federal de São João Del Rei
+5,5,2018.0,208,2,0.0096153846153846,FUNRei - Fundação Universidade Federal de São João Del Rei
+6,6,2019.0,162,1,0.0061728395061728,FUNRei - Fundação Universidade Federal de São João Del Rei
+7,7,2020.0,169,4,0.0236686390532544,FUNRei - Fundação Universidade Federal de São João Del Rei
+8,8,2021.0,132,6,0.0454545454545454,FUNRei - Fundação Universidade Federal de São João Del Rei
+0,0,2014.0,77,2,0.0259740259740259,UFMA – Fundação Universidade Federal do Maranhão
+1,1,2015.0,128,2,0.015625,UFMA – Fundação Universidade Federal do Maranhão
+2,2,2016.0,146,10,0.0684931506849315,UFMA – Fundação Universidade Federal do Maranhão
+3,3,2017.0,258,6,0.0232558139534883,UFMA – Fundação Universidade Federal do Maranhão
+4,4,2018.0,309,2,0.0064724919093851,UFMA – Fundação Universidade Federal do Maranhão
+5,5,2019.0,256,2,0.0078125,UFMA – Fundação Universidade Federal do Maranhão
+6,6,2020.0,319,8,0.0250783699059561,UFMA – Fundação Universidade Federal do Maranhão
+7,7,2021.0,222,2,0.009009009009009,UFMA – Fundação Universidade Federal do Maranhão
+0,0,2015.0,30,1,0.0333333333333333,SUDECO – Superintendência de Desenvolvimento do Centro-Oeste
+1,1,2016.0,27,2,0.074074074074074,SUDECO – Superintendência de Desenvolvimento do Centro-Oeste
+2,2,2017.0,29,1,0.0344827586206896,SUDECO – Superintendência de Desenvolvimento do Centro-Oeste
+3,3,2020.0,32,1,0.03125,SUDECO – Superintendência de Desenvolvimento do Centro-Oeste
+4,4,2021.0,26,1,0.0384615384615384,SUDECO – Superintendência de Desenvolvimento do Centro-Oeste
+0,0,2013.0,82,2,0.024390243902439,UFPR – Universidade Federal do Paraná
+1,1,2014.0,130,5,0.0384615384615384,UFPR – Universidade Federal do Paraná
+2,2,2015.0,163,12,0.0736196319018405,UFPR – Universidade Federal do Paraná
+3,3,2016.0,145,7,0.0482758620689655,UFPR – Universidade Federal do Paraná
+4,4,2017.0,230,5,0.0217391304347826,UFPR – Universidade Federal do Paraná
+5,5,2018.0,247,5,0.020242914979757,UFPR – Universidade Federal do Paraná
+6,6,2019.0,241,10,0.0414937759336099,UFPR – Universidade Federal do Paraná
+7,7,2020.0,218,7,0.0321100917431192,UFPR – Universidade Federal do Paraná
+8,8,2021.0,230,14,0.0608695652173913,UFPR – Universidade Federal do Paraná
+0,0,2013.0,56,4,0.0714285714285714,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+1,1,2014.0,79,6,0.0759493670886076,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+2,2,2015.0,74,1,0.0135135135135135,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+3,3,2016.0,124,5,0.0403225806451612,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+4,4,2017.0,204,1,0.0049019607843137,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+5,5,2018.0,262,10,0.0381679389312977,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+6,6,2019.0,196,14,0.0714285714285714,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+7,7,2020.0,264,11,0.0416666666666666,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+8,8,2021.0,252,20,0.0793650793650793,UFMS – Fundação Universidade Federal de Mato Grosso do Sul
+0,0,2016.0,161,2,0.0124223602484472,UFS – Fundação Universidade Federal de Sergipe
+1,1,2017.0,305,3,0.0098360655737704,UFS – Fundação Universidade Federal de Sergipe
+2,2,2018.0,242,1,0.0041322314049586,UFS – Fundação Universidade Federal de Sergipe
+3,3,2019.0,177,5,0.0282485875706214,UFS – Fundação Universidade Federal de Sergipe
+4,4,2020.0,224,3,0.0133928571428571,UFS – Fundação Universidade Federal de Sergipe
+5,5,2021.0,230,5,0.0217391304347826,UFS – Fundação Universidade Federal de Sergipe
+0,0,2017.0,142,2,0.0140845070422535,UFGD – Fundação Universidade Federal da Grande Dourados
+1,1,2019.0,132,6,0.0454545454545454,UFGD – Fundação Universidade Federal da Grande Dourados
+2,2,2020.0,156,3,0.0192307692307692,UFGD – Fundação Universidade Federal da Grande Dourados
+3,3,2021.0,185,1,0.0054054054054054,UFGD – Fundação Universidade Federal da Grande Dourados
+0,0,2013.0,136,5,0.0367647058823529,UFSC – Universidade Federal de Santa Catarina
+1,1,2014.0,194,5,0.0257731958762886,UFSC – Universidade Federal de Santa Catarina
+2,2,2015.0,177,13,0.0734463276836158,UFSC – Universidade Federal de Santa Catarina
+3,3,2016.0,258,6,0.0232558139534883,UFSC – Universidade Federal de Santa Catarina
+4,4,2017.0,359,36,0.1002785515320334,UFSC – Universidade Federal de Santa Catarina
+5,5,2018.0,374,37,0.0989304812834224,UFSC – Universidade Federal de Santa Catarina
+6,6,2019.0,320,39,0.121875,UFSC – Universidade Federal de Santa Catarina
+7,7,2020.0,307,23,0.0749185667752443,UFSC – Universidade Federal de Santa Catarina
+8,8,2021.0,306,31,0.1013071895424836,UFSC – Universidade Federal de Santa Catarina
+0,0,2013.0,62,6,0.0967741935483871,UFMT – Fundação Universidade Federal de Mato Grosso
+1,1,2014.0,95,3,0.031578947368421,UFMT – Fundação Universidade Federal de Mato Grosso
+2,2,2015.0,94,3,0.0319148936170212,UFMT – Fundação Universidade Federal de Mato Grosso
+3,3,2016.0,139,1,0.0071942446043165,UFMT – Fundação Universidade Federal de Mato Grosso
+4,4,2017.0,212,1,0.0047169811320754,UFMT – Fundação Universidade Federal de Mato Grosso
+5,5,2018.0,209,2,0.0095693779904306,UFMT – Fundação Universidade Federal de Mato Grosso
+6,6,2019.0,201,6,0.0298507462686567,UFMT – Fundação Universidade Federal de Mato Grosso
+7,7,2020.0,245,5,0.0204081632653061,UFMT – Fundação Universidade Federal de Mato Grosso
+8,8,2021.0,219,7,0.0319634703196347,UFMT – Fundação Universidade Federal de Mato Grosso
+0,0,2013.0,58,3,0.0517241379310344,"IFAM – Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+1,1,2014.0,55,4,0.0727272727272727,"IFAM – Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+2,2,2015.0,109,1,0.0091743119266055,"IFAM – Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+3,3,2016.0,125,1,0.008,"IFAM – Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+4,4,2017.0,163,1,0.0061349693251533,"IFAM – Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+5,5,2018.0,155,3,0.0193548387096774,"IFAM – Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+6,6,2019.0,160,3,0.01875,"IFAM – Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+0,0,2014.0,23,1,0.0434782608695652,CTI – Centro de Tecnologia da Informação Renato Archer
+1,1,2016.0,13,2,0.1538461538461538,CTI – Centro de Tecnologia da Informação Renato Archer
+2,2,2017.0,19,1,0.0526315789473684,CTI – Centro de Tecnologia da Informação Renato Archer
+3,3,2019.0,37,1,0.027027027027027,CTI – Centro de Tecnologia da Informação Renato Archer
+0,0,2014.0,39,1,0.0256410256410256,"IFTO – Instituto Federal de Educação, Ciência e Tecnologia do Tocantins"
+1,1,2016.0,113,4,0.0353982300884955,"IFTO – Instituto Federal de Educação, Ciência e Tecnologia do Tocantins"
+2,2,2017.0,139,2,0.014388489208633,"IFTO – Instituto Federal de Educação, Ciência e Tecnologia do Tocantins"
+3,3,2018.0,127,2,0.0157480314960629,"IFTO – Instituto Federal de Educação, Ciência e Tecnologia do Tocantins"
+4,4,2019.0,115,3,0.0260869565217391,"IFTO – Instituto Federal de Educação, Ciência e Tecnologia do Tocantins"
+5,5,2020.0,131,3,0.0229007633587786,"IFTO – Instituto Federal de Educação, Ciência e Tecnologia do Tocantins"
+6,6,2021.0,113,2,0.0176991150442477,"IFTO – Instituto Federal de Educação, Ciência e Tecnologia do Tocantins"
+0,0,2014.0,14,1,0.0714285714285714,CETEM – Centro de Tecnologia Mineral
+0,0,2014.0,33,1,0.0303030303030303,INB – Indústrias Nucleares do Brasil S.A.
+1,1,2016.0,40,8,0.2,INB – Indústrias Nucleares do Brasil S.A.
+2,2,2017.0,53,1,0.0188679245283018,INB – Indústrias Nucleares do Brasil S.A.
+3,3,2018.0,166,1,0.0060240963855421,INB – Indústrias Nucleares do Brasil S.A.
+4,4,2019.0,106,3,0.0283018867924528,INB – Indústrias Nucleares do Brasil S.A.
+5,5,2020.0,74,1,0.0135135135135135,INB – Indústrias Nucleares do Brasil S.A.
+0,0,2013.0,87,7,0.0804597701149425,EPE – Empresa de Pesquisa Energética
+1,1,2014.0,102,1,0.0098039215686274,EPE – Empresa de Pesquisa Energética
+2,2,2016.0,149,1,0.0067114093959731,EPE – Empresa de Pesquisa Energética
+3,3,2017.0,169,14,0.0828402366863905,EPE – Empresa de Pesquisa Energética
+4,4,2018.0,246,27,0.1097560975609756,EPE – Empresa de Pesquisa Energética
+5,5,2019.0,314,41,0.1305732484076433,EPE – Empresa de Pesquisa Energética
+6,6,2020.0,182,20,0.1098901098901098,EPE – Empresa de Pesquisa Energética
+7,7,2021.0,211,22,0.1042654028436018,EPE – Empresa de Pesquisa Energética
+0,0,2015.0,90,1,0.0111111111111111,"IF BAIANO – Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+1,1,2017.0,215,1,0.0046511627906976,"IF BAIANO – Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+2,2,2018.0,189,6,0.0317460317460317,"IF BAIANO – Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+3,3,2019.0,186,4,0.021505376344086,"IF BAIANO – Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+4,4,2020.0,188,6,0.0319148936170212,"IF BAIANO – Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+0,0,2013.0,68,4,0.0588235294117647,"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná"
+1,1,2014.0,75,2,0.0266666666666666,"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná"
+2,2,2015.0,90,4,0.0444444444444444,"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná"
+3,3,2016.0,181,4,0.0220994475138121,"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná"
+4,4,2017.0,199,17,0.0854271356783919,"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná"
+5,5,2018.0,182,4,0.0219780219780219,"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná"
+6,6,2019.0,214,1,0.0046728971962616,"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná"
+7,7,2021.0,132,6,0.0454545454545454,"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná"
+0,0,2013.0,43,1,0.0232558139534883,UFVJM – Universidade Federal dos Vales do Jequitinhonha e Mucuri
+1,1,2016.0,93,3,0.032258064516129,UFVJM – Universidade Federal dos Vales do Jequitinhonha e Mucuri
+2,2,2017.0,162,7,0.0432098765432098,UFVJM – Universidade Federal dos Vales do Jequitinhonha e Mucuri
+3,3,2018.0,163,6,0.0368098159509202,UFVJM – Universidade Federal dos Vales do Jequitinhonha e Mucuri
+4,4,2020.0,311,6,0.0192926045016077,UFVJM – Universidade Federal dos Vales do Jequitinhonha e Mucuri
+5,5,2021.0,240,17,0.0708333333333333,UFVJM – Universidade Federal dos Vales do Jequitinhonha e Mucuri
+0,0,2017.0,166,5,0.0301204819277108,UFOPA – Universidade Federal do Oeste do Pará
+1,1,2018.0,173,2,0.0115606936416184,UFOPA – Universidade Federal do Oeste do Pará
+2,2,2019.0,165,2,0.0121212121212121,UFOPA – Universidade Federal do Oeste do Pará
+3,3,2020.0,188,5,0.026595744680851,UFOPA – Universidade Federal do Oeste do Pará
+4,4,2021.0,142,2,0.0140845070422535,UFOPA – Universidade Federal do Oeste do Pará
+0,0,2013.0,19,7,0.3684210526315789,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+1,1,2014.0,56,3,0.0535714285714285,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+2,2,2015.0,73,2,0.0273972602739726,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+3,3,2016.0,92,7,0.0760869565217391,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+4,4,2017.0,167,10,0.059880239520958,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+5,5,2018.0,70,7,0.1,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+6,6,2019.0,55,2,0.0363636363636363,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+7,7,2020.0,38,5,0.131578947368421,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+8,8,2021.0,59,8,0.135593220338983,HEMOBRÁS – Empresa Brasileira de Hemoderivados e Biotecnologia
+0,0,2013.0,47,3,0.0638297872340425,ELETRONUCLEAR – Eletrobrás Termonuclear S.A.
+1,1,2016.0,50,1,0.02,ELETRONUCLEAR – Eletrobrás Termonuclear S.A.
+2,2,2018.0,37,1,0.027027027027027,ELETRONUCLEAR – Eletrobrás Termonuclear S.A.
+3,3,2019.0,64,1,0.015625,ELETRONUCLEAR – Eletrobrás Termonuclear S.A.
+4,4,2020.0,71,5,0.0704225352112676,ELETRONUCLEAR – Eletrobrás Termonuclear S.A.
+5,5,2021.0,50,8,0.16,ELETRONUCLEAR – Eletrobrás Termonuclear S.A.
+0,0,2017.0,216,12,0.0555555555555555,UFRB – Universidade Federal do Recôncavo da Bahia
+1,1,2018.0,168,4,0.0238095238095238,UFRB – Universidade Federal do Recôncavo da Bahia
+2,2,2019.0,189,5,0.0264550264550264,UFRB – Universidade Federal do Recôncavo da Bahia
+3,3,2020.0,194,4,0.0206185567010309,UFRB – Universidade Federal do Recôncavo da Bahia
+4,4,2021.0,174,5,0.028735632183908,UFRB – Universidade Federal do Recôncavo da Bahia
+0,0,2015.0,59,2,0.0338983050847457,UFLA – Universidade Federal de Lavras
+1,1,2016.0,129,9,0.0697674418604651,UFLA – Universidade Federal de Lavras
+2,2,2017.0,226,11,0.0486725663716814,UFLA – Universidade Federal de Lavras
+3,3,2018.0,259,25,0.0965250965250965,UFLA – Universidade Federal de Lavras
+4,4,2019.0,272,20,0.0735294117647058,UFLA – Universidade Federal de Lavras
+5,5,2020.0,254,23,0.0905511811023622,UFLA – Universidade Federal de Lavras
+6,6,2021.0,174,6,0.0344827586206896,UFLA – Universidade Federal de Lavras
+0,0,2013.0,228,1,0.0043859649122807,UFRJ – Universidade Federal do Rio de Janeiro
+1,1,2014.0,350,18,0.0514285714285714,UFRJ – Universidade Federal do Rio de Janeiro
+2,2,2015.0,340,20,0.0588235294117647,UFRJ – Universidade Federal do Rio de Janeiro
+3,3,2016.0,375,22,0.0586666666666666,UFRJ – Universidade Federal do Rio de Janeiro
+4,4,2017.0,417,21,0.0503597122302158,UFRJ – Universidade Federal do Rio de Janeiro
+5,5,2018.0,476,18,0.0378151260504201,UFRJ – Universidade Federal do Rio de Janeiro
+6,6,2019.0,457,53,0.1159737417943107,UFRJ – Universidade Federal do Rio de Janeiro
+7,7,2020.0,422,55,0.1303317535545023,UFRJ – Universidade Federal do Rio de Janeiro
+8,8,2021.0,402,47,0.1169154228855721,UFRJ – Universidade Federal do Rio de Janeiro
+0,0,2013.0,87,2,0.0229885057471264,UFAC – Fundação Universidade Federal do Acre
+1,1,2014.0,87,3,0.0344827586206896,UFAC – Fundação Universidade Federal do Acre
+2,2,2018.0,134,1,0.0074626865671641,UFAC – Fundação Universidade Federal do Acre
+3,3,2019.0,185,5,0.027027027027027,UFAC – Fundação Universidade Federal do Acre
+4,4,2020.0,194,4,0.0206185567010309,UFAC – Fundação Universidade Federal do Acre
+5,5,2021.0,132,2,0.0151515151515151,UFAC – Fundação Universidade Federal do Acre
+0,0,2013.0,74,5,0.0675675675675675,UNIVASF – Fundação Universidade Federal do Vale do São Francisco
+1,1,2014.0,71,1,0.0140845070422535,UNIVASF – Fundação Universidade Federal do Vale do São Francisco
+2,2,2015.0,135,4,0.0296296296296296,UNIVASF – Fundação Universidade Federal do Vale do São Francisco
+3,3,2016.0,168,1,0.0059523809523809,UNIVASF – Fundação Universidade Federal do Vale do São Francisco
+4,4,2019.0,226,1,0.0044247787610619,UNIVASF – Fundação Universidade Federal do Vale do São Francisco
+5,5,2021.0,154,2,0.0129870129870129,UNIVASF – Fundação Universidade Federal do Vale do São Francisco
+0,0,2013.0,45,2,0.0444444444444444,UFFS – Universidade Federal da Fronteira Sul
+1,1,2014.0,48,1,0.0208333333333333,UFFS – Universidade Federal da Fronteira Sul
+2,2,2016.0,108,4,0.037037037037037,UFFS – Universidade Federal da Fronteira Sul
+3,3,2018.0,139,2,0.014388489208633,UFFS – Universidade Federal da Fronteira Sul
+4,4,2020.0,154,2,0.0129870129870129,UFFS – Universidade Federal da Fronteira Sul
+0,0,2013.0,67,1,0.0149253731343283,UFSM – Universidade Federal de Santa Maria
+1,1,2014.0,76,2,0.0263157894736842,UFSM – Universidade Federal de Santa Maria
+2,2,2015.0,128,6,0.046875,UFSM – Universidade Federal de Santa Maria
+3,3,2016.0,156,2,0.0128205128205128,UFSM – Universidade Federal de Santa Maria
+4,4,2017.0,237,9,0.0379746835443038,UFSM – Universidade Federal de Santa Maria
+5,5,2018.0,216,5,0.0231481481481481,UFSM – Universidade Federal de Santa Maria
+6,6,2019.0,235,2,0.0085106382978723,UFSM – Universidade Federal de Santa Maria
+7,7,2020.0,205,6,0.0292682926829268,UFSM – Universidade Federal de Santa Maria
+8,8,2021.0,220,9,0.0409090909090909,UFSM – Universidade Federal de Santa Maria
+0,0,2013.0,68,1,0.0147058823529411,UFV – Fundação Universidade Federal de Viçosa
+1,1,2014.0,85,9,0.1058823529411764,UFV – Fundação Universidade Federal de Viçosa
+2,2,2015.0,117,15,0.1282051282051282,UFV – Fundação Universidade Federal de Viçosa
+3,3,2016.0,134,10,0.0746268656716417,UFV – Fundação Universidade Federal de Viçosa
+4,4,2017.0,203,1,0.0049261083743842,UFV – Fundação Universidade Federal de Viçosa
+5,5,2018.0,209,3,0.0143540669856459,UFV – Fundação Universidade Federal de Viçosa
+6,6,2019.0,173,4,0.0231213872832369,UFV – Fundação Universidade Federal de Viçosa
+7,7,2020.0,214,3,0.014018691588785,UFV – Fundação Universidade Federal de Viçosa
+0,0,2015.0,25,2,0.08,CDC – Companhia Docas do Ceará
+1,1,2019.0,45,1,0.0222222222222222,CDC – Companhia Docas do Ceará
+0,0,2015.0,23,1,0.0434782608695652,CODERN – Companhia Docas do Rio Grande do Norte
+1,1,2017.0,46,3,0.0652173913043478,CODERN – Companhia Docas do Rio Grande do Norte
+2,2,2018.0,41,9,0.2195121951219512,CODERN – Companhia Docas do Rio Grande do Norte
+3,3,2019.0,65,6,0.0923076923076923,CODERN – Companhia Docas do Rio Grande do Norte
+4,4,2021.0,28,1,0.0357142857142857,CODERN – Companhia Docas do Rio Grande do Norte
+0,0,2014.0,37,5,0.1351351351351351,UNILAB – Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+1,1,2016.0,98,2,0.0204081632653061,UNILAB – Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+2,2,2017.0,163,5,0.0306748466257668,UNILAB – Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+3,3,2018.0,240,2,0.0083333333333333,UNILAB – Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+4,4,2019.0,153,2,0.0130718954248366,UNILAB – Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+5,5,2020.0,174,5,0.028735632183908,UNILAB – Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+6,6,2021.0,128,1,0.0078125,UNILAB – Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+0,0,2013.0,50,2,0.04,UFABC – Fundação Universidade Federal do ABC
+1,1,2014.0,46,1,0.0217391304347826,UFABC – Fundação Universidade Federal do ABC
+2,2,2015.0,97,3,0.0309278350515463,UFABC – Fundação Universidade Federal do ABC
+3,3,2016.0,171,5,0.0292397660818713,UFABC – Fundação Universidade Federal do ABC
+4,4,2017.0,203,12,0.0591133004926108,UFABC – Fundação Universidade Federal do ABC
+5,5,2018.0,226,5,0.0221238938053097,UFABC – Fundação Universidade Federal do ABC
+6,6,2019.0,173,6,0.0346820809248554,UFABC – Fundação Universidade Federal do ABC
+7,7,2020.0,186,4,0.021505376344086,UFABC – Fundação Universidade Federal do ABC
+8,8,2021.0,149,7,0.046979865771812,UFABC – Fundação Universidade Federal do ABC
+0,0,2014.0,6,1,0.1666666666666666,ON-MCT – Observatório Nacional
+1,1,2016.0,19,1,0.0526315789473684,ON-MCT – Observatório Nacional
+2,2,2018.0,18,1,0.0555555555555555,ON-MCT – Observatório Nacional
+0,0,2013.0,37,3,0.081081081081081,FURG – Fundação Universidade Federal do Rio Grande
+1,1,2014.0,47,3,0.0638297872340425,FURG – Fundação Universidade Federal do Rio Grande
+2,2,2015.0,101,3,0.0297029702970297,FURG – Fundação Universidade Federal do Rio Grande
+3,3,2016.0,95,1,0.0105263157894736,FURG – Fundação Universidade Federal do Rio Grande
+4,4,2017.0,133,3,0.0225563909774436,FURG – Fundação Universidade Federal do Rio Grande
+5,5,2018.0,136,1,0.0073529411764705,FURG – Fundação Universidade Federal do Rio Grande
+6,6,2019.0,125,4,0.032,FURG – Fundação Universidade Federal do Rio Grande
+7,7,2020.0,159,2,0.0125786163522012,FURG – Fundação Universidade Federal do Rio Grande
+8,8,2021.0,141,3,0.0212765957446808,FURG – Fundação Universidade Federal do Rio Grande
+0,0,2013.0,31,1,0.032258064516129,IBICT – Instituto Brasileiro de Informação em Ciência e Tecnologia
+1,1,2015.0,25,1,0.04,IBICT – Instituto Brasileiro de Informação em Ciência e Tecnologia
+2,2,2016.0,14,1,0.0714285714285714,IBICT – Instituto Brasileiro de Informação em Ciência e Tecnologia
+3,3,2017.0,22,3,0.1363636363636363,IBICT – Instituto Brasileiro de Informação em Ciência e Tecnologia
+4,4,2019.0,53,4,0.0754716981132075,IBICT – Instituto Brasileiro de Informação em Ciência e Tecnologia
+5,5,2020.0,44,2,0.0454545454545454,IBICT – Instituto Brasileiro de Informação em Ciência e Tecnologia
+0,0,2013.0,37,1,0.027027027027027,UFRPE – Universidade Federal Rural de Pernambuco
+1,1,2014.0,77,5,0.0649350649350649,UFRPE – Universidade Federal Rural de Pernambuco
+2,2,2016.0,164,6,0.0365853658536585,UFRPE – Universidade Federal Rural de Pernambuco
+3,3,2017.0,265,3,0.0113207547169811,UFRPE – Universidade Federal Rural de Pernambuco
+4,4,2018.0,205,4,0.0195121951219512,UFRPE – Universidade Federal Rural de Pernambuco
+5,5,2019.0,208,1,0.0048076923076923,UFRPE – Universidade Federal Rural de Pernambuco
+6,6,2020.0,235,1,0.0042553191489361,UFRPE – Universidade Federal Rural de Pernambuco
+7,7,2021.0,210,4,0.019047619047619,UFRPE – Universidade Federal Rural de Pernambuco
+0,0,2014.0,66,8,0.1212121212121212,"IFPB – Instituto Federal de Educação, Ciência e Tecnologia da Paraíba"
+1,1,2015.0,109,9,0.0825688073394495,"IFPB – Instituto Federal de Educação, Ciência e Tecnologia da Paraíba"
+2,2,2016.0,247,28,0.1133603238866396,"IFPB – Instituto Federal de Educação, Ciência e Tecnologia da Paraíba"
+3,3,2017.0,448,5,0.0111607142857142,"IFPB – Instituto Federal de Educação, Ciência e Tecnologia da Paraíba"
+4,4,2018.0,284,7,0.0246478873239436,"IFPB – Instituto Federal de Educação, Ciência e Tecnologia da Paraíba"
+5,5,2019.0,189,12,0.0634920634920634,"IFPB – Instituto Federal de Educação, Ciência e Tecnologia da Paraíba"
+6,6,2020.0,230,12,0.0521739130434782,"IFPB – Instituto Federal de Educação, Ciência e Tecnologia da Paraíba"
+0,0,2020.0,39,1,0.0256410256410256,INES – Instituto Nacional de Educação de Surdos
+0,0,2013.0,52,2,0.0384615384615384,UTFPR – Universidade Tecnológica Federal do Paraná
+1,1,2014.0,45,2,0.0444444444444444,UTFPR – Universidade Tecnológica Federal do Paraná
+2,2,2015.0,71,7,0.0985915492957746,UTFPR – Universidade Tecnológica Federal do Paraná
+3,3,2016.0,106,2,0.0188679245283018,UTFPR – Universidade Tecnológica Federal do Paraná
+4,4,2017.0,166,6,0.036144578313253,UTFPR – Universidade Tecnológica Federal do Paraná
+5,5,2018.0,187,4,0.0213903743315508,UTFPR – Universidade Tecnológica Federal do Paraná
+6,6,2019.0,248,8,0.032258064516129,UTFPR – Universidade Tecnológica Federal do Paraná
+7,7,2020.0,243,9,0.037037037037037,UTFPR – Universidade Tecnológica Federal do Paraná
+8,8,2021.0,227,1,0.0044052863436123,UTFPR – Universidade Tecnológica Federal do Paraná
+0,0,2016.0,77,8,0.1038961038961039,CODEBA – Companhia das Docas do Estado da Bahia
+1,1,2017.0,48,1,0.0208333333333333,CODEBA – Companhia das Docas do Estado da Bahia
+2,2,2018.0,59,2,0.0338983050847457,CODEBA – Companhia das Docas do Estado da Bahia
+3,3,2019.0,58,5,0.0862068965517241,CODEBA – Companhia das Docas do Estado da Bahia
+4,4,2020.0,55,1,0.0181818181818181,CODEBA – Companhia das Docas do Estado da Bahia
+5,5,2021.0,39,3,0.0769230769230769,CODEBA – Companhia das Docas do Estado da Bahia
+0,0,2015.0,51,1,0.0196078431372549,"IFMGSE – Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais"
+1,1,2016.0,125,1,0.008,"IFMGSE – Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais"
+2,2,2017.0,186,1,0.0053763440860215,"IFMGSE – Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais"
+3,3,2018.0,176,3,0.0170454545454545,"IFMGSE – Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais"
+4,4,2019.0,154,1,0.0064935064935064,"IFMGSE – Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais"
+0,0,2016.0,93,1,0.010752688172043,UNIPAMPA – Fundação Universidade Federal do Pampa
+1,1,2017.0,128,2,0.015625,UNIPAMPA – Fundação Universidade Federal do Pampa
+2,2,2018.0,165,10,0.0606060606060606,UNIPAMPA – Fundação Universidade Federal do Pampa
+3,3,2019.0,140,7,0.05,UNIPAMPA – Fundação Universidade Federal do Pampa
+4,4,2020.0,166,8,0.0481927710843373,UNIPAMPA – Fundação Universidade Federal do Pampa
+5,5,2021.0,163,1,0.0061349693251533,UNIPAMPA – Fundação Universidade Federal do Pampa
+0,0,2013.0,63,6,0.0952380952380952,"IFSul – Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense"
+1,1,2014.0,36,1,0.0277777777777777,"IFSul – Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense"
+2,2,2015.0,50,1,0.02,"IFSul – Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense"
+3,3,2018.0,105,3,0.0285714285714285,"IFSul – Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense"
+4,4,2021.0,85,1,0.0117647058823529,"IFSul – Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense"
+0,0,2013.0,31,1,0.032258064516129,"IFRR – Instituto Federal de Educação, Ciência e Tecnologia de Roraima"
+1,1,2019.0,90,2,0.0222222222222222,"IFRR – Instituto Federal de Educação, Ciência e Tecnologia de Roraima"
+0,0,2015.0,132,9,0.0681818181818181,UNIR – Fundação Universidade Federal de Rondônia
+1,1,2016.0,139,11,0.079136690647482,UNIR – Fundação Universidade Federal de Rondônia
+2,2,2017.0,154,13,0.0844155844155844,UNIR – Fundação Universidade Federal de Rondônia
+3,3,2018.0,199,19,0.0954773869346733,UNIR – Fundação Universidade Federal de Rondônia
+4,4,2019.0,295,22,0.0745762711864406,UNIR – Fundação Universidade Federal de Rondônia
+5,5,2020.0,244,5,0.0204918032786885,UNIR – Fundação Universidade Federal de Rondônia
+6,6,2021.0,157,7,0.0445859872611464,UNIR – Fundação Universidade Federal de Rondônia
+0,0,2013.0,38,1,0.0263157894736842,UNIFEI – Universidade Federal de Itajubá
+1,1,2014.0,48,1,0.0208333333333333,UNIFEI – Universidade Federal de Itajubá
+2,2,2018.0,136,3,0.0220588235294117,UNIFEI – Universidade Federal de Itajubá
+3,3,2019.0,111,1,0.009009009009009,UNIFEI – Universidade Federal de Itajubá
+4,4,2020.0,153,6,0.0392156862745098,UNIFEI – Universidade Federal de Itajubá
+5,5,2021.0,130,1,0.0076923076923076,UNIFEI – Universidade Federal de Itajubá
+0,0,2015.0,59,1,0.0169491525423728,UNIFAL-MG – Universidade Federal de Alfenas
+1,1,2016.0,118,1,0.0084745762711864,UNIFAL-MG – Universidade Federal de Alfenas
+2,2,2017.0,115,2,0.017391304347826,UNIFAL-MG – Universidade Federal de Alfenas
+3,3,2018.0,148,2,0.0135135135135135,UNIFAL-MG – Universidade Federal de Alfenas
+4,4,2019.0,119,3,0.0252100840336134,UNIFAL-MG – Universidade Federal de Alfenas
+5,5,2020.0,153,3,0.0196078431372549,UNIFAL-MG – Universidade Federal de Alfenas
+6,6,2021.0,129,1,0.0077519379844961,UNIFAL-MG – Universidade Federal de Alfenas
+0,0,2013.0,61,9,0.1475409836065573,CPRM – Companhia de Pesquisa de Recursos Minerais
+1,1,2014.0,61,4,0.0655737704918032,CPRM – Companhia de Pesquisa de Recursos Minerais
+2,2,2015.0,115,6,0.0521739130434782,CPRM – Companhia de Pesquisa de Recursos Minerais
+3,3,2016.0,135,11,0.0814814814814814,CPRM – Companhia de Pesquisa de Recursos Minerais
+4,4,2017.0,141,5,0.0354609929078014,CPRM – Companhia de Pesquisa de Recursos Minerais
+5,5,2018.0,133,2,0.0150375939849624,CPRM – Companhia de Pesquisa de Recursos Minerais
+6,6,2019.0,127,7,0.0551181102362204,CPRM – Companhia de Pesquisa de Recursos Minerais
+7,7,2020.0,108,1,0.0092592592592592,CPRM – Companhia de Pesquisa de Recursos Minerais
+8,8,2021.0,63,3,0.0476190476190476,CPRM – Companhia de Pesquisa de Recursos Minerais
+0,0,2013.0,62,1,0.0161290322580645,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+1,1,2014.0,157,5,0.0318471337579617,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+2,2,2015.0,141,1,0.0070921985815602,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+3,3,2016.0,266,2,0.0075187969924812,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+4,4,2017.0,419,8,0.0190930787589498,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+5,5,2018.0,353,1,0.0028328611898017,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+6,6,2019.0,272,7,0.025735294117647,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+7,7,2020.0,286,11,0.0384615384615384,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+8,8,2021.0,187,1,0.0053475935828877,"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+0,0,2016.0,117,3,0.0256410256410256,"IFC – Instituto Federal de Educação, Ciência e Tecnologia Catarinense"
+1,1,2017.0,162,17,0.1049382716049382,"IFC – Instituto Federal de Educação, Ciência e Tecnologia Catarinense"
+2,2,2018.0,169,5,0.029585798816568,"IFC – Instituto Federal de Educação, Ciência e Tecnologia Catarinense"
+3,3,2019.0,159,2,0.0125786163522012,"IFC – Instituto Federal de Educação, Ciência e Tecnologia Catarinense"
+4,4,2020.0,196,8,0.0408163265306122,"IFC – Instituto Federal de Educação, Ciência e Tecnologia Catarinense"
+5,5,2021.0,117,4,0.0341880341880341,"IFC – Instituto Federal de Educação, Ciência e Tecnologia Catarinense"
+0,0,2015.0,68,6,0.088235294117647,UNILA – Universidade Federal da Integração Latino-Americana
+1,1,2016.0,98,1,0.010204081632653,UNILA – Universidade Federal da Integração Latino-Americana
+2,2,2017.0,108,1,0.0092592592592592,UNILA – Universidade Federal da Integração Latino-Americana
+3,3,2019.0,102,1,0.0098039215686274,UNILA – Universidade Federal da Integração Latino-Americana
+4,4,2020.0,133,5,0.037593984962406,UNILA – Universidade Federal da Integração Latino-Americana
+5,5,2021.0,115,5,0.0434782608695652,UNILA – Universidade Federal da Integração Latino-Americana
+0,0,2013.0,50,1,0.02,UFERSA-RN – Universidade Federal Rural do Semi-Árido
+1,1,2014.0,49,2,0.0408163265306122,UFERSA-RN – Universidade Federal Rural do Semi-Árido
+2,2,2016.0,115,2,0.017391304347826,UFERSA-RN – Universidade Federal Rural do Semi-Árido
+3,3,2017.0,191,2,0.0104712041884816,UFERSA-RN – Universidade Federal Rural do Semi-Árido
+4,4,2018.0,150,4,0.0266666666666666,UFERSA-RN – Universidade Federal Rural do Semi-Árido
+5,5,2019.0,147,2,0.0136054421768707,UFERSA-RN – Universidade Federal Rural do Semi-Árido
+6,6,2020.0,163,3,0.0184049079754601,UFERSA-RN – Universidade Federal Rural do Semi-Árido
+7,7,2021.0,170,8,0.0470588235294117,UFERSA-RN – Universidade Federal Rural do Semi-Árido
+0,0,2014.0,32,2,0.0625,UFRR – Fundação Universidade Federal de Roraima
+1,1,2015.0,45,5,0.1111111111111111,UFRR – Fundação Universidade Federal de Roraima
+2,2,2016.0,99,3,0.0303030303030303,UFRR – Fundação Universidade Federal de Roraima
+3,3,2017.0,120,4,0.0333333333333333,UFRR – Fundação Universidade Federal de Roraima
+4,4,2018.0,163,8,0.0490797546012269,UFRR – Fundação Universidade Federal de Roraima
+5,5,2019.0,133,4,0.0300751879699248,UFRR – Fundação Universidade Federal de Roraima
+6,6,2020.0,174,4,0.0229885057471264,UFRR – Fundação Universidade Federal de Roraima
+7,7,2021.0,143,2,0.0139860139860139,UFRR – Fundação Universidade Federal de Roraima
+0,0,2013.0,68,1,0.0147058823529411,EPL – Empresa de Planejamento e Logística S.A.
+1,1,2019.0,83,1,0.0120481927710843,EPL – Empresa de Planejamento e Logística S.A.
+2,2,2020.0,60,5,0.0833333333333333,EPL – Empresa de Planejamento e Logística S.A.
+3,3,2021.0,65,9,0.1384615384615384,EPL – Empresa de Planejamento e Logística S.A.
+0,0,2013.0,47,6,0.1276595744680851,CBPF – Centro Brasileiro de Pesquisas Físicas
+1,1,2014.0,61,16,0.2622950819672131,CBPF – Centro Brasileiro de Pesquisas Físicas
+2,2,2015.0,51,5,0.0980392156862745,CBPF – Centro Brasileiro de Pesquisas Físicas
+3,3,2018.0,27,2,0.074074074074074,CBPF – Centro Brasileiro de Pesquisas Físicas
+4,4,2020.0,40,3,0.075,CBPF – Centro Brasileiro de Pesquisas Físicas
+5,5,2021.0,13,1,0.0769230769230769,CBPF – Centro Brasileiro de Pesquisas Físicas
+0,0,2013.0,58,1,0.0172413793103448,UFCG – Universidade Federal de Campina Grande
+1,1,2014.0,72,4,0.0555555555555555,UFCG – Universidade Federal de Campina Grande
+2,2,2015.0,72,11,0.1527777777777778,UFCG – Universidade Federal de Campina Grande
+3,3,2016.0,177,5,0.0282485875706214,UFCG – Universidade Federal de Campina Grande
+4,4,2017.0,219,2,0.0091324200913242,UFCG – Universidade Federal de Campina Grande
+5,5,2018.0,205,4,0.0195121951219512,UFCG – Universidade Federal de Campina Grande
+6,6,2019.0,301,7,0.0232558139534883,UFCG – Universidade Federal de Campina Grande
+7,7,2020.0,244,3,0.0122950819672131,UFCG – Universidade Federal de Campina Grande
+8,8,2021.0,191,6,0.031413612565445,UFCG – Universidade Federal de Campina Grande
+0,0,2014.0,87,2,0.0229885057471264,UFPI – Fundação Universidade Federal do Piauí
+1,1,2016.0,99,1,0.0101010101010101,UFPI – Fundação Universidade Federal do Piauí
+2,2,2017.0,280,3,0.0107142857142857,UFPI – Fundação Universidade Federal do Piauí
+3,3,2019.0,264,1,0.0037878787878787,UFPI – Fundação Universidade Federal do Piauí
+4,4,2021.0,267,8,0.0299625468164794,UFPI – Fundação Universidade Federal do Piauí
+0,0,2013.0,12,1,0.0833333333333333,HNSC – Hospital Nossa Senhora da Conceição S.A.
+1,1,2014.0,15,1,0.0666666666666666,HNSC – Hospital Nossa Senhora da Conceição S.A.
+2,2,2015.0,26,2,0.0769230769230769,HNSC – Hospital Nossa Senhora da Conceição S.A.
+3,3,2017.0,40,1,0.025,HNSC – Hospital Nossa Senhora da Conceição S.A.
+4,4,2018.0,31,2,0.064516129032258,HNSC – Hospital Nossa Senhora da Conceição S.A.
+5,5,2019.0,56,7,0.125,HNSC – Hospital Nossa Senhora da Conceição S.A.
+6,6,2020.0,43,6,0.1395348837209302,HNSC – Hospital Nossa Senhora da Conceição S.A.
+7,7,2021.0,36,3,0.0833333333333333,HNSC – Hospital Nossa Senhora da Conceição S.A.
+0,0,2014.0,37,1,0.027027027027027,"IFAC – Instituto Federal de Educação, Ciência e Tecnologia do Acre"
+1,1,2016.0,89,3,0.0337078651685393,"IFAC – Instituto Federal de Educação, Ciência e Tecnologia do Acre"
+2,2,2017.0,123,2,0.016260162601626,"IFAC – Instituto Federal de Educação, Ciência e Tecnologia do Acre"
+3,3,2018.0,101,1,0.0099009900990099,"IFAC – Instituto Federal de Educação, Ciência e Tecnologia do Acre"
+4,4,2019.0,96,2,0.0208333333333333,"IFAC – Instituto Federal de Educação, Ciência e Tecnologia do Acre"
+5,5,2020.0,128,1,0.0078125,"IFAC – Instituto Federal de Educação, Ciência e Tecnologia do Acre"
+0,0,2015.0,206,9,0.0436893203883495,"IFAP – Instituto Federal de Educação, Ciência e Tecnologia do Amapá"
+1,1,2017.0,160,1,0.00625,"IFAP – Instituto Federal de Educação, Ciência e Tecnologia do Amapá"
+2,2,2018.0,139,3,0.0215827338129496,"IFAP – Instituto Federal de Educação, Ciência e Tecnologia do Amapá"
+3,3,2019.0,123,9,0.073170731707317,"IFAP – Instituto Federal de Educação, Ciência e Tecnologia do Amapá"
+4,4,2020.0,167,10,0.059880239520958,"IFAP – Instituto Federal de Educação, Ciência e Tecnologia do Amapá"
+5,5,2021.0,90,3,0.0333333333333333,"IFAP – Instituto Federal de Educação, Ciência e Tecnologia do Amapá"
+0,0,2014.0,48,4,0.0833333333333333,"IFES – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+1,1,2016.0,211,2,0.0094786729857819,"IFES – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+2,2,2017.0,193,3,0.0155440414507772,"IFES – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+3,3,2018.0,182,1,0.0054945054945054,"IFES – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+4,4,2019.0,150,4,0.0266666666666666,"IFES – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+5,5,2020.0,224,2,0.0089285714285714,"IFES – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+6,6,2021.0,159,2,0.0125786163522012,"IFES – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+0,0,2014.0,40,2,0.05,"IFRO – Instituto Federal de Educação, Ciência e Tecnologia de Rondônia"
+1,1,2015.0,48,2,0.0416666666666666,"IFRO – Instituto Federal de Educação, Ciência e Tecnologia de Rondônia"
+2,2,2016.0,90,2,0.0222222222222222,"IFRO – Instituto Federal de Educação, Ciência e Tecnologia de Rondônia"
+3,3,2018.0,156,3,0.0192307692307692,"IFRO – Instituto Federal de Educação, Ciência e Tecnologia de Rondônia"
+4,4,2019.0,104,3,0.0288461538461538,"IFRO – Instituto Federal de Educação, Ciência e Tecnologia de Rondônia"
+5,5,2020.0,127,3,0.0236220472440944,"IFRO – Instituto Federal de Educação, Ciência e Tecnologia de Rondônia"
+6,6,2021.0,85,1,0.0117647058823529,"IFRO – Instituto Federal de Educação, Ciência e Tecnologia de Rondônia"
+0,0,2016.0,101,1,0.0099009900990099,"IFSULDEMINAS – Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais"
+1,1,2021.0,91,1,0.0109890109890109,"IFSULDEMINAS – Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais"
+0,0,2016.0,414,1,0.002415458937198,UFPA – Universidade Federal do Pará
+1,1,2017.0,386,10,0.0259067357512953,UFPA – Universidade Federal do Pará
+2,2,2018.0,390,5,0.0128205128205128,UFPA – Universidade Federal do Pará
+3,3,2019.0,426,9,0.0211267605633802,UFPA – Universidade Federal do Pará
+4,4,2020.0,329,16,0.0486322188449848,UFPA – Universidade Federal do Pará
+5,5,2021.0,286,11,0.0384615384615384,UFPA – Universidade Federal do Pará
+0,0,2017.0,17,1,0.0588235294117647,INSA – Instituto Nacional do Semi-Árido
+0,0,2014.0,4,1,0.25,MGEP-MCT – Museu Paraense Emílio Goeldi
+1,1,2020.0,27,1,0.037037037037037,MGEP-MCT – Museu Paraense Emílio Goeldi
+0,0,2016.0,62,1,0.0161290322580645,UFRA – Universidade Federal Rural da Amazônia
+1,1,2017.0,291,1,0.0034364261168384,UFRA – Universidade Federal Rural da Amazônia
+2,2,2018.0,224,8,0.0357142857142857,UFRA – Universidade Federal Rural da Amazônia
+3,3,2019.0,184,9,0.0489130434782608,UFRA – Universidade Federal Rural da Amazônia
+4,4,2020.0,185,2,0.0108108108108108,UFRA – Universidade Federal Rural da Amazônia
+5,5,2021.0,260,5,0.0192307692307692,UFRA – Universidade Federal Rural da Amazônia
+0,0,2014.0,22,1,0.0454545454545454,HCPA – Hospital de Clínicas de Porto Alegre
+1,1,2015.0,34,1,0.0294117647058823,HCPA – Hospital de Clínicas de Porto Alegre
+2,2,2017.0,57,2,0.0350877192982456,HCPA – Hospital de Clínicas de Porto Alegre
+3,3,2018.0,45,6,0.1333333333333333,HCPA – Hospital de Clínicas de Porto Alegre
+4,4,2019.0,71,3,0.0422535211267605,HCPA – Hospital de Clínicas de Porto Alegre
+5,5,2020.0,51,9,0.1764705882352941,HCPA – Hospital de Clínicas de Porto Alegre
+6,6,2021.0,41,6,0.1463414634146341,HCPA – Hospital de Clínicas de Porto Alegre
+0,0,2015.0,40,3,0.075,NUCLEP – Nuclebrás Equipamentos Pesados S.A.
+1,1,2016.0,50,1,0.02,NUCLEP – Nuclebrás Equipamentos Pesados S.A.
+2,2,2017.0,81,30,0.3703703703703703,NUCLEP – Nuclebrás Equipamentos Pesados S.A.
+3,3,2018.0,58,9,0.1551724137931034,NUCLEP – Nuclebrás Equipamentos Pesados S.A.
+0,0,2014.0,30,1,0.0333333333333333,ESG – Escola Superior de Guerra
+1,1,2016.0,15,1,0.0666666666666666,ESG – Escola Superior de Guerra
+2,2,2017.0,19,1,0.0526315789473684,ESG – Escola Superior de Guerra
+3,3,2018.0,29,1,0.0344827586206896,ESG – Escola Superior de Guerra
+4,4,2021.0,14,1,0.0714285714285714,ESG – Escola Superior de Guerra
+0,0,2018.0,28,3,0.1071428571428571,IBC – Instituto Benjamin Constant
+0,0,2014.0,240,14,0.0583333333333333,CDP – Companhia Docas do Pará
+1,1,2015.0,173,6,0.0346820809248554,CDP – Companhia Docas do Pará
+2,2,2016.0,189,8,0.0423280423280423,CDP – Companhia Docas do Pará
+3,3,2017.0,229,13,0.056768558951965,CDP – Companhia Docas do Pará
+4,4,2018.0,141,6,0.0425531914893617,CDP – Companhia Docas do Pará
+5,5,2019.0,159,13,0.0817610062893081,CDP – Companhia Docas do Pará
+6,6,2020.0,116,4,0.0344827586206896,CDP – Companhia Docas do Pará
+7,7,2021.0,134,12,0.0895522388059701,CDP – Companhia Docas do Pará
+0,0,2013.0,15,1,0.0666666666666666,EMGEA – Empresa Gestora de Ativos
+1,1,2015.0,41,2,0.048780487804878,EMGEA – Empresa Gestora de Ativos
+2,2,2016.0,35,1,0.0285714285714285,EMGEA – Empresa Gestora de Ativos
+3,3,2018.0,21,2,0.0952380952380952,EMGEA – Empresa Gestora de Ativos
+4,4,2019.0,63,4,0.0634920634920634,EMGEA – Empresa Gestora de Ativos
+0,0,2016.0,112,8,0.0714285714285714,UNIFAP – Fundação Universidade Federal do Amapá
+1,1,2017.0,191,3,0.0157068062827225,UNIFAP – Fundação Universidade Federal do Amapá
+2,2,2018.0,200,1,0.005,UNIFAP – Fundação Universidade Federal do Amapá
+3,3,2020.0,174,1,0.0057471264367816,UNIFAP – Fundação Universidade Federal do Amapá
+4,4,2021.0,192,3,0.015625,UNIFAP – Fundação Universidade Federal do Amapá
+0,0,2015.0,33,2,0.0606060606060606,SUFRAMA – Superintendência da Zona Franca de Manaus
+1,1,2016.0,85,5,0.0588235294117647,SUFRAMA – Superintendência da Zona Franca de Manaus
+2,2,2017.0,80,5,0.0625,SUFRAMA – Superintendência da Zona Franca de Manaus
+3,3,2018.0,73,4,0.0547945205479452,SUFRAMA – Superintendência da Zona Franca de Manaus
+4,4,2019.0,99,5,0.0505050505050505,SUFRAMA – Superintendência da Zona Franca de Manaus
+5,5,2020.0,125,18,0.144,SUFRAMA – Superintendência da Zona Franca de Manaus
+6,6,2021.0,128,24,0.1875,SUFRAMA – Superintendência da Zona Franca de Manaus
+0,0,2016.0,26,1,0.0384615384615384,EMGEPRON – Empresa Gerencial de Projetos Navais
+1,1,2017.0,30,2,0.0666666666666666,EMGEPRON – Empresa Gerencial de Projetos Navais
+0,0,2014.0,40,1,0.025,CEAGESP – Companhia de Entrepostos e Armazéns Gerais de São Paulo 
+1,1,2015.0,46,3,0.0652173913043478,CEAGESP – Companhia de Entrepostos e Armazéns Gerais de São Paulo 
+2,2,2016.0,69,5,0.072463768115942,CEAGESP – Companhia de Entrepostos e Armazéns Gerais de São Paulo 
+3,3,2018.0,39,2,0.0512820512820512,CEAGESP – Companhia de Entrepostos e Armazéns Gerais de São Paulo 
+4,4,2019.0,56,3,0.0535714285714285,CEAGESP – Companhia de Entrepostos e Armazéns Gerais de São Paulo 
+5,5,2020.0,53,1,0.0188679245283018,CEAGESP – Companhia de Entrepostos e Armazéns Gerais de São Paulo 
+0,0,2015.0,140,1,0.0071428571428571,EBSERH – sede - Empresa Brasileira de Serviços Hospitalares
+1,1,2016.0,225,3,0.0133333333333333,EBSERH – sede - Empresa Brasileira de Serviços Hospitalares
+2,2,2017.0,299,4,0.0133779264214046,EBSERH – sede - Empresa Brasileira de Serviços Hospitalares
+3,3,2018.0,283,10,0.0353356890459364,EBSERH – sede - Empresa Brasileira de Serviços Hospitalares
+4,4,2020.0,335,7,0.0208955223880597,EBSERH – sede - Empresa Brasileira de Serviços Hospitalares
+0,0,2019.0,43,1,0.0232558139534883,EBSERH - HU-UFPI - Hospital Universitário da Universidade Federal do Piauí
+0,0,2016.0,107,2,0.0186915887850467,UFESBA - Universidade Federal do Sul da Bahia
+1,1,2020.0,160,1,0.00625,UFESBA - Universidade Federal do Sul da Bahia
+2,2,2021.0,125,2,0.016,UFESBA - Universidade Federal do Sul da Bahia
+0,0,2019.0,55,6,0.109090909090909,EBSERH - HUPES-UFBA - Complexo Hospitalar Universitário Professor Edgard Santos
+1,1,2021.0,60,1,0.0166666666666666,EBSERH - HUPES-UFBA - Complexo Hospitalar Universitário Professor Edgard Santos
+0,0,2015.0,72,1,0.0138888888888888,EBSERH - HUB-UNB - Hospital Universitário de Brasília
+1,1,2017.0,73,3,0.0410958904109589,EBSERH - HUB-UNB - Hospital Universitário de Brasília
+2,2,2019.0,65,2,0.0307692307692307,EBSERH - HUB-UNB - Hospital Universitário de Brasília
+3,3,2020.0,99,4,0.0404040404040404,EBSERH - HUB-UNB - Hospital Universitário de Brasília
+4,4,2021.0,39,1,0.0256410256410256,EBSERH - HUB-UNB - Hospital Universitário de Brasília
+0,0,2020.0,53,1,0.0188679245283018,EBSERH - HU-UFGD – Hospital Universitário de Grande Dourados
+0,0,2017.0,137,5,0.0364963503649635,UFOB - Universidade Federal do Oeste da Bahia
+1,1,2018.0,173,3,0.0173410404624277,UFOB - Universidade Federal do Oeste da Bahia
+2,2,2019.0,185,4,0.0216216216216216,UFOB - Universidade Federal do Oeste da Bahia
+3,3,2020.0,209,11,0.0526315789473684,UFOB - Universidade Federal do Oeste da Bahia
+4,4,2021.0,164,2,0.0121951219512195,UFOB - Universidade Federal do Oeste da Bahia
+0,0,2017.0,53,2,0.0377358490566037,EBSERH - HC-UFTM - Hospital das Clínicas da Universidade Federal do Triângulo Mineiro
+1,1,2018.0,29,1,0.0344827586206896,EBSERH - HC-UFTM - Hospital das Clínicas da Universidade Federal do Triângulo Mineiro
+2,2,2019.0,39,1,0.0256410256410256,EBSERH - HC-UFTM - Hospital das Clínicas da Universidade Federal do Triângulo Mineiro
+0,0,2016.0,13,1,0.0769230769230769,EBSERH - HUOL-UFRN - Hospital Universitário Onofre Lopes
+1,1,2017.0,21,1,0.0476190476190476,EBSERH - HUOL-UFRN - Hospital Universitário Onofre Lopes
+2,2,2019.0,42,2,0.0476190476190476,EBSERH - HUOL-UFRN - Hospital Universitário Onofre Lopes
+0,0,2019.0,36,1,0.0277777777777777,EBSERH - HUJM-UFMT – Hospital Universitário Julio Muller
+1,1,2020.0,44,2,0.0454545454545454,EBSERH - HUJM-UFMT – Hospital Universitário Julio Muller
+0,0,2016.0,77,1,0.0129870129870129,UNIFESSPA – Universidade Federal do Sul e Sudeste do Pará
+1,1,2017.0,126,3,0.0238095238095238,UNIFESSPA – Universidade Federal do Sul e Sudeste do Pará
+2,2,2018.0,142,1,0.0070422535211267,UNIFESSPA – Universidade Federal do Sul e Sudeste do Pará
+3,3,2019.0,112,1,0.0089285714285714,UNIFESSPA – Universidade Federal do Sul e Sudeste do Pará
+4,4,2020.0,141,1,0.0070921985815602,UNIFESSPA – Universidade Federal do Sul e Sudeste do Pará
+5,5,2021.0,117,3,0.0256410256410256,UNIFESSPA – Universidade Federal do Sul e Sudeste do Pará
+0,0,2014.0,43,4,0.0930232558139534,"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+1,1,2015.0,153,20,0.130718954248366,"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+2,2,2016.0,144,4,0.0277777777777777,"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+3,3,2017.0,201,2,0.0099502487562189,"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+4,4,2018.0,231,7,0.0303030303030303,"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+5,5,2019.0,244,17,0.0696721311475409,"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+6,6,2020.0,239,6,0.0251046025104602,"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+7,7,2021.0,159,5,0.0314465408805031,"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+0,0,2017.0,21,1,0.0476190476190476,EBSERH - HUGV-UFAM – Hospital Universitário Getúlio Vargas
+1,1,2019.0,37,6,0.1621621621621621,EBSERH - HUGV-UFAM – Hospital Universitário Getúlio Vargas
+2,2,2020.0,69,1,0.0144927536231884,EBSERH - HUGV-UFAM – Hospital Universitário Getúlio Vargas
+0,0,2016.0,11,1,0.0909090909090909,EBSERH – CHU-UFPA (HUJBB e HUBFS) – Complexo Hospitalar Universitário da Universidade Federal do Pará – Hospitais Universitários João de Barros Barreto e Bettina Ferro de Souza
+1,1,2019.0,71,4,0.056338028169014,EBSERH – CHU-UFPA (HUJBB e HUBFS) – Complexo Hospitalar Universitário da Universidade Federal do Pará – Hospitais Universitários João de Barros Barreto e Bettina Ferro de Souza
+0,0,2015.0,32,1,0.03125,EBSERH - HU-UFMA - Hospital Universitário da Universidade Federal do Maranhão
+1,1,2016.0,38,1,0.0263157894736842,EBSERH - HU-UFMA - Hospital Universitário da Universidade Federal do Maranhão
+2,2,2018.0,37,2,0.054054054054054,EBSERH - HU-UFMA - Hospital Universitário da Universidade Federal do Maranhão
+3,3,2019.0,57,2,0.0350877192982456,EBSERH - HU-UFMA - Hospital Universitário da Universidade Federal do Maranhão
+4,4,2020.0,97,1,0.0103092783505154,EBSERH - HU-UFMA - Hospital Universitário da Universidade Federal do Maranhão
+0,0,2017.0,163,17,0.1042944785276073,ABGF - Agencia Brasileira Gestora de Fundos Garantidores e Garantias S.A.
+1,1,2018.0,133,8,0.0601503759398496,ABGF - Agencia Brasileira Gestora de Fundos Garantidores e Garantias S.A.
+2,2,2019.0,133,2,0.0150375939849624,ABGF - Agencia Brasileira Gestora de Fundos Garantidores e Garantias S.A.
+0,0,2015.0,39,1,0.0256410256410256,EBSERH - HC-UFPE - Hospital das Clínicas de Pernambuco
+1,1,2016.0,25,1,0.04,EBSERH - HC-UFPE - Hospital das Clínicas de Pernambuco
+2,2,2018.0,43,2,0.0465116279069767,EBSERH - HC-UFPE - Hospital das Clínicas de Pernambuco
+0,0,2017.0,18,2,0.1111111111111111,EBSERH - HUMAP-UFMS - Hospital Universitário Maria Aparecida Pedrossian
+1,1,2018.0,19,4,0.2105263157894736,EBSERH - HUMAP-UFMS - Hospital Universitário Maria Aparecida Pedrossian
+2,2,2019.0,32,3,0.09375,EBSERH - HUMAP-UFMS - Hospital Universitário Maria Aparecida Pedrossian
+3,3,2020.0,52,1,0.0192307692307692,EBSERH - HUMAP-UFMS - Hospital Universitário Maria Aparecida Pedrossian
+0,0,2019.0,46,4,0.0869565217391304,EBSERH - HULW-UFPB - Hospital Universitário Lauro Wanderley
+1,1,2020.0,61,2,0.0327868852459016,EBSERH - HULW-UFPB - Hospital Universitário Lauro Wanderley
+2,2,2021.0,58,2,0.0344827586206896,EBSERH - HULW-UFPB - Hospital Universitário Lauro Wanderley
+0,0,2017.0,38,1,0.0263157894736842,EBSERH - CHC-UFC (HUWC) - Hospital Universitário Walter Cântídio 
+1,1,2019.0,58,1,0.0172413793103448,EBSERH - CHC-UFC (HUWC) - Hospital Universitário Walter Cântídio 
+2,2,2020.0,94,1,0.0106382978723404,EBSERH - CHC-UFC (HUWC) - Hospital Universitário Walter Cântídio 
+0,0,2019.0,34,1,0.0294117647058823,EBSERH - HUAB-UFRN - Hospital Universitário Ana Bezerra
+1,1,2021.0,18,1,0.0555555555555555,EBSERH - HUAB-UFRN - Hospital Universitário Ana Bezerra
+0,0,2015.0,14,1,0.0714285714285714,EBSERH - HUCAM-UFES - Hospital Universitário Cassiano Antônio Moraes
+1,1,2018.0,81,1,0.0123456790123456,EBSERH - HUCAM-UFES - Hospital Universitário Cassiano Antônio Moraes
+2,2,2019.0,62,3,0.0483870967741935,EBSERH - HUCAM-UFES - Hospital Universitário Cassiano Antônio Moraes
+0,0,2016.0,95,1,0.0105263157894736,UFCA - Universidade Federal do Cariri
+1,1,2017.0,168,1,0.0059523809523809,UFCA - Universidade Federal do Cariri
+2,2,2018.0,151,2,0.0132450331125827,UFCA - Universidade Federal do Cariri
+3,3,2019.0,162,1,0.0061728395061728,UFCA - Universidade Federal do Cariri
+4,4,2020.0,163,1,0.0061349693251533,UFCA - Universidade Federal do Cariri
+5,5,2021.0,143,4,0.0279720279720279,UFCA - Universidade Federal do Cariri
+0,0,2019.0,33,1,0.0303030303030303,EBSERH - MCO-UFBA - Maternidade Climério de Oliveira
+0,0,2017.0,30,1,0.0333333333333333,EBSERH - HU-UFS - Hospital Universitário da Universidade Federal de Sergipe
+1,1,2021.0,37,1,0.027027027027027,EBSERH - HU-UFS - Hospital Universitário da Universidade Federal de Sergipe
+0,0,2016.0,42,1,0.0238095238095238,AMAZUL - Amazônia Azul Tecnologias de Defesa S.A.
+1,1,2017.0,54,1,0.0185185185185185,AMAZUL - Amazônia Azul Tecnologias de Defesa S.A.
+2,2,2019.0,50,2,0.04,AMAZUL - Amazônia Azul Tecnologias de Defesa S.A.
+3,3,2020.0,52,3,0.0576923076923076,AMAZUL - Amazônia Azul Tecnologias de Defesa S.A.
+0,0,2017.0,55,3,0.0545454545454545,EBSERH - HUPAA-UFAL - Hospital Universitário Professor Alberto Antunes
+1,1,2018.0,53,4,0.0754716981132075,EBSERH - HUPAA-UFAL - Hospital Universitário Professor Alberto Antunes
+2,2,2020.0,108,1,0.0092592592592592,EBSERH - HUPAA-UFAL - Hospital Universitário Professor Alberto Antunes
+0,0,2017.0,28,1,0.0357142857142857,EBSERH - HU-UFJF - Hospital Universitário de Juiz de Fora
+1,1,2018.0,23,1,0.0434782608695652,EBSERH - HU-UFJF - Hospital Universitário de Juiz de Fora
+2,2,2020.0,52,1,0.0192307692307692,EBSERH - HU-UFJF - Hospital Universitário de Juiz de Fora
+0,0,2015.0,4,1,0.25,EBSERH - CHC-UFC (MEAC) - Maternidade Escola Assis Chateaubriand
+1,1,2017.0,13,1,0.0769230769230769,EBSERH - CHC-UFC (MEAC) - Maternidade Escola Assis Chateaubriand
+2,2,2019.0,37,2,0.054054054054054,EBSERH - CHC-UFC (MEAC) - Maternidade Escola Assis Chateaubriand
+3,3,2020.0,50,1,0.02,EBSERH - CHC-UFC (MEAC) - Maternidade Escola Assis Chateaubriand
+0,0,2016.0,129,2,0.0155038759689922,EBSERH - HC-UFG - Hospital das Clínicas da Universidade Federal de Goiás
+1,1,2017.0,167,4,0.0239520958083832,EBSERH - HC-UFG - Hospital das Clínicas da Universidade Federal de Goiás
+2,2,2018.0,53,2,0.0377358490566037,EBSERH - HC-UFG - Hospital das Clínicas da Universidade Federal de Goiás
+3,3,2019.0,64,2,0.03125,EBSERH - HC-UFG - Hospital das Clínicas da Universidade Federal de Goiás
+4,4,2020.0,57,1,0.0175438596491228,EBSERH - HC-UFG - Hospital das Clínicas da Universidade Federal de Goiás
+5,5,2021.0,22,1,0.0454545454545454,EBSERH - HC-UFG - Hospital das Clínicas da Universidade Federal de Goiás
+0,0,2017.0,33,1,0.0303030303030303,EBSERH – CHC-UFPR (HC e MVFA) Complexo Hospitalar de Clínicas da Universidade Federal do Paraná
+1,1,2018.0,27,1,0.037037037037037,EBSERH – CHC-UFPR (HC e MVFA) Complexo Hospitalar de Clínicas da Universidade Federal do Paraná
+2,2,2020.0,88,1,0.0113636363636363,EBSERH – CHC-UFPR (HC e MVFA) Complexo Hospitalar de Clínicas da Universidade Federal do Paraná
+0,0,2018.0,43,1,0.0232558139534883,EBSERH - HC-UFMG - Hospital das Clínicas da Universidade Federal de Minas Gerais
+1,1,2019.0,67,2,0.0298507462686567,EBSERH - HC-UFMG - Hospital das Clínicas da Universidade Federal de Minas Gerais
+0,0,2019.0,35,4,0.1142857142857142,EBSERH - HU-FURG - Hospital Universitário Dr. Miguel Riet Côrrea Júnior
+1,1,2020.0,75,3,0.04,EBSERH - HU-FURG - Hospital Universitário Dr. Miguel Riet Côrrea Júnior
+0,0,2019.0,39,1,0.0256410256410256,EBSERH - HU-UFSCAR - Hospital Universitário da Universidade Federal de São Carlos
+1,1,2021.0,20,1,0.05,EBSERH - HU-UFSCAR - Hospital Universitário da Universidade Federal de São Carlos
+0,0,2017.0,21,1,0.0476190476190476,EBSERH - HUSM-UFSM - Hospital Universitário de Santa Maria
+1,1,2019.0,36,2,0.0555555555555555,EBSERH - HUSM-UFSM - Hospital Universitário de Santa Maria
+2,2,2020.0,49,2,0.0408163265306122,EBSERH - HUSM-UFSM - Hospital Universitário de Santa Maria
+3,3,2021.0,32,4,0.125,EBSERH - HUSM-UFSM - Hospital Universitário de Santa Maria
+0,0,2017.0,23,1,0.0434782608695652,EBSERH - HE-UFPEL - Hospital Escola da Universidade Federal de Pelotas
+1,1,2018.0,15,1,0.0666666666666666,EBSERH - HE-UFPEL - Hospital Escola da Universidade Federal de Pelotas
+2,2,2019.0,41,2,0.048780487804878,EBSERH - HE-UFPEL - Hospital Escola da Universidade Federal de Pelotas
+0,0,2019.0,62,3,0.0483870967741935,EBSERH - HUL-UFS - Hospital Regional de Lagarto
+0,0,2018.0,19,4,0.2105263157894736,Pré-Sal Petróleo S.A - Empresa Brasileira de Administração de Petróleo e Gás Natural S.A.
+1,1,2019.0,32,2,0.0625,Pré-Sal Petróleo S.A - Empresa Brasileira de Administração de Petróleo e Gás Natural S.A.
+2,2,2021.0,18,1,0.0555555555555555,Pré-Sal Petróleo S.A - Empresa Brasileira de Administração de Petróleo e Gás Natural S.A.
+0,0,2018.0,239,22,0.0920502092050209,TRANSPETRO - Petrobras Transporte S.A
+1,1,2019.0,1193,471,0.3948030176026823,TRANSPETRO - Petrobras Transporte S.A
+2,2,2020.0,586,44,0.0750853242320819,TRANSPETRO - Petrobras Transporte S.A
+3,3,2021.0,308,23,0.0746753246753246,TRANSPETRO - Petrobras Transporte S.A
+0,0,2019.0,37,4,0.1081081081081081,Liquigás Distribuidora S.A.
+1,1,2020.0,47,2,0.0425531914893617,Liquigás Distribuidora S.A.
+0,0,2021.0,48,2,0.0416666666666666,EBSERH - HUAP-UFF - Hospital Universitário Antônio Pedro
+0,0,2020.0,65,1,0.0153846153846153,EBSERH - HUAC-UFCG - Hospital Universitário Alcides Carneiro
+1,1,2021.0,54,1,0.0185185185185185,EBSERH - HUAC-UFCG - Hospital Universitário Alcides Carneiro
+0,0,2021.0,498,17,0.0341365461847389,MCOM - Ministério das Comunicações
+0,0,2021.0,20,1,0.05,FUNPRESP  - Fundação de Previdência Complementar do Servidor Público Federal do Poder Executivo
+0,0,2021.0,96,15,0.15625,ANPD - Autoridade Nacional de Proteção de Dados
+0,0,2021.0,55,2,0.0363636363636363,Transportadora Brasileira Gasoduto Bolívia-Brasil S.A.
+0,0,2021.0,45,2,0.0444444444444444,Petrobras Gás S.A.
+0,0,2021.0,5,2,0.4,TERMOMACAÉ S.A.
+0,0,2021.0,21,5,0.238095238095238,Petrobras Biocombustível S.A.
+0,0,2021.0,31,1,0.032258064516129,UFCAT - Universidade Federal de Catalão
+0,0,2021.0,60,12,0.2,COAF - Conselho de Controle de Atividades Financeiras
