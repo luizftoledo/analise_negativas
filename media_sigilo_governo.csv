@@ -1,0 +1,162 @@
+nome_do_orgao,med_dilma,med_dilma_e_temer,med_bolsonaro
+AGU – Advocacia-Geral da União,0.022959106452105665,0.015234024377963699,0.02448329092951983
+AN – Arquivo Nacional,,,
+ANA – Agência Nacional de Águas,,,
+ANAC – Agência Nacional de Aviação Civil,0.02701359482910733,0.024681434079781434,0.020258013994200335
+ANATEL – Agência Nacional de Telecomunicações,0.0026055310687088666,0.0054794499323327995,0.021540431350867098
+ANCINE – Agência Nacional do Cinema,0.0511720378387045,0.02151270629531493,0.1089913936282651
+ANEEL – Agência Nacional de Energia Elétrica,0.014848568227228567,0.05476255402396999,0.08900217020837274
+ANM - Agência Nacional de Mineração,0.05522555574256366,0.08692527465542754,0.03737961869094783
+"ANP – Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",0.14371563720471692,0.16784108149445556,0.16737063293443274
+ANS – Agência Nacional de Saúde Suplementar,0.015255211447810202,0.03796491513630667,0.05912524251067397
+ANTAQ – Agência Nacional de Transportes Aquaviários,0.0640985473385944,0.1128000199783266,0.13623715537331035
+ANTT – Agência Nacional de Transportes Terrestres,0.022233409702521103,0.07277437267183044,0.04464483219755927
+ANVISA – Agência Nacional de Vigilância Sanitária,0.015009097423114267,0.0511801761619927,0.07162182640790571
+Autoridade Portuária de Santos S.A.,,0.0076967113135234,0.0893148707929111
+BACEN – Banco Central do Brasil,0.3626675100739359,0.021107524247647766,0.028302797194335667
+BASA – Banco da Amazônia S.A.,0.04051904666932587,0.12491173897380474,0.11621987810436336
+BB – Banco do Brasil S.A.,0.37882331004974706,0.12989524533166835,0.20267085560965614
+BNB – Banco do Nordeste do Brasil S.A.,0.10920520916832337,0.12987082160615768,0.20215985840788034
+BNDES – Banco Nacional de Desenvolvimento Econômico e Social,0.18861921878744306,0.08161747258121037,0.06765937834359687
+CADE – Conselho Administrativo de Defesa Econômica,,0.024371807119715334,0.0468064316635745
+CAPES – Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,0.013197017036654435,0.02840361189198393,0.03409308645661666
+CBTU – Companhia Brasileira de Trens Urbanos ,,,0.028101023017902765
+CC-PR – Casa Civil da Presidência da República,0.0197886125403371,,0.0338868015079097
+CDP – Companhia Docas do Pará,,,
+CEF – Caixa Econômica Federal,0.36343839691010293,0.27369680680455466,0.07420476140674227
+CEX – Comando do Exército,0.0569721967859404,0.11122057747251496,0.07455275031895367
+CGU – Controladoria-Geral da União,0.0617884765671922,0.07068018640652203,0.0863311848816638
+CMAR – Comando da Marinha,0.09915309260111925,0.04380161480736287,0.0973386726734242
+CMB – Casa da Moeda do Brasil,0.10104792726151947,0.0630363075361739,0.07081691274140196
+CNPQ – Conselho Nacional de Desenvolvimento Científico e Tecnológico,,0.013044588061731166,0.032523458888597596
+COMAER – Comando da Aeronáutica,0.07686072504013296,0.07598151463385511,0.1310245990098663
+CONAB – Companhia Nacional de Abastecimento,,,0.04729424914531686
+CVM – Comissão de Valores Mobiliários,0.08090740352046878,0.16768206974392538,0.1291272396188989
+DATAPREV – Empresa de Tecnologia e Informações da Previdência,0.018128524430284,0.015557401942526366,0.0298742131224002
+DEPEN – Departamento Penitenciário Nacional,0.07908149198471777,,0.06470533222779686
+DNIT – Departamento Nacional de Infraestrutura de Transportes,,,
+DPF – Departamento de Polícia Federal,0.18153322173059858,0.2242914852847833,0.1535285496228608
+DPRF – Departamento de Polícia Rodoviária Federal,0.054904587108009766,0.062182089782416905,0.07219004884651446
+DPU – Defensoria Pública da União,,,
+EBC – Empresa Brasil de Comunicação S.A.,,0.03191797309444367,
+EBSERH – sede - Empresa Brasileira de Serviços Hospitalares,,,
+ECT – Empresa Brasileira de Correios e Telégrafos,0.041698541334323526,0.06751738420516885,0.12982386324986853
+ELETROBRÁS – Centrais Elétricas Brasileiras S.A.,0.02337791846153353,0.030457032080895733,0.08351370400399073
+EMBRAPA – Empresa Brasileira de Pesquisa Agropecuária,0.04410464087883437,0.009475157394813001,0.0267288731618818
+EPE – Empresa de Pesquisa Energética,,0.06840830113555092,0.1125494835006713
+FINEP – Financiadora de Estudos e Projetos,0.0613192556900859,0.024967146357647768,0.0607001150439364
+FIOCRUZ – Fundação Oswaldo Cruz,0.0366453924295161,0.04753709546069543,0.15300844639032263
+FNDE – Fundo Nacional de Desenvolvimento da Educação,0.004735164522115967,0.010642456890275332,0.010866791294151733
+FUNAI – Fundação Nacional do Índio,0.026638147327802467,0.012976677801876701,0.03349626334502246
+FUNASA – Fundação Nacional de Saúde,,,0.03923250230539616
+FUNRei - Fundação Universidade Federal de São João Del Rei,,,0.014131009857505566
+GSI-PR – Gabinete de Segurança Institucional da Presidência da República,0.19382465629930132,0.3159412869090288,0.3325975776826657
+IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis,0.0021269905850465,,0.015370108669308333
+IBGE – Fundação Instituto Brasileiro de Geografia e Estatística,0.012695035079939798,0.03812562262352487,0.07364330716143286
+ICMBio – Instituto Chico Mendes de Conservação da Biodiversidade,,,0.016401481139817
+"IF BAIANO – Instituto Federal de Educação, Ciência e Tecnologia Baiano",,,
+"IF GOIANO – Instituto Federal de Educação, Ciência e Tecnologia Goiano",,,0.055921337999810895
+"IFAL – Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",0.0477751369908232,0.014733165031339299,
+"IFAM – Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",0.032789776921380805,,
+"IFAP – Instituto Federal de Educação, Ciência e Tecnologia do Amapá",,,
+"IFB – Instituto Federal de Educação, Ciência e Tecnologia de Brasília",,0.008161757697073667,0.011802506839727667
+"IFBA – Instituto Federal de Educação, Ciência e Tecnologia da Bahia",,,
+"IFC – Instituto Federal de Educação, Ciência e Tecnologia Catarinense",,0.012966615530718067,0.03219993044790884
+"IFCE – Instituto Federal de Educação, Ciência e Tecnologia do Ceará",0.011986694780936466,0.0087105215966417,
+"IFES – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",,,0.007903189577717833
+"IFG – Instituto Federal de Educação, Ciência e Tecnologia de Goiás",,0.007397681809213134,0.008398689672097866
+"IFMA – Instituto Federal de Educação, Ciência e Tecnologia do Maranhão",,,0.0312953330194709
+"IFMG – Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",,,
+"IFMGSE – Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais",,,0.009650442276981199
+"IFMT – Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso",,,0.054869210288507574
+"IFPA – Instituto Federal de Educação, Ciência e Tecnologia do Pará",,,0.01864154998509523
+"IFPB – Instituto Federal de Educação, Ciência e Tecnologia da Paraíba",,,0.021366978191084064
+"IFPE – Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",,,
+"IFPI – Instituto Federal de Educação, Ciência e Tecnologia do Piauí",,,
+"IFPR – Instituto Federal de Educação, Ciência e Tecnologia do Paraná",0.03230936819172107,0.019717615458752034,0.017064047905169365
+"IFRJ – Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",,,
+"IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",,0.03045841992711057,0.019631720517204833
+"IFRS – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",,,0.0451838141684783
+"IFS – Instituto Federal de Educação, Ciência e Tecnologia de Sergipe",,,
+"IFSC – Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",,0.025551067907995568,0.04208823028444897
+"IFSP – Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",,0.007567258273814967,0.01694821781028673
+INCRA – Instituto Nacional de Colonização e Reforma Agrária,0.0039509535961094995,0.0369663449899496,0.044184491949674436
+INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira,0.006078518618711867,0.022294276675614802,0.027860712876480134
+INFRAERO – Empresa Brasileira de Infra-Estrutura Aeroportuária,0.014793566458088733,0.024955282059029364,0.034552287581699336
+"INMETRO – Instituto Nacional de Metrologia, Qualidade e Tecnologia",,0.011388522669010465,0.004221605313685599
+INPI – Instituto Nacional da Propriedade Industrial,,,0.012193049960941933
+INSS – Instituto Nacional do Seguro Social,0.302434832337243,0.25310325936689887,0.0759207571209132
+IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional,,0.008381078722027,0.011666213161913732
+ITI – Instituto Nacional de Tecnologia da Informação,,,
+"MAPA – Ministério da Agricultura, Pecuária e Abastecimento",0.010779274479477135,0.0164541229369053,0.048573501352080904
+MCIDADANIA - Ministério da Cidadania (Desenvolvimento Social e Esporte),0.0062558295674468335,0.0095145589426002,0.0033769189515950333
+"MCTI – Ministério da Ciência, Tecnologia, Inovações",0.025000788191613468,0.018597679729836735,0.059965533582320235
+MD – Ministério da Defesa,0.027869778857291794,0.0469463573177262,0.044979368108624435
+MDR - Ministério do Desenvolvimento Regional,0.008333319250458868,0.0238816316797904,0.006738489733149766
+ME - Ministério da Economia,0.06760064396084826,0.0478972180277503,0.10314287240131503
+MEC – Ministério da Educação,0.0013443299597026665,0.004890432506712666,0.013054498623917733
+MINFRA - Ministério da Infraestrutura,0.03019762677939127,0.03238268305032633,0.07584566958729473
+MJSP – Ministério da Justiça e Segurança Pública,0.005395412015137567,0.006271693456919067,0.05148527101314294
+MMA – Ministério do Meio Ambiente,0.013426478024866732,,0.010442503024038867
+MME – Ministério de Minas e Energia,0.07924203273040477,0.1230855637680468,0.14861243180668646
+"MMFDH – Ministério da Mulher, da Família e dos Direitos Humanos",0.010427374859059535,0.011168355848352934,0.01649949940395697
+MRE – Ministério das Relações Exteriores,0.04769485129680817,0.07710057133724686,0.06829827385586856
+MS – Ministério da Saúde,0.036153539302198896,0.0435439534287849,0.048258610111591806
+MTur - Ministério do Turismo (Turismo e Cultura),0.005499177735441567,,0.009569010653416367
+PETROBRAS – Petróleo Brasileiro S.A.,0.14020640396911752,0.06785622897514794,0.07299546972667097
+PREVIC – Superintendência Nacional de Previdência Complementar,0.08002417703910233,0.048017611444097365,0.04790463373064354
+SERPRO – Serviço Federal de Processamento de Dados,0.037229008320692064,0.0415204678362573,0.11707775905698407
+SGPR – Secretaria-Geral da Presidência da República,0.012670878415518666,0.0314243008538942,0.0464264493787783
+SUSEP – Superintendência de Seguros Privados,0.0044134544490601335,0.005887264507982067,0.005175918015973866
+TRANSPETRO - Petrobras Transporte S.A,,,0.07855139223988794
+UFABC – Fundação Universidade Federal do ABC,,0.033708691081448534,0.0415985854968093
+UFAC – Fundação Universidade Federal do Acre,,,
+UFAL – Universidade Federal de Alagoas,,0.007248111212789499,0.024698481929532334
+UFAM – Fundação Universidade do Amazonas,,,0.016997718191263802
+UFBA – Universidade Federal da Bahia,,0.012730508725960266,0.012556466536730133
+UFC – Universidade Federal do Ceará,,0.0202003669355028,0.0274004527231935
+UFCG – Universidade Federal de Campina Grande,,,0.004218740628730367
+UFERSA-RN – Universidade Federal Rural do Semi-Árido,0.0422263450834879,,
+UFES – Universidade Federal do Espírito Santo,,0.008684028912861833,0.024038461538461498
+UFF – Universidade Federal Fluminense,0.014800429507919865,0.008340039834645267,0.07268117394629187
+UFG – Universidade Federal de Goiás,,,0.022568331344757265
+UFJF – Universidade Federal de Juiz de Fora,0.010761326402827067,0.010505865357839,0.0136905091256886
+UFLA – Universidade Federal de Lavras,,0.03390772067454507,0.03804410034445487
+UFMA – Fundação Universidade Federal do Maranhão,0.020799512987012932,,0.0038485169142496666
+UFMG – Universidade Federal de Minas Gerais,0.02871810127026817,0.0159650830623948,0.015299820679334301
+UFMS – Fundação Universidade Federal de Mato Grosso do Sul,0.0375063128227685,,0.026343365629079865
+UFMT – Fundação Universidade Federal de Mato Grosso,,0.009558282777046333,0.0163692765322581
+UFOP – Fundação Universidade Federal de Ouro Preto,,0.0178210654137383,0.027281922730171267
+UFOPA – Universidade Federal do Oeste do Pará,,,
+UFPA – Universidade Federal do Pará,,,
+UFPB – Universidade Federal da Paraíba,0.022233958043944197,0.010787863086861233,0.017408606088767365
+UFPE – Universidade Federal de Pernambuco,0.023560128782637867,0.0195037860041197,0.017520714010870398
+UFPI – Fundação Universidade Federal do Piauí,,,
+UFPR – Universidade Federal do Paraná,0.0362722867436319,0.018441386594152266,0.020052511336170167
+UFPel – Fundação Universidade Federal de Pelotas,0.02027794840294837,,0.023733288394562364
+UFRA – Universidade Federal Rural da Amazônia,,0.0114463408132347,
+UFRB – Universidade Federal do Recôncavo da Bahia,,0.015031265031264965,0.0183059754691464
+UFRGS – Universidade Federal do Rio Grande do Sul,0.029022915293945333,,0.03472025514325577
+UFRJ – Universidade Federal do Rio de Janeiro,,0.011376821232089933,0.049950597192583164
+UFRN – Universidade Federal do Rio Grande do Norte,,0.005959540732640767,0.013893577445621369
+UFRPE – Universidade Federal Rural de Pernambuco,,,
+UFRRJ – Universidade Federal Rural do Rio de Janeiro,,,
+UFS – Fundação Universidade Federal de Sergipe,,,0.007757980372202867
+UFSC – Universidade Federal de Santa Catarina,0.015138576252913566,0.018456035689268267,0.029999671783298865
+UFSCar – Fundação Universidade Federal de São Carlos,,0.019149299953340734,0.013792236985878567
+UFSM – Universidade Federal de Santa Maria,,0.009442581172538933,0.012149518013555335
+UFT – Fundação Universidade Federal do Tocantins,,,
+UFTM – Universidade Federal do Triângulo Mineiro,,0.008282354093678,
+UFU – Universidade Federal de Uberlândia,0.027328676164935835,0.014246405014769833,0.02830831477890297
+UFV – Fundação Universidade Federal de Viçosa,,,0.012217656997954601
+UFVJM – Universidade Federal dos Vales do Jequitinhonha e Mucuri,,0.011776811884558633,0.022754733833511936
+UNB – Fundação Universidade de Brasília,0.034165975932251465,0.025584349227771863,0.04035916198498684
+UNIFAP – Fundação Universidade Federal do Amapá,,,
+UNIFESP – Universidade Federal de São Paulo,,,0.04772988623296104
+UNILAB – Universidade da Integração Internacional da Lusofonia Afro-Brasileira,,,
+UNIPAMPA – Fundação Universidade Federal do Pampa,,,
+UNIR – Fundação Universidade Federal de Rondônia,,,0.020972887609143565
+UNIRIO – Universidade Federal do Estado do Rio de Janeiro,,,0.006710882898302632
+UNIVASF – Fundação Universidade Federal do Vale do São Francisco,,,
+UTFPR – Universidade Tecnológica Federal do Paraná,,0.01989453120726267,0.019425199703780066
+"VALEC – Engenharia, Construções e Ferrovias S.A.",0.15581074116500676,,
